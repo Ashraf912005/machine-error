@@ -1,0 +1,2001 @@
+ErrorID,ErrorType,Location,Date,Time,Solution
+E2000,Oil Leakage,Gear Box,2025-01-05,02:27:48,Replaced oil seal
+E2001,Jammed Component,Conveyor Belt Section C,2025-01-04,16:08:38,Cleared obstruction
+E2002,Jammed Component,Conveyor Belt Section C,2025-01-05,20:24:15,Cleared obstruction
+E2003,Overload Detected,Motor Section,2025-01-04,13:03:29,Reduced machine load
+E2004,Oil Leakage,Gear Box,2025-01-01,11:11:26,Replaced oil seal
+E2005,Alignment Issue,Conveyor Belt Section A,2025-01-04,04:01:00,Re-aligned conveyor belt
+E2006,Communication Error,PLC Controller,2025-01-02,22:58:44,"Reset PLC, updated firmware"
+E2007,Low Pressure,Hydraulic Pump,2025-01-02,19:08:50,Adjusted pressure valve
+E2008,Low Pressure,Hydraulic Pump,2025-01-02,14:19:05,Adjusted pressure valve
+E2009,Jammed Component,Conveyor Belt Section C,2025-01-04,07:43:36,Cleared obstruction
+E2010,Sensor Failure,Temperature Sensor T1,2025-01-02,13:15:10,Replaced faulty sensor
+E2011,Low Pressure,Hydraulic Pump,2025-01-05,08:03:34,Adjusted pressure valve
+E2012,Oil Leakage,Gear Box,2025-01-05,17:47:04,Replaced oil seal
+E2013,Overload Detected,Motor Section,2025-01-03,20:44:26,Reduced machine load
+E2014,High Temperature,Cooling System,2025-01-05,19:01:16,Refilled coolant
+E2015,Overload Detected,Motor Section,2025-01-04,07:20:39,Reduced machine load
+E2016,Communication Error,PLC Controller,2025-01-02,06:10:00,"Reset PLC, updated firmware"
+E2017,Sensor Failure,Temperature Sensor T1,2025-01-01,16:33:18,Replaced faulty sensor
+E2018,High Temperature,Cooling System,2025-01-05,08:40:28,Refilled coolant
+E2019,Oil Leakage,Gear Box,2025-01-03,15:43:20,Replaced oil seal
+E2020,Overload Detected,Motor Section,2025-01-02,06:10:03,Reduced machine load
+E2021,Overheating,Motor Section,2025-01-04,05:21:47,"Cooled fan, checked lubrication"
+E2022,Communication Error,PLC Controller,2025-01-04,07:29:32,"Reset PLC, updated firmware"
+E2023,Alignment Issue,Conveyor Belt Section A,2025-01-01,21:04:09,Re-aligned conveyor belt
+E2024,Overheating,Motor Section,2025-01-01,08:14:32,"Cooled fan, checked lubrication"
+E2025,Jammed Component,Conveyor Belt Section C,2025-01-04,21:33:57,Cleared obstruction
+E2026,Overload Detected,Motor Section,2025-01-04,08:47:41,Reduced machine load
+E2027,Overheating,Motor Section,2025-01-05,16:27:20,"Cooled fan, checked lubrication"
+E2028,Alignment Issue,Conveyor Belt Section A,2025-01-05,18:03:11,Re-aligned conveyor belt
+E2029,High Temperature,Cooling System,2025-01-01,23:32:06,Refilled coolant
+E2030,Jammed Component,Conveyor Belt Section C,2025-01-04,10:34:35,Cleared obstruction
+E2031,Overload Detected,Motor Section,2025-01-02,21:07:50,Reduced machine load
+E2032,Sensor Failure,Temperature Sensor T1,2025-01-04,07:35:29,Replaced faulty sensor
+E2033,Voltage Fluctuation,Control Panel,2025-01-05,01:47:24,Stabilized power input
+E2034,High Temperature,Cooling System,2025-01-05,18:25:12,Refilled coolant
+E2035,Low Pressure,Hydraulic Pump,2025-01-02,20:54:42,Adjusted pressure valve
+E2036,Jammed Component,Conveyor Belt Section C,2025-01-01,10:33:37,Cleared obstruction
+E2037,Sensor Failure,Temperature Sensor T1,2025-01-04,08:06:17,Replaced faulty sensor
+E2038,Overload Detected,Motor Section,2025-01-02,10:59:14,Reduced machine load
+E2039,Overheating,Motor Section,2025-01-03,21:39:44,"Cooled fan, checked lubrication"
+E2040,Sensor Failure,Temperature Sensor T1,2025-01-01,09:18:29,Replaced faulty sensor
+E2041,Oil Leakage,Gear Box,2025-01-04,09:18:58,Replaced oil seal
+E2042,Alignment Issue,Conveyor Belt Section A,2025-01-03,05:43:13,Re-aligned conveyor belt
+E2043,Oil Leakage,Gear Box,2025-01-02,11:58:11,Replaced oil seal
+E2044,Voltage Fluctuation,Control Panel,2025-01-05,11:40:40,Stabilized power input
+E2045,Communication Error,PLC Controller,2025-01-03,02:03:11,"Reset PLC, updated firmware"
+E2046,Overload Detected,Motor Section,2025-01-01,10:37:13,Reduced machine load
+E2047,Sensor Failure,Temperature Sensor T1,2025-01-03,10:55:59,Replaced faulty sensor
+E2048,Overheating,Motor Section,2025-01-03,13:00:18,"Cooled fan, checked lubrication"
+E2049,Low Pressure,Hydraulic Pump,2025-01-04,18:09:09,Adjusted pressure valve
+E2050,Alignment Issue,Conveyor Belt Section A,2025-01-03,16:32:25,Re-aligned conveyor belt
+E2051,Communication Error,PLC Controller,2025-01-04,18:33:53,"Reset PLC, updated firmware"
+E2052,High Temperature,Cooling System,2025-01-01,11:40:39,Refilled coolant
+E2053,Communication Error,PLC Controller,2025-01-03,11:50:52,"Reset PLC, updated firmware"
+E2054,High Temperature,Cooling System,2025-01-02,19:30:43,Refilled coolant
+E2055,Alignment Issue,Conveyor Belt Section A,2025-01-03,20:12:27,Re-aligned conveyor belt
+E2056,Low Pressure,Hydraulic Pump,2025-01-04,18:55:39,Adjusted pressure valve
+E2057,Overheating,Motor Section,2025-01-03,12:28:10,"Cooled fan, checked lubrication"
+E2058,Low Pressure,Hydraulic Pump,2025-01-03,03:34:17,Adjusted pressure valve
+E2059,Overload Detected,Motor Section,2025-01-02,03:03:12,Reduced machine load
+E2060,Alignment Issue,Conveyor Belt Section A,2025-01-02,09:04:42,Re-aligned conveyor belt
+E2061,Alignment Issue,Conveyor Belt Section A,2025-01-03,22:36:39,Re-aligned conveyor belt
+E2062,Overheating,Motor Section,2025-01-02,11:41:25,"Cooled fan, checked lubrication"
+E2063,Low Pressure,Hydraulic Pump,2025-01-04,19:54:35,Adjusted pressure valve
+E2064,Overheating,Motor Section,2025-01-03,00:41:02,"Cooled fan, checked lubrication"
+E2065,Oil Leakage,Gear Box,2025-01-04,01:47:14,Replaced oil seal
+E2066,High Temperature,Cooling System,2025-01-03,01:49:05,Refilled coolant
+E2067,Overheating,Motor Section,2025-01-04,14:31:51,"Cooled fan, checked lubrication"
+E2068,Jammed Component,Conveyor Belt Section C,2025-01-04,05:22:29,Cleared obstruction
+E2069,Low Pressure,Hydraulic Pump,2025-01-04,17:36:14,Adjusted pressure valve
+E2070,Voltage Fluctuation,Control Panel,2025-01-01,23:46:25,Stabilized power input
+E2071,Jammed Component,Conveyor Belt Section C,2025-01-03,19:50:52,Cleared obstruction
+E2072,Low Pressure,Hydraulic Pump,2025-01-02,15:10:34,Adjusted pressure valve
+E2073,Jammed Component,Conveyor Belt Section C,2025-01-04,07:24:38,Cleared obstruction
+E2074,Overload Detected,Motor Section,2025-01-04,00:56:23,Reduced machine load
+E2075,Jammed Component,Conveyor Belt Section C,2025-01-05,05:36:42,Cleared obstruction
+E2076,Oil Leakage,Gear Box,2025-01-04,01:28:49,Replaced oil seal
+E2077,Voltage Fluctuation,Control Panel,2025-01-04,21:05:45,Stabilized power input
+E2078,Communication Error,PLC Controller,2025-01-01,08:07:41,"Reset PLC, updated firmware"
+E2079,Low Pressure,Hydraulic Pump,2025-01-02,10:10:35,Adjusted pressure valve
+E2080,Voltage Fluctuation,Control Panel,2025-01-02,07:46:26,Stabilized power input
+E2081,Communication Error,PLC Controller,2025-01-04,20:17:23,"Reset PLC, updated firmware"
+E2082,Overload Detected,Motor Section,2025-01-01,23:41:18,Reduced machine load
+E2083,Alignment Issue,Conveyor Belt Section A,2025-01-04,05:44:43,Re-aligned conveyor belt
+E2084,High Temperature,Cooling System,2025-01-03,03:48:36,Refilled coolant
+E2085,Sensor Failure,Temperature Sensor T1,2025-01-02,03:58:22,Replaced faulty sensor
+E2086,Low Pressure,Hydraulic Pump,2025-01-02,23:57:33,Adjusted pressure valve
+E2087,High Temperature,Cooling System,2025-01-01,10:03:02,Refilled coolant
+E2088,Sensor Failure,Temperature Sensor T1,2025-01-03,08:15:25,Replaced faulty sensor
+E2089,Communication Error,PLC Controller,2025-01-05,19:35:54,"Reset PLC, updated firmware"
+E2090,Low Pressure,Hydraulic Pump,2025-01-05,01:41:13,Adjusted pressure valve
+E2091,Overload Detected,Motor Section,2025-01-04,11:30:57,Reduced machine load
+E2092,Low Pressure,Hydraulic Pump,2025-01-01,10:24:12,Adjusted pressure valve
+E2093,Overload Detected,Motor Section,2025-01-01,17:25:49,Reduced machine load
+E2094,Alignment Issue,Conveyor Belt Section A,2025-01-02,07:30:13,Re-aligned conveyor belt
+E2095,Sensor Failure,Temperature Sensor T1,2025-01-04,20:18:12,Replaced faulty sensor
+E2096,Overload Detected,Motor Section,2025-01-05,00:06:53,Reduced machine load
+E2097,Oil Leakage,Gear Box,2025-01-02,00:12:01,Replaced oil seal
+E2098,Alignment Issue,Conveyor Belt Section A,2025-01-03,16:46:19,Re-aligned conveyor belt
+E2099,Overload Detected,Motor Section,2025-01-01,13:57:10,Reduced machine load
+E2100,Alignment Issue,Conveyor Belt Section A,2025-01-04,05:45:08,Re-aligned conveyor belt
+E2101,Overload Detected,Motor Section,2025-01-05,12:16:18,Reduced machine load
+E2102,High Temperature,Cooling System,2025-01-04,10:43:59,Refilled coolant
+E2103,Alignment Issue,Conveyor Belt Section A,2025-01-01,12:36:54,Re-aligned conveyor belt
+E2104,Alignment Issue,Conveyor Belt Section A,2025-01-04,06:42:21,Re-aligned conveyor belt
+E2105,Overload Detected,Motor Section,2025-01-01,18:12:29,Reduced machine load
+E2106,Oil Leakage,Gear Box,2025-01-03,16:20:40,Replaced oil seal
+E2107,Alignment Issue,Conveyor Belt Section A,2025-01-03,07:49:47,Re-aligned conveyor belt
+E2108,Alignment Issue,Conveyor Belt Section A,2025-01-04,14:49:18,Re-aligned conveyor belt
+E2109,Alignment Issue,Conveyor Belt Section A,2025-01-05,09:57:33,Re-aligned conveyor belt
+E2110,Sensor Failure,Temperature Sensor T1,2025-01-05,00:04:30,Replaced faulty sensor
+E2111,Overheating,Motor Section,2025-01-04,14:15:52,"Cooled fan, checked lubrication"
+E2112,Voltage Fluctuation,Control Panel,2025-01-03,20:32:20,Stabilized power input
+E2113,Jammed Component,Conveyor Belt Section C,2025-01-02,18:12:50,Cleared obstruction
+E2114,Communication Error,PLC Controller,2025-01-02,13:04:54,"Reset PLC, updated firmware"
+E2115,Voltage Fluctuation,Control Panel,2025-01-04,20:03:53,Stabilized power input
+E2116,Alignment Issue,Conveyor Belt Section A,2025-01-04,18:21:18,Re-aligned conveyor belt
+E2117,Overheating,Motor Section,2025-01-03,03:25:46,"Cooled fan, checked lubrication"
+E2118,Sensor Failure,Temperature Sensor T1,2025-01-02,16:06:03,Replaced faulty sensor
+E2119,High Temperature,Cooling System,2025-01-01,16:19:47,Refilled coolant
+E2120,Overload Detected,Motor Section,2025-01-02,20:57:33,Reduced machine load
+E2121,Communication Error,PLC Controller,2025-01-04,06:19:16,"Reset PLC, updated firmware"
+E2122,Jammed Component,Conveyor Belt Section C,2025-01-04,10:25:07,Cleared obstruction
+E2123,Oil Leakage,Gear Box,2025-01-02,15:43:51,Replaced oil seal
+E2124,Low Pressure,Hydraulic Pump,2025-01-03,00:32:19,Adjusted pressure valve
+E2125,Low Pressure,Hydraulic Pump,2025-01-05,14:22:34,Adjusted pressure valve
+E2126,Voltage Fluctuation,Control Panel,2025-01-04,02:00:48,Stabilized power input
+E2127,Voltage Fluctuation,Control Panel,2025-01-01,19:51:17,Stabilized power input
+E2128,Overload Detected,Motor Section,2025-01-01,15:04:04,Reduced machine load
+E2129,Overload Detected,Motor Section,2025-01-02,05:41:47,Reduced machine load
+E2130,Jammed Component,Conveyor Belt Section C,2025-01-03,02:11:55,Cleared obstruction
+E2131,High Temperature,Cooling System,2025-01-04,07:54:29,Refilled coolant
+E2132,Alignment Issue,Conveyor Belt Section A,2025-01-04,08:24:50,Re-aligned conveyor belt
+E2133,Overload Detected,Motor Section,2025-01-03,11:57:17,Reduced machine load
+E2134,Sensor Failure,Temperature Sensor T1,2025-01-03,03:04:44,Replaced faulty sensor
+E2135,Communication Error,PLC Controller,2025-01-04,16:25:47,"Reset PLC, updated firmware"
+E2136,Low Pressure,Hydraulic Pump,2025-01-04,16:33:52,Adjusted pressure valve
+E2137,Voltage Fluctuation,Control Panel,2025-01-05,06:07:45,Stabilized power input
+E2138,Jammed Component,Conveyor Belt Section C,2025-01-05,10:06:38,Cleared obstruction
+E2139,Oil Leakage,Gear Box,2025-01-05,05:01:33,Replaced oil seal
+E2140,Communication Error,PLC Controller,2025-01-03,20:22:44,"Reset PLC, updated firmware"
+E2141,Alignment Issue,Conveyor Belt Section A,2025-01-03,09:11:18,Re-aligned conveyor belt
+E2142,Jammed Component,Conveyor Belt Section C,2025-01-05,22:23:16,Cleared obstruction
+E2143,Alignment Issue,Conveyor Belt Section A,2025-01-04,10:36:45,Re-aligned conveyor belt
+E2144,Oil Leakage,Gear Box,2025-01-01,17:37:26,Replaced oil seal
+E2145,Communication Error,PLC Controller,2025-01-04,05:55:15,"Reset PLC, updated firmware"
+E2146,Overload Detected,Motor Section,2025-01-01,12:30:36,Reduced machine load
+E2147,High Temperature,Cooling System,2025-01-02,19:09:25,Refilled coolant
+E2148,Voltage Fluctuation,Control Panel,2025-01-02,20:33:24,Stabilized power input
+E2149,Oil Leakage,Gear Box,2025-01-01,09:28:29,Replaced oil seal
+E2150,Alignment Issue,Conveyor Belt Section A,2025-01-05,03:21:00,Re-aligned conveyor belt
+E2151,Jammed Component,Conveyor Belt Section C,2025-01-03,22:21:59,Cleared obstruction
+E2152,Low Pressure,Hydraulic Pump,2025-01-02,18:59:21,Adjusted pressure valve
+E2153,Sensor Failure,Temperature Sensor T1,2025-01-05,10:21:32,Replaced faulty sensor
+E2154,Overload Detected,Motor Section,2025-01-03,06:28:21,Reduced machine load
+E2155,Alignment Issue,Conveyor Belt Section A,2025-01-05,00:55:24,Re-aligned conveyor belt
+E2156,Overheating,Motor Section,2025-01-02,10:38:53,"Cooled fan, checked lubrication"
+E2157,Oil Leakage,Gear Box,2025-01-04,14:52:48,Replaced oil seal
+E2158,Sensor Failure,Temperature Sensor T1,2025-01-04,15:09:59,Replaced faulty sensor
+E2159,Communication Error,PLC Controller,2025-01-02,04:26:51,"Reset PLC, updated firmware"
+E2160,Overheating,Motor Section,2025-01-04,15:59:37,"Cooled fan, checked lubrication"
+E2161,Low Pressure,Hydraulic Pump,2025-01-02,15:59:52,Adjusted pressure valve
+E2162,Alignment Issue,Conveyor Belt Section A,2025-01-05,12:37:42,Re-aligned conveyor belt
+E2163,Voltage Fluctuation,Control Panel,2025-01-01,18:28:10,Stabilized power input
+E2164,Jammed Component,Conveyor Belt Section C,2025-01-02,16:36:54,Cleared obstruction
+E2165,Overload Detected,Motor Section,2025-01-04,08:09:52,Reduced machine load
+E2166,Communication Error,PLC Controller,2025-01-04,05:03:16,"Reset PLC, updated firmware"
+E2167,Jammed Component,Conveyor Belt Section C,2025-01-04,21:27:07,Cleared obstruction
+E2168,Overload Detected,Motor Section,2025-01-02,07:38:02,Reduced machine load
+E2169,Oil Leakage,Gear Box,2025-01-04,12:32:30,Replaced oil seal
+E2170,Alignment Issue,Conveyor Belt Section A,2025-01-03,12:17:32,Re-aligned conveyor belt
+E2171,Alignment Issue,Conveyor Belt Section A,2025-01-05,04:16:06,Re-aligned conveyor belt
+E2172,Voltage Fluctuation,Control Panel,2025-01-04,05:24:05,Stabilized power input
+E2173,Overheating,Motor Section,2025-01-02,07:41:43,"Cooled fan, checked lubrication"
+E2174,Jammed Component,Conveyor Belt Section C,2025-01-04,04:38:40,Cleared obstruction
+E2175,High Temperature,Cooling System,2025-01-03,15:27:26,Refilled coolant
+E2176,Sensor Failure,Temperature Sensor T1,2025-01-02,17:35:23,Replaced faulty sensor
+E2177,Jammed Component,Conveyor Belt Section C,2025-01-02,12:35:08,Cleared obstruction
+E2178,High Temperature,Cooling System,2025-01-05,07:53:48,Refilled coolant
+E2179,High Temperature,Cooling System,2025-01-03,23:21:23,Refilled coolant
+E2180,Communication Error,PLC Controller,2025-01-03,14:11:37,"Reset PLC, updated firmware"
+E2181,Communication Error,PLC Controller,2025-01-03,13:59:56,"Reset PLC, updated firmware"
+E2182,Jammed Component,Conveyor Belt Section C,2025-01-02,05:58:37,Cleared obstruction
+E2183,Overheating,Motor Section,2025-01-05,05:27:48,"Cooled fan, checked lubrication"
+E2184,Low Pressure,Hydraulic Pump,2025-01-02,13:59:01,Adjusted pressure valve
+E2185,Voltage Fluctuation,Control Panel,2025-01-02,21:33:14,Stabilized power input
+E2186,Sensor Failure,Temperature Sensor T1,2025-01-05,14:30:11,Replaced faulty sensor
+E2187,Communication Error,PLC Controller,2025-01-02,10:20:08,"Reset PLC, updated firmware"
+E2188,Voltage Fluctuation,Control Panel,2025-01-02,17:59:05,Stabilized power input
+E2189,Jammed Component,Conveyor Belt Section C,2025-01-03,01:27:54,Cleared obstruction
+E2190,Overload Detected,Motor Section,2025-01-05,04:30:12,Reduced machine load
+E2191,Overheating,Motor Section,2025-01-01,23:48:42,"Cooled fan, checked lubrication"
+E2192,Oil Leakage,Gear Box,2025-01-04,22:08:16,Replaced oil seal
+E2193,Voltage Fluctuation,Control Panel,2025-01-04,21:05:42,Stabilized power input
+E2194,Sensor Failure,Temperature Sensor T1,2025-01-01,21:02:19,Replaced faulty sensor
+E2195,High Temperature,Cooling System,2025-01-02,23:03:35,Refilled coolant
+E2196,Low Pressure,Hydraulic Pump,2025-01-01,13:54:45,Adjusted pressure valve
+E2197,Overheating,Motor Section,2025-01-02,23:52:47,"Cooled fan, checked lubrication"
+E2198,Sensor Failure,Temperature Sensor T1,2025-01-02,13:48:57,Replaced faulty sensor
+E2199,Communication Error,PLC Controller,2025-01-03,14:02:06,"Reset PLC, updated firmware"
+E2200,High Temperature,Cooling System,2025-01-02,13:45:13,Refilled coolant
+E2201,Oil Leakage,Gear Box,2025-01-04,22:54:39,Replaced oil seal
+E2202,Alignment Issue,Conveyor Belt Section A,2025-01-02,21:36:25,Re-aligned conveyor belt
+E2203,High Temperature,Cooling System,2025-01-02,17:26:59,Refilled coolant
+E2204,Jammed Component,Conveyor Belt Section C,2025-01-03,15:56:34,Cleared obstruction
+E2205,Communication Error,PLC Controller,2025-01-01,21:15:26,"Reset PLC, updated firmware"
+E2206,Sensor Failure,Temperature Sensor T1,2025-01-02,18:22:46,Replaced faulty sensor
+E2207,Overload Detected,Motor Section,2025-01-04,12:17:58,Reduced machine load
+E2208,Communication Error,PLC Controller,2025-01-03,19:59:18,"Reset PLC, updated firmware"
+E2209,Communication Error,PLC Controller,2025-01-01,23:41:23,"Reset PLC, updated firmware"
+E2210,Overheating,Motor Section,2025-01-05,18:16:57,"Cooled fan, checked lubrication"
+E2211,Oil Leakage,Gear Box,2025-01-04,11:50:46,Replaced oil seal
+E2212,Communication Error,PLC Controller,2025-01-01,09:07:47,"Reset PLC, updated firmware"
+E2213,Communication Error,PLC Controller,2025-01-05,03:28:31,"Reset PLC, updated firmware"
+E2214,Overload Detected,Motor Section,2025-01-02,01:36:25,Reduced machine load
+E2215,Communication Error,PLC Controller,2025-01-03,20:15:51,"Reset PLC, updated firmware"
+E2216,Alignment Issue,Conveyor Belt Section A,2025-01-04,17:44:32,Re-aligned conveyor belt
+E2217,Overheating,Motor Section,2025-01-04,20:30:33,"Cooled fan, checked lubrication"
+E2218,Overload Detected,Motor Section,2025-01-05,12:57:26,Reduced machine load
+E2219,Oil Leakage,Gear Box,2025-01-04,08:51:21,Replaced oil seal
+E2220,Jammed Component,Conveyor Belt Section C,2025-01-04,10:56:04,Cleared obstruction
+E2221,Communication Error,PLC Controller,2025-01-03,02:51:06,"Reset PLC, updated firmware"
+E2222,Voltage Fluctuation,Control Panel,2025-01-03,14:42:24,Stabilized power input
+E2223,Sensor Failure,Temperature Sensor T1,2025-01-03,11:52:00,Replaced faulty sensor
+E2224,Low Pressure,Hydraulic Pump,2025-01-05,17:08:15,Adjusted pressure valve
+E2225,Overheating,Motor Section,2025-01-05,03:39:02,"Cooled fan, checked lubrication"
+E2226,Communication Error,PLC Controller,2025-01-03,01:09:24,"Reset PLC, updated firmware"
+E2227,Communication Error,PLC Controller,2025-01-01,10:20:30,"Reset PLC, updated firmware"
+E2228,Overload Detected,Motor Section,2025-01-02,07:27:17,Reduced machine load
+E2229,Communication Error,PLC Controller,2025-01-03,14:32:14,"Reset PLC, updated firmware"
+E2230,Oil Leakage,Gear Box,2025-01-02,10:17:09,Replaced oil seal
+E2231,Communication Error,PLC Controller,2025-01-03,06:25:48,"Reset PLC, updated firmware"
+E2232,Jammed Component,Conveyor Belt Section C,2025-01-01,13:42:21,Cleared obstruction
+E2233,Oil Leakage,Gear Box,2025-01-04,04:49:51,Replaced oil seal
+E2234,Overload Detected,Motor Section,2025-01-03,19:29:31,Reduced machine load
+E2235,Jammed Component,Conveyor Belt Section C,2025-01-02,16:33:40,Cleared obstruction
+E2236,Overload Detected,Motor Section,2025-01-05,18:15:05,Reduced machine load
+E2237,Voltage Fluctuation,Control Panel,2025-01-04,11:19:56,Stabilized power input
+E2238,Oil Leakage,Gear Box,2025-01-02,16:09:08,Replaced oil seal
+E2239,High Temperature,Cooling System,2025-01-03,09:53:35,Refilled coolant
+E2240,Oil Leakage,Gear Box,2025-01-01,17:12:41,Replaced oil seal
+E2241,Voltage Fluctuation,Control Panel,2025-01-03,21:21:03,Stabilized power input
+E2242,Alignment Issue,Conveyor Belt Section A,2025-01-02,08:36:49,Re-aligned conveyor belt
+E2243,Oil Leakage,Gear Box,2025-01-03,08:39:59,Replaced oil seal
+E2244,Communication Error,PLC Controller,2025-01-03,11:59:57,"Reset PLC, updated firmware"
+E2245,Alignment Issue,Conveyor Belt Section A,2025-01-02,18:01:24,Re-aligned conveyor belt
+E2246,Jammed Component,Conveyor Belt Section C,2025-01-02,01:14:38,Cleared obstruction
+E2247,Jammed Component,Conveyor Belt Section C,2025-01-02,13:03:44,Cleared obstruction
+E2248,Jammed Component,Conveyor Belt Section C,2025-01-01,18:11:19,Cleared obstruction
+E2249,Voltage Fluctuation,Control Panel,2025-01-05,04:42:51,Stabilized power input
+E2250,Overload Detected,Motor Section,2025-01-02,15:58:18,Reduced machine load
+E2251,Overload Detected,Motor Section,2025-01-02,22:11:39,Reduced machine load
+E2252,Sensor Failure,Temperature Sensor T1,2025-01-01,14:22:15,Replaced faulty sensor
+E2253,Overload Detected,Motor Section,2025-01-04,22:33:31,Reduced machine load
+E2254,Low Pressure,Hydraulic Pump,2025-01-04,12:37:22,Adjusted pressure valve
+E2255,Jammed Component,Conveyor Belt Section C,2025-01-04,15:57:27,Cleared obstruction
+E2256,Jammed Component,Conveyor Belt Section C,2025-01-05,13:48:06,Cleared obstruction
+E2257,Communication Error,PLC Controller,2025-01-04,17:58:13,"Reset PLC, updated firmware"
+E2258,Alignment Issue,Conveyor Belt Section A,2025-01-04,01:07:27,Re-aligned conveyor belt
+E2259,Communication Error,PLC Controller,2025-01-03,10:41:47,"Reset PLC, updated firmware"
+E2260,Low Pressure,Hydraulic Pump,2025-01-03,10:07:08,Adjusted pressure valve
+E2261,Jammed Component,Conveyor Belt Section C,2025-01-03,14:38:32,Cleared obstruction
+E2262,Overload Detected,Motor Section,2025-01-02,09:51:39,Reduced machine load
+E2263,Low Pressure,Hydraulic Pump,2025-01-02,08:29:09,Adjusted pressure valve
+E2264,Alignment Issue,Conveyor Belt Section A,2025-01-04,22:17:03,Re-aligned conveyor belt
+E2265,Jammed Component,Conveyor Belt Section C,2025-01-03,00:13:50,Cleared obstruction
+E2266,Communication Error,PLC Controller,2025-01-04,22:46:44,"Reset PLC, updated firmware"
+E2267,High Temperature,Cooling System,2025-01-02,01:03:50,Refilled coolant
+E2268,Oil Leakage,Gear Box,2025-01-04,09:28:57,Replaced oil seal
+E2269,Jammed Component,Conveyor Belt Section C,2025-01-02,05:26:42,Cleared obstruction
+E2270,High Temperature,Cooling System,2025-01-04,14:43:58,Refilled coolant
+E2271,High Temperature,Cooling System,2025-01-02,04:14:31,Refilled coolant
+E2272,Oil Leakage,Gear Box,2025-01-05,12:08:35,Replaced oil seal
+E2273,Voltage Fluctuation,Control Panel,2025-01-02,02:43:50,Stabilized power input
+E2274,Low Pressure,Hydraulic Pump,2025-01-02,19:02:04,Adjusted pressure valve
+E2275,High Temperature,Cooling System,2025-01-02,22:16:54,Refilled coolant
+E2276,Oil Leakage,Gear Box,2025-01-03,16:58:19,Replaced oil seal
+E2277,Communication Error,PLC Controller,2025-01-01,19:06:28,"Reset PLC, updated firmware"
+E2278,Low Pressure,Hydraulic Pump,2025-01-04,09:49:24,Adjusted pressure valve
+E2279,Jammed Component,Conveyor Belt Section C,2025-01-04,09:16:41,Cleared obstruction
+E2280,Alignment Issue,Conveyor Belt Section A,2025-01-02,20:19:42,Re-aligned conveyor belt
+E2281,Alignment Issue,Conveyor Belt Section A,2025-01-04,00:10:45,Re-aligned conveyor belt
+E2282,Low Pressure,Hydraulic Pump,2025-01-03,15:24:02,Adjusted pressure valve
+E2283,Overload Detected,Motor Section,2025-01-02,01:52:00,Reduced machine load
+E2284,Oil Leakage,Gear Box,2025-01-03,18:12:01,Replaced oil seal
+E2285,Alignment Issue,Conveyor Belt Section A,2025-01-05,21:46:30,Re-aligned conveyor belt
+E2286,Alignment Issue,Conveyor Belt Section A,2025-01-03,14:49:39,Re-aligned conveyor belt
+E2287,Alignment Issue,Conveyor Belt Section A,2025-01-04,19:20:08,Re-aligned conveyor belt
+E2288,Oil Leakage,Gear Box,2025-01-02,17:10:24,Replaced oil seal
+E2289,Communication Error,PLC Controller,2025-01-05,06:04:38,"Reset PLC, updated firmware"
+E2290,Jammed Component,Conveyor Belt Section C,2025-01-01,10:49:26,Cleared obstruction
+E2291,Communication Error,PLC Controller,2025-01-03,20:16:11,"Reset PLC, updated firmware"
+E2292,Communication Error,PLC Controller,2025-01-03,10:57:49,"Reset PLC, updated firmware"
+E2293,Oil Leakage,Gear Box,2025-01-04,12:12:36,Replaced oil seal
+E2294,High Temperature,Cooling System,2025-01-01,12:20:08,Refilled coolant
+E2295,Sensor Failure,Temperature Sensor T1,2025-01-02,01:20:25,Replaced faulty sensor
+E2296,Sensor Failure,Temperature Sensor T1,2025-01-03,22:53:19,Replaced faulty sensor
+E2297,Overload Detected,Motor Section,2025-01-05,02:07:42,Reduced machine load
+E2298,Communication Error,PLC Controller,2025-01-04,23:32:46,"Reset PLC, updated firmware"
+E2299,Alignment Issue,Conveyor Belt Section A,2025-01-05,01:30:04,Re-aligned conveyor belt
+E2300,Low Pressure,Hydraulic Pump,2025-01-05,07:42:58,Adjusted pressure valve
+E2301,Sensor Failure,Temperature Sensor T1,2025-01-03,07:25:49,Replaced faulty sensor
+E2302,Oil Leakage,Gear Box,2025-01-05,04:36:28,Replaced oil seal
+E2303,Oil Leakage,Gear Box,2025-01-01,09:31:21,Replaced oil seal
+E2304,Low Pressure,Hydraulic Pump,2025-01-05,00:04:36,Adjusted pressure valve
+E2305,Communication Error,PLC Controller,2025-01-01,16:31:08,"Reset PLC, updated firmware"
+E2306,High Temperature,Cooling System,2025-01-05,12:59:31,Refilled coolant
+E2307,Overload Detected,Motor Section,2025-01-01,10:28:17,Reduced machine load
+E2308,Voltage Fluctuation,Control Panel,2025-01-02,00:02:14,Stabilized power input
+E2309,Voltage Fluctuation,Control Panel,2025-01-03,14:34:50,Stabilized power input
+E2310,Oil Leakage,Gear Box,2025-01-04,13:22:26,Replaced oil seal
+E2311,Oil Leakage,Gear Box,2025-01-03,04:56:39,Replaced oil seal
+E2312,Alignment Issue,Conveyor Belt Section A,2025-01-01,09:56:50,Re-aligned conveyor belt
+E2313,Overload Detected,Motor Section,2025-01-04,14:11:23,Reduced machine load
+E2314,Oil Leakage,Gear Box,2025-01-05,06:25:29,Replaced oil seal
+E2315,Alignment Issue,Conveyor Belt Section A,2025-01-02,17:16:17,Re-aligned conveyor belt
+E2316,Jammed Component,Conveyor Belt Section C,2025-01-05,16:48:09,Cleared obstruction
+E2317,Alignment Issue,Conveyor Belt Section A,2025-01-04,16:06:05,Re-aligned conveyor belt
+E2318,Voltage Fluctuation,Control Panel,2025-01-01,08:03:55,Stabilized power input
+E2319,Alignment Issue,Conveyor Belt Section A,2025-01-03,06:36:57,Re-aligned conveyor belt
+E2320,High Temperature,Cooling System,2025-01-03,23:20:39,Refilled coolant
+E2321,Low Pressure,Hydraulic Pump,2025-01-01,23:46:38,Adjusted pressure valve
+E2322,Communication Error,PLC Controller,2025-01-01,18:10:39,"Reset PLC, updated firmware"
+E2323,Alignment Issue,Conveyor Belt Section A,2025-01-03,01:58:37,Re-aligned conveyor belt
+E2324,Overload Detected,Motor Section,2025-01-04,06:34:34,Reduced machine load
+E2325,Overheating,Motor Section,2025-01-04,06:26:50,"Cooled fan, checked lubrication"
+E2326,Overheating,Motor Section,2025-01-04,19:35:09,"Cooled fan, checked lubrication"
+E2327,High Temperature,Cooling System,2025-01-02,18:47:05,Refilled coolant
+E2328,Overload Detected,Motor Section,2025-01-02,12:02:38,Reduced machine load
+E2329,Voltage Fluctuation,Control Panel,2025-01-02,03:34:21,Stabilized power input
+E2330,Sensor Failure,Temperature Sensor T1,2025-01-02,10:21:47,Replaced faulty sensor
+E2331,Sensor Failure,Temperature Sensor T1,2025-01-05,00:12:32,Replaced faulty sensor
+E2332,Alignment Issue,Conveyor Belt Section A,2025-01-02,16:01:58,Re-aligned conveyor belt
+E2333,Overheating,Motor Section,2025-01-01,19:01:26,"Cooled fan, checked lubrication"
+E2334,Oil Leakage,Gear Box,2025-01-05,20:48:36,Replaced oil seal
+E2335,Sensor Failure,Temperature Sensor T1,2025-01-01,11:49:12,Replaced faulty sensor
+E2336,Jammed Component,Conveyor Belt Section C,2025-01-03,09:18:46,Cleared obstruction
+E2337,Low Pressure,Hydraulic Pump,2025-01-02,16:35:53,Adjusted pressure valve
+E2338,Alignment Issue,Conveyor Belt Section A,2025-01-04,03:10:38,Re-aligned conveyor belt
+E2339,Low Pressure,Hydraulic Pump,2025-01-05,08:31:43,Adjusted pressure valve
+E2340,Voltage Fluctuation,Control Panel,2025-01-04,13:16:48,Stabilized power input
+E2341,Alignment Issue,Conveyor Belt Section A,2025-01-01,15:53:59,Re-aligned conveyor belt
+E2342,Voltage Fluctuation,Control Panel,2025-01-03,19:31:57,Stabilized power input
+E2343,Alignment Issue,Conveyor Belt Section A,2025-01-04,02:25:24,Re-aligned conveyor belt
+E2344,High Temperature,Cooling System,2025-01-03,14:57:26,Refilled coolant
+E2345,High Temperature,Cooling System,2025-01-03,15:17:26,Refilled coolant
+E2346,High Temperature,Cooling System,2025-01-05,16:17:55,Refilled coolant
+E2347,Low Pressure,Hydraulic Pump,2025-01-05,10:31:37,Adjusted pressure valve
+E2348,Jammed Component,Conveyor Belt Section C,2025-01-02,22:54:14,Cleared obstruction
+E2349,Oil Leakage,Gear Box,2025-01-03,16:05:10,Replaced oil seal
+E2350,High Temperature,Cooling System,2025-01-01,14:13:48,Refilled coolant
+E2351,Alignment Issue,Conveyor Belt Section A,2025-01-03,13:51:24,Re-aligned conveyor belt
+E2352,Low Pressure,Hydraulic Pump,2025-01-04,20:48:33,Adjusted pressure valve
+E2353,Overheating,Motor Section,2025-01-03,18:15:56,"Cooled fan, checked lubrication"
+E2354,Low Pressure,Hydraulic Pump,2025-01-04,10:34:04,Adjusted pressure valve
+E2355,Communication Error,PLC Controller,2025-01-04,06:54:24,"Reset PLC, updated firmware"
+E2356,Alignment Issue,Conveyor Belt Section A,2025-01-05,02:36:16,Re-aligned conveyor belt
+E2357,Oil Leakage,Gear Box,2025-01-05,08:48:45,Replaced oil seal
+E2358,Overheating,Motor Section,2025-01-05,02:11:35,"Cooled fan, checked lubrication"
+E2359,Communication Error,PLC Controller,2025-01-01,09:57:43,"Reset PLC, updated firmware"
+E2360,Voltage Fluctuation,Control Panel,2025-01-04,09:47:30,Stabilized power input
+E2361,Alignment Issue,Conveyor Belt Section A,2025-01-01,20:09:03,Re-aligned conveyor belt
+E2362,Low Pressure,Hydraulic Pump,2025-01-03,07:22:42,Adjusted pressure valve
+E2363,Communication Error,PLC Controller,2025-01-03,03:30:01,"Reset PLC, updated firmware"
+E2364,Overload Detected,Motor Section,2025-01-03,09:44:17,Reduced machine load
+E2365,High Temperature,Cooling System,2025-01-05,06:18:50,Refilled coolant
+E2366,Voltage Fluctuation,Control Panel,2025-01-03,10:12:35,Stabilized power input
+E2367,Low Pressure,Hydraulic Pump,2025-01-02,21:45:47,Adjusted pressure valve
+E2368,Communication Error,PLC Controller,2025-01-02,18:51:54,"Reset PLC, updated firmware"
+E2369,Jammed Component,Conveyor Belt Section C,2025-01-05,18:56:02,Cleared obstruction
+E2370,Overheating,Motor Section,2025-01-04,18:07:21,"Cooled fan, checked lubrication"
+E2371,Overload Detected,Motor Section,2025-01-02,04:29:47,Reduced machine load
+E2372,Sensor Failure,Temperature Sensor T1,2025-01-05,19:26:47,Replaced faulty sensor
+E2373,Voltage Fluctuation,Control Panel,2025-01-03,14:00:05,Stabilized power input
+E2374,Sensor Failure,Temperature Sensor T1,2025-01-01,20:13:40,Replaced faulty sensor
+E2375,Jammed Component,Conveyor Belt Section C,2025-01-03,14:28:10,Cleared obstruction
+E2376,Overheating,Motor Section,2025-01-05,11:09:49,"Cooled fan, checked lubrication"
+E2377,Jammed Component,Conveyor Belt Section C,2025-01-01,21:21:42,Cleared obstruction
+E2378,Sensor Failure,Temperature Sensor T1,2025-01-04,06:54:00,Replaced faulty sensor
+E2379,Low Pressure,Hydraulic Pump,2025-01-04,06:22:57,Adjusted pressure valve
+E2380,Jammed Component,Conveyor Belt Section C,2025-01-01,21:00:45,Cleared obstruction
+E2381,Oil Leakage,Gear Box,2025-01-03,00:33:37,Replaced oil seal
+E2382,Oil Leakage,Gear Box,2025-01-02,06:49:21,Replaced oil seal
+E2383,Oil Leakage,Gear Box,2025-01-03,09:49:50,Replaced oil seal
+E2384,Communication Error,PLC Controller,2025-01-04,17:27:54,"Reset PLC, updated firmware"
+E2385,Jammed Component,Conveyor Belt Section C,2025-01-02,02:34:24,Cleared obstruction
+E2386,Alignment Issue,Conveyor Belt Section A,2025-01-05,21:10:46,Re-aligned conveyor belt
+E2387,Low Pressure,Hydraulic Pump,2025-01-03,14:20:25,Adjusted pressure valve
+E2388,Overload Detected,Motor Section,2025-01-02,04:58:00,Reduced machine load
+E2389,Low Pressure,Hydraulic Pump,2025-01-01,22:53:48,Adjusted pressure valve
+E2390,Overload Detected,Motor Section,2025-01-03,20:30:35,Reduced machine load
+E2391,Jammed Component,Conveyor Belt Section C,2025-01-02,23:43:30,Cleared obstruction
+E2392,High Temperature,Cooling System,2025-01-02,15:08:56,Refilled coolant
+E2393,Sensor Failure,Temperature Sensor T1,2025-01-04,00:31:16,Replaced faulty sensor
+E2394,Overload Detected,Motor Section,2025-01-02,17:56:22,Reduced machine load
+E2395,Voltage Fluctuation,Control Panel,2025-01-01,15:13:01,Stabilized power input
+E2396,Voltage Fluctuation,Control Panel,2025-01-02,18:59:18,Stabilized power input
+E2397,Low Pressure,Hydraulic Pump,2025-01-05,13:20:20,Adjusted pressure valve
+E2398,Overheating,Motor Section,2025-01-05,04:43:04,"Cooled fan, checked lubrication"
+E2399,Sensor Failure,Temperature Sensor T1,2025-01-01,18:03:09,Replaced faulty sensor
+E2400,Sensor Failure,Temperature Sensor T1,2025-01-05,03:41:11,Replaced faulty sensor
+E2401,Voltage Fluctuation,Control Panel,2025-01-03,01:54:21,Stabilized power input
+E2402,Sensor Failure,Temperature Sensor T1,2025-01-03,20:39:38,Replaced faulty sensor
+E2403,Overload Detected,Motor Section,2025-01-03,15:53:07,Reduced machine load
+E2404,Alignment Issue,Conveyor Belt Section A,2025-01-02,03:20:05,Re-aligned conveyor belt
+E2405,Jammed Component,Conveyor Belt Section C,2025-01-01,13:50:43,Cleared obstruction
+E2406,Low Pressure,Hydraulic Pump,2025-01-05,02:24:40,Adjusted pressure valve
+E2407,Communication Error,PLC Controller,2025-01-04,08:04:00,"Reset PLC, updated firmware"
+E2408,Oil Leakage,Gear Box,2025-01-02,18:51:01,Replaced oil seal
+E2409,Alignment Issue,Conveyor Belt Section A,2025-01-05,03:37:05,Re-aligned conveyor belt
+E2410,Overload Detected,Motor Section,2025-01-04,19:39:23,Reduced machine load
+E2411,Overload Detected,Motor Section,2025-01-02,02:32:45,Reduced machine load
+E2412,Overheating,Motor Section,2025-01-03,06:24:00,"Cooled fan, checked lubrication"
+E2413,Sensor Failure,Temperature Sensor T1,2025-01-03,20:23:03,Replaced faulty sensor
+E2414,Sensor Failure,Temperature Sensor T1,2025-01-02,17:00:13,Replaced faulty sensor
+E2415,Oil Leakage,Gear Box,2025-01-01,09:31:07,Replaced oil seal
+E2416,Oil Leakage,Gear Box,2025-01-01,19:14:37,Replaced oil seal
+E2417,Overload Detected,Motor Section,2025-01-03,21:06:18,Reduced machine load
+E2418,Low Pressure,Hydraulic Pump,2025-01-03,10:47:12,Adjusted pressure valve
+E2419,Overheating,Motor Section,2025-01-01,23:16:50,"Cooled fan, checked lubrication"
+E2420,Overload Detected,Motor Section,2025-01-05,18:42:33,Reduced machine load
+E2421,Sensor Failure,Temperature Sensor T1,2025-01-04,18:14:39,Replaced faulty sensor
+E2422,Jammed Component,Conveyor Belt Section C,2025-01-05,21:19:18,Cleared obstruction
+E2423,Sensor Failure,Temperature Sensor T1,2025-01-05,13:41:46,Replaced faulty sensor
+E2424,Jammed Component,Conveyor Belt Section C,2025-01-01,09:20:08,Cleared obstruction
+E2425,Jammed Component,Conveyor Belt Section C,2025-01-03,08:10:12,Cleared obstruction
+E2426,Sensor Failure,Temperature Sensor T1,2025-01-02,10:53:14,Replaced faulty sensor
+E2427,Jammed Component,Conveyor Belt Section C,2025-01-05,18:59:05,Cleared obstruction
+E2428,Oil Leakage,Gear Box,2025-01-02,16:49:51,Replaced oil seal
+E2429,Communication Error,PLC Controller,2025-01-04,01:57:40,"Reset PLC, updated firmware"
+E2430,Overload Detected,Motor Section,2025-01-05,01:56:58,Reduced machine load
+E2431,High Temperature,Cooling System,2025-01-05,01:56:32,Refilled coolant
+E2432,Oil Leakage,Gear Box,2025-01-04,21:57:01,Replaced oil seal
+E2433,High Temperature,Cooling System,2025-01-03,01:30:17,Refilled coolant
+E2434,Communication Error,PLC Controller,2025-01-03,08:20:04,"Reset PLC, updated firmware"
+E2435,Voltage Fluctuation,Control Panel,2025-01-05,18:05:17,Stabilized power input
+E2436,Voltage Fluctuation,Control Panel,2025-01-02,03:11:23,Stabilized power input
+E2437,High Temperature,Cooling System,2025-01-03,22:35:36,Refilled coolant
+E2438,Oil Leakage,Gear Box,2025-01-05,14:03:33,Replaced oil seal
+E2439,Overheating,Motor Section,2025-01-02,19:01:05,"Cooled fan, checked lubrication"
+E2440,Overload Detected,Motor Section,2025-01-03,00:14:22,Reduced machine load
+E2441,Voltage Fluctuation,Control Panel,2025-01-04,08:31:47,Stabilized power input
+E2442,Jammed Component,Conveyor Belt Section C,2025-01-02,08:35:48,Cleared obstruction
+E2443,Alignment Issue,Conveyor Belt Section A,2025-01-02,03:00:59,Re-aligned conveyor belt
+E2444,Sensor Failure,Temperature Sensor T1,2025-01-05,19:53:16,Replaced faulty sensor
+E2445,Overload Detected,Motor Section,2025-01-05,05:42:55,Reduced machine load
+E2446,High Temperature,Cooling System,2025-01-05,14:47:39,Refilled coolant
+E2447,Overheating,Motor Section,2025-01-04,23:43:31,"Cooled fan, checked lubrication"
+E2448,Low Pressure,Hydraulic Pump,2025-01-04,04:58:27,Adjusted pressure valve
+E2449,Oil Leakage,Gear Box,2025-01-02,09:13:44,Replaced oil seal
+E2450,Overheating,Motor Section,2025-01-02,15:18:03,"Cooled fan, checked lubrication"
+E2451,Oil Leakage,Gear Box,2025-01-01,09:08:44,Replaced oil seal
+E2452,Communication Error,PLC Controller,2025-01-02,23:18:19,"Reset PLC, updated firmware"
+E2453,Overload Detected,Motor Section,2025-01-02,16:24:49,Reduced machine load
+E2454,High Temperature,Cooling System,2025-01-04,16:54:20,Refilled coolant
+E2455,Sensor Failure,Temperature Sensor T1,2025-01-02,12:18:37,Replaced faulty sensor
+E2456,Low Pressure,Hydraulic Pump,2025-01-05,21:47:40,Adjusted pressure valve
+E2457,Overload Detected,Motor Section,2025-01-03,00:00:49,Reduced machine load
+E2458,High Temperature,Cooling System,2025-01-05,00:17:00,Refilled coolant
+E2459,Voltage Fluctuation,Control Panel,2025-01-03,13:09:59,Stabilized power input
+E2460,Jammed Component,Conveyor Belt Section C,2025-01-04,06:03:13,Cleared obstruction
+E2461,Communication Error,PLC Controller,2025-01-03,07:56:33,"Reset PLC, updated firmware"
+E2462,Oil Leakage,Gear Box,2025-01-01,22:55:50,Replaced oil seal
+E2463,Alignment Issue,Conveyor Belt Section A,2025-01-03,07:08:03,Re-aligned conveyor belt
+E2464,Alignment Issue,Conveyor Belt Section A,2025-01-03,03:25:46,Re-aligned conveyor belt
+E2465,Overheating,Motor Section,2025-01-03,23:51:09,"Cooled fan, checked lubrication"
+E2466,Voltage Fluctuation,Control Panel,2025-01-04,00:14:46,Stabilized power input
+E2467,Alignment Issue,Conveyor Belt Section A,2025-01-05,17:49:59,Re-aligned conveyor belt
+E2468,Overload Detected,Motor Section,2025-01-02,06:15:06,Reduced machine load
+E2469,Sensor Failure,Temperature Sensor T1,2025-01-02,07:40:16,Replaced faulty sensor
+E2470,Voltage Fluctuation,Control Panel,2025-01-04,22:39:03,Stabilized power input
+E2471,Alignment Issue,Conveyor Belt Section A,2025-01-04,19:04:49,Re-aligned conveyor belt
+E2472,Overload Detected,Motor Section,2025-01-05,05:00:54,Reduced machine load
+E2473,Communication Error,PLC Controller,2025-01-03,17:54:16,"Reset PLC, updated firmware"
+E2474,Voltage Fluctuation,Control Panel,2025-01-02,12:07:52,Stabilized power input
+E2475,High Temperature,Cooling System,2025-01-02,01:29:45,Refilled coolant
+E2476,Overload Detected,Motor Section,2025-01-03,11:36:11,Reduced machine load
+E2477,Low Pressure,Hydraulic Pump,2025-01-04,18:43:13,Adjusted pressure valve
+E2478,Voltage Fluctuation,Control Panel,2025-01-04,10:15:04,Stabilized power input
+E2479,Voltage Fluctuation,Control Panel,2025-01-01,11:21:58,Stabilized power input
+E2480,Oil Leakage,Gear Box,2025-01-01,19:50:00,Replaced oil seal
+E2481,Voltage Fluctuation,Control Panel,2025-01-04,12:24:39,Stabilized power input
+E2482,Voltage Fluctuation,Control Panel,2025-01-04,12:48:45,Stabilized power input
+E2483,High Temperature,Cooling System,2025-01-03,13:07:37,Refilled coolant
+E2484,Sensor Failure,Temperature Sensor T1,2025-01-04,07:46:06,Replaced faulty sensor
+E2485,Jammed Component,Conveyor Belt Section C,2025-01-04,06:03:27,Cleared obstruction
+E2486,Communication Error,PLC Controller,2025-01-03,08:30:40,"Reset PLC, updated firmware"
+E2487,Overheating,Motor Section,2025-01-04,14:03:54,"Cooled fan, checked lubrication"
+E2488,Voltage Fluctuation,Control Panel,2025-01-02,23:43:42,Stabilized power input
+E2489,Alignment Issue,Conveyor Belt Section A,2025-01-03,11:23:46,Re-aligned conveyor belt
+E2490,Voltage Fluctuation,Control Panel,2025-01-02,05:54:48,Stabilized power input
+E2491,Communication Error,PLC Controller,2025-01-05,09:00:28,"Reset PLC, updated firmware"
+E2492,Jammed Component,Conveyor Belt Section C,2025-01-05,18:26:08,Cleared obstruction
+E2493,Voltage Fluctuation,Control Panel,2025-01-02,17:17:53,Stabilized power input
+E2494,Overload Detected,Motor Section,2025-01-04,09:36:13,Reduced machine load
+E2495,Oil Leakage,Gear Box,2025-01-04,15:54:41,Replaced oil seal
+E2496,Sensor Failure,Temperature Sensor T1,2025-01-03,19:41:30,Replaced faulty sensor
+E2497,Alignment Issue,Conveyor Belt Section A,2025-01-05,00:37:21,Re-aligned conveyor belt
+E2498,Overload Detected,Motor Section,2025-01-05,05:09:22,Reduced machine load
+E2499,Overheating,Motor Section,2025-01-05,19:38:44,"Cooled fan, checked lubrication"
+E2500,Communication Error,PLC Controller,2025-01-01,23:25:17,"Reset PLC, updated firmware"
+E2501,Jammed Component,Conveyor Belt Section C,2025-01-02,06:41:52,Cleared obstruction
+E2502,Low Pressure,Hydraulic Pump,2025-01-03,07:10:39,Adjusted pressure valve
+E2503,Alignment Issue,Conveyor Belt Section A,2025-01-05,14:38:04,Re-aligned conveyor belt
+E2504,Voltage Fluctuation,Control Panel,2025-01-05,13:49:18,Stabilized power input
+E2505,Sensor Failure,Temperature Sensor T1,2025-01-05,07:54:35,Replaced faulty sensor
+E2506,Overload Detected,Motor Section,2025-01-04,16:23:27,Reduced machine load
+E2507,Low Pressure,Hydraulic Pump,2025-01-01,17:48:18,Adjusted pressure valve
+E2508,Voltage Fluctuation,Control Panel,2025-01-05,08:12:53,Stabilized power input
+E2509,Communication Error,PLC Controller,2025-01-03,15:43:36,"Reset PLC, updated firmware"
+E2510,Oil Leakage,Gear Box,2025-01-04,15:07:34,Replaced oil seal
+E2511,Alignment Issue,Conveyor Belt Section A,2025-01-03,21:26:06,Re-aligned conveyor belt
+E2512,Alignment Issue,Conveyor Belt Section A,2025-01-04,12:05:01,Re-aligned conveyor belt
+E2513,Sensor Failure,Temperature Sensor T1,2025-01-01,08:28:04,Replaced faulty sensor
+E2514,Overheating,Motor Section,2025-01-01,18:33:44,"Cooled fan, checked lubrication"
+E2515,Voltage Fluctuation,Control Panel,2025-01-05,12:20:39,Stabilized power input
+E2516,Low Pressure,Hydraulic Pump,2025-01-03,05:11:32,Adjusted pressure valve
+E2517,Overload Detected,Motor Section,2025-01-03,09:34:43,Reduced machine load
+E2518,Jammed Component,Conveyor Belt Section C,2025-01-05,02:02:36,Cleared obstruction
+E2519,Jammed Component,Conveyor Belt Section C,2025-01-03,16:55:13,Cleared obstruction
+E2520,Oil Leakage,Gear Box,2025-01-02,22:43:18,Replaced oil seal
+E2521,Low Pressure,Hydraulic Pump,2025-01-03,07:37:48,Adjusted pressure valve
+E2522,Sensor Failure,Temperature Sensor T1,2025-01-03,02:30:19,Replaced faulty sensor
+E2523,Communication Error,PLC Controller,2025-01-03,03:41:03,"Reset PLC, updated firmware"
+E2524,Alignment Issue,Conveyor Belt Section A,2025-01-03,11:03:22,Re-aligned conveyor belt
+E2525,Sensor Failure,Temperature Sensor T1,2025-01-01,23:00:45,Replaced faulty sensor
+E2526,Low Pressure,Hydraulic Pump,2025-01-02,14:17:35,Adjusted pressure valve
+E2527,Low Pressure,Hydraulic Pump,2025-01-04,21:01:42,Adjusted pressure valve
+E2528,Sensor Failure,Temperature Sensor T1,2025-01-01,08:58:26,Replaced faulty sensor
+E2529,Alignment Issue,Conveyor Belt Section A,2025-01-01,15:40:28,Re-aligned conveyor belt
+E2530,Alignment Issue,Conveyor Belt Section A,2025-01-02,12:12:29,Re-aligned conveyor belt
+E2531,Low Pressure,Hydraulic Pump,2025-01-01,19:14:21,Adjusted pressure valve
+E2532,Voltage Fluctuation,Control Panel,2025-01-02,10:43:13,Stabilized power input
+E2533,Alignment Issue,Conveyor Belt Section A,2025-01-01,13:24:45,Re-aligned conveyor belt
+E2534,Voltage Fluctuation,Control Panel,2025-01-04,19:27:46,Stabilized power input
+E2535,High Temperature,Cooling System,2025-01-03,08:54:46,Refilled coolant
+E2536,Low Pressure,Hydraulic Pump,2025-01-03,20:50:06,Adjusted pressure valve
+E2537,Voltage Fluctuation,Control Panel,2025-01-05,11:18:20,Stabilized power input
+E2538,Low Pressure,Hydraulic Pump,2025-01-03,02:52:08,Adjusted pressure valve
+E2539,High Temperature,Cooling System,2025-01-04,02:37:20,Refilled coolant
+E2540,High Temperature,Cooling System,2025-01-04,02:47:45,Refilled coolant
+E2541,Sensor Failure,Temperature Sensor T1,2025-01-05,08:20:46,Replaced faulty sensor
+E2542,Voltage Fluctuation,Control Panel,2025-01-02,21:43:08,Stabilized power input
+E2543,Jammed Component,Conveyor Belt Section C,2025-01-01,20:27:28,Cleared obstruction
+E2544,Voltage Fluctuation,Control Panel,2025-01-05,12:42:58,Stabilized power input
+E2545,Sensor Failure,Temperature Sensor T1,2025-01-03,14:22:54,Replaced faulty sensor
+E2546,Overheating,Motor Section,2025-01-03,08:09:34,"Cooled fan, checked lubrication"
+E2547,Low Pressure,Hydraulic Pump,2025-01-05,02:20:15,Adjusted pressure valve
+E2548,Overload Detected,Motor Section,2025-01-05,22:40:03,Reduced machine load
+E2549,Oil Leakage,Gear Box,2025-01-05,15:20:50,Replaced oil seal
+E2550,Overheating,Motor Section,2025-01-03,08:47:35,"Cooled fan, checked lubrication"
+E2551,Overheating,Motor Section,2025-01-03,00:40:18,"Cooled fan, checked lubrication"
+E2552,Low Pressure,Hydraulic Pump,2025-01-04,23:11:01,Adjusted pressure valve
+E2553,Communication Error,PLC Controller,2025-01-04,20:14:16,"Reset PLC, updated firmware"
+E2554,Sensor Failure,Temperature Sensor T1,2025-01-05,10:54:59,Replaced faulty sensor
+E2555,Low Pressure,Hydraulic Pump,2025-01-02,13:51:25,Adjusted pressure valve
+E2556,Alignment Issue,Conveyor Belt Section A,2025-01-03,17:25:04,Re-aligned conveyor belt
+E2557,Overheating,Motor Section,2025-01-03,23:04:04,"Cooled fan, checked lubrication"
+E2558,Alignment Issue,Conveyor Belt Section A,2025-01-04,15:53:55,Re-aligned conveyor belt
+E2559,Oil Leakage,Gear Box,2025-01-02,19:29:47,Replaced oil seal
+E2560,Jammed Component,Conveyor Belt Section C,2025-01-01,14:51:00,Cleared obstruction
+E2561,Voltage Fluctuation,Control Panel,2025-01-05,05:10:17,Stabilized power input
+E2562,Oil Leakage,Gear Box,2025-01-05,08:51:34,Replaced oil seal
+E2563,Communication Error,PLC Controller,2025-01-05,15:35:28,"Reset PLC, updated firmware"
+E2564,Voltage Fluctuation,Control Panel,2025-01-04,00:31:09,Stabilized power input
+E2565,Low Pressure,Hydraulic Pump,2025-01-01,14:01:09,Adjusted pressure valve
+E2566,Voltage Fluctuation,Control Panel,2025-01-04,05:51:19,Stabilized power input
+E2567,Sensor Failure,Temperature Sensor T1,2025-01-05,20:20:50,Replaced faulty sensor
+E2568,Low Pressure,Hydraulic Pump,2025-01-05,20:57:44,Adjusted pressure valve
+E2569,Oil Leakage,Gear Box,2025-01-03,09:39:40,Replaced oil seal
+E2570,Overload Detected,Motor Section,2025-01-05,11:51:39,Reduced machine load
+E2571,Overload Detected,Motor Section,2025-01-02,13:24:24,Reduced machine load
+E2572,Overload Detected,Motor Section,2025-01-05,08:43:27,Reduced machine load
+E2573,Communication Error,PLC Controller,2025-01-03,04:31:26,"Reset PLC, updated firmware"
+E2574,Oil Leakage,Gear Box,2025-01-01,12:04:22,Replaced oil seal
+E2575,Sensor Failure,Temperature Sensor T1,2025-01-01,11:56:13,Replaced faulty sensor
+E2576,Oil Leakage,Gear Box,2025-01-05,15:07:48,Replaced oil seal
+E2577,Alignment Issue,Conveyor Belt Section A,2025-01-02,15:59:42,Re-aligned conveyor belt
+E2578,Voltage Fluctuation,Control Panel,2025-01-02,02:09:11,Stabilized power input
+E2579,Oil Leakage,Gear Box,2025-01-02,17:02:24,Replaced oil seal
+E2580,Voltage Fluctuation,Control Panel,2025-01-03,10:56:16,Stabilized power input
+E2581,Overheating,Motor Section,2025-01-03,18:05:58,"Cooled fan, checked lubrication"
+E2582,Alignment Issue,Conveyor Belt Section A,2025-01-04,09:54:14,Re-aligned conveyor belt
+E2583,Oil Leakage,Gear Box,2025-01-02,18:48:01,Replaced oil seal
+E2584,Communication Error,PLC Controller,2025-01-05,19:51:45,"Reset PLC, updated firmware"
+E2585,Sensor Failure,Temperature Sensor T1,2025-01-03,19:47:36,Replaced faulty sensor
+E2586,Overload Detected,Motor Section,2025-01-05,15:17:51,Reduced machine load
+E2587,Alignment Issue,Conveyor Belt Section A,2025-01-02,01:36:15,Re-aligned conveyor belt
+E2588,Low Pressure,Hydraulic Pump,2025-01-02,20:44:56,Adjusted pressure valve
+E2589,Jammed Component,Conveyor Belt Section C,2025-01-02,11:04:36,Cleared obstruction
+E2590,Alignment Issue,Conveyor Belt Section A,2025-01-04,08:28:15,Re-aligned conveyor belt
+E2591,Jammed Component,Conveyor Belt Section C,2025-01-04,19:05:13,Cleared obstruction
+E2592,Voltage Fluctuation,Control Panel,2025-01-04,20:29:39,Stabilized power input
+E2593,Overload Detected,Motor Section,2025-01-05,21:08:59,Reduced machine load
+E2594,Overload Detected,Motor Section,2025-01-04,10:40:52,Reduced machine load
+E2595,Communication Error,PLC Controller,2025-01-05,03:02:04,"Reset PLC, updated firmware"
+E2596,Sensor Failure,Temperature Sensor T1,2025-01-05,03:20:36,Replaced faulty sensor
+E2597,Sensor Failure,Temperature Sensor T1,2025-01-04,21:27:21,Replaced faulty sensor
+E2598,Overheating,Motor Section,2025-01-02,05:27:50,"Cooled fan, checked lubrication"
+E2599,Jammed Component,Conveyor Belt Section C,2025-01-04,19:49:04,Cleared obstruction
+E2600,Voltage Fluctuation,Control Panel,2025-01-02,09:41:17,Stabilized power input
+E2601,Sensor Failure,Temperature Sensor T1,2025-01-05,02:12:17,Replaced faulty sensor
+E2602,High Temperature,Cooling System,2025-01-04,16:51:26,Refilled coolant
+E2603,Communication Error,PLC Controller,2025-01-01,11:34:08,"Reset PLC, updated firmware"
+E2604,Low Pressure,Hydraulic Pump,2025-01-05,10:32:20,Adjusted pressure valve
+E2605,Voltage Fluctuation,Control Panel,2025-01-03,17:18:15,Stabilized power input
+E2606,High Temperature,Cooling System,2025-01-02,11:26:50,Refilled coolant
+E2607,Voltage Fluctuation,Control Panel,2025-01-05,00:40:18,Stabilized power input
+E2608,Low Pressure,Hydraulic Pump,2025-01-04,07:35:27,Adjusted pressure valve
+E2609,Low Pressure,Hydraulic Pump,2025-01-01,22:16:54,Adjusted pressure valve
+E2610,Alignment Issue,Conveyor Belt Section A,2025-01-01,23:24:59,Re-aligned conveyor belt
+E2611,Oil Leakage,Gear Box,2025-01-01,20:36:07,Replaced oil seal
+E2612,Jammed Component,Conveyor Belt Section C,2025-01-03,05:10:07,Cleared obstruction
+E2613,Overload Detected,Motor Section,2025-01-01,18:42:03,Reduced machine load
+E2614,Jammed Component,Conveyor Belt Section C,2025-01-01,19:24:38,Cleared obstruction
+E2615,Voltage Fluctuation,Control Panel,2025-01-02,16:49:35,Stabilized power input
+E2616,Voltage Fluctuation,Control Panel,2025-01-03,13:49:21,Stabilized power input
+E2617,Alignment Issue,Conveyor Belt Section A,2025-01-03,06:45:19,Re-aligned conveyor belt
+E2618,Overload Detected,Motor Section,2025-01-05,02:39:25,Reduced machine load
+E2619,High Temperature,Cooling System,2025-01-05,05:54:46,Refilled coolant
+E2620,Communication Error,PLC Controller,2025-01-04,20:49:28,"Reset PLC, updated firmware"
+E2621,Overload Detected,Motor Section,2025-01-03,03:18:02,Reduced machine load
+E2622,Overload Detected,Motor Section,2025-01-04,17:44:51,Reduced machine load
+E2623,Alignment Issue,Conveyor Belt Section A,2025-01-02,04:44:40,Re-aligned conveyor belt
+E2624,Jammed Component,Conveyor Belt Section C,2025-01-02,16:32:38,Cleared obstruction
+E2625,Voltage Fluctuation,Control Panel,2025-01-03,06:01:53,Stabilized power input
+E2626,Oil Leakage,Gear Box,2025-01-05,16:44:51,Replaced oil seal
+E2627,Alignment Issue,Conveyor Belt Section A,2025-01-05,00:46:21,Re-aligned conveyor belt
+E2628,High Temperature,Cooling System,2025-01-04,21:23:14,Refilled coolant
+E2629,Low Pressure,Hydraulic Pump,2025-01-05,19:17:39,Adjusted pressure valve
+E2630,Overload Detected,Motor Section,2025-01-02,08:11:56,Reduced machine load
+E2631,High Temperature,Cooling System,2025-01-04,05:23:43,Refilled coolant
+E2632,Low Pressure,Hydraulic Pump,2025-01-03,02:28:11,Adjusted pressure valve
+E2633,Sensor Failure,Temperature Sensor T1,2025-01-02,05:32:29,Replaced faulty sensor
+E2634,Overload Detected,Motor Section,2025-01-03,17:22:45,Reduced machine load
+E2635,Low Pressure,Hydraulic Pump,2025-01-02,21:27:38,Adjusted pressure valve
+E2636,Alignment Issue,Conveyor Belt Section A,2025-01-04,16:18:08,Re-aligned conveyor belt
+E2637,Alignment Issue,Conveyor Belt Section A,2025-01-01,09:05:16,Re-aligned conveyor belt
+E2638,Communication Error,PLC Controller,2025-01-04,02:49:51,"Reset PLC, updated firmware"
+E2639,Voltage Fluctuation,Control Panel,2025-01-03,22:46:39,Stabilized power input
+E2640,Jammed Component,Conveyor Belt Section C,2025-01-03,06:38:13,Cleared obstruction
+E2641,Jammed Component,Conveyor Belt Section C,2025-01-04,00:23:39,Cleared obstruction
+E2642,Alignment Issue,Conveyor Belt Section A,2025-01-02,20:03:30,Re-aligned conveyor belt
+E2643,Overload Detected,Motor Section,2025-01-01,09:21:04,Reduced machine load
+E2644,High Temperature,Cooling System,2025-01-02,22:26:36,Refilled coolant
+E2645,Voltage Fluctuation,Control Panel,2025-01-03,13:57:20,Stabilized power input
+E2646,Sensor Failure,Temperature Sensor T1,2025-01-02,15:17:04,Replaced faulty sensor
+E2647,High Temperature,Cooling System,2025-01-03,04:36:22,Refilled coolant
+E2648,High Temperature,Cooling System,2025-01-03,05:14:11,Refilled coolant
+E2649,High Temperature,Cooling System,2025-01-03,00:22:53,Refilled coolant
+E2650,Oil Leakage,Gear Box,2025-01-04,14:25:36,Replaced oil seal
+E2651,Voltage Fluctuation,Control Panel,2025-01-03,20:58:52,Stabilized power input
+E2652,Jammed Component,Conveyor Belt Section C,2025-01-04,03:58:59,Cleared obstruction
+E2653,Low Pressure,Hydraulic Pump,2025-01-01,17:21:31,Adjusted pressure valve
+E2654,Alignment Issue,Conveyor Belt Section A,2025-01-05,11:37:29,Re-aligned conveyor belt
+E2655,Voltage Fluctuation,Control Panel,2025-01-04,03:52:35,Stabilized power input
+E2656,High Temperature,Cooling System,2025-01-02,02:15:36,Refilled coolant
+E2657,Communication Error,PLC Controller,2025-01-05,11:28:30,"Reset PLC, updated firmware"
+E2658,Communication Error,PLC Controller,2025-01-05,01:53:44,"Reset PLC, updated firmware"
+E2659,Overload Detected,Motor Section,2025-01-05,22:04:55,Reduced machine load
+E2660,Voltage Fluctuation,Control Panel,2025-01-02,03:00:27,Stabilized power input
+E2661,Sensor Failure,Temperature Sensor T1,2025-01-04,17:21:30,Replaced faulty sensor
+E2662,Voltage Fluctuation,Control Panel,2025-01-02,08:10:55,Stabilized power input
+E2663,Low Pressure,Hydraulic Pump,2025-01-04,21:32:09,Adjusted pressure valve
+E2664,High Temperature,Cooling System,2025-01-03,00:48:15,Refilled coolant
+E2665,High Temperature,Cooling System,2025-01-03,14:06:48,Refilled coolant
+E2666,Sensor Failure,Temperature Sensor T1,2025-01-01,17:38:05,Replaced faulty sensor
+E2667,Jammed Component,Conveyor Belt Section C,2025-01-01,15:01:35,Cleared obstruction
+E2668,Jammed Component,Conveyor Belt Section C,2025-01-02,13:51:05,Cleared obstruction
+E2669,Jammed Component,Conveyor Belt Section C,2025-01-02,17:30:16,Cleared obstruction
+E2670,Low Pressure,Hydraulic Pump,2025-01-04,18:23:01,Adjusted pressure valve
+E2671,Oil Leakage,Gear Box,2025-01-04,18:18:29,Replaced oil seal
+E2672,Low Pressure,Hydraulic Pump,2025-01-01,17:02:37,Adjusted pressure valve
+E2673,High Temperature,Cooling System,2025-01-03,05:27:00,Refilled coolant
+E2674,Voltage Fluctuation,Control Panel,2025-01-04,23:50:43,Stabilized power input
+E2675,Communication Error,PLC Controller,2025-01-04,10:59:48,"Reset PLC, updated firmware"
+E2676,High Temperature,Cooling System,2025-01-05,20:36:42,Refilled coolant
+E2677,Communication Error,PLC Controller,2025-01-03,07:55:21,"Reset PLC, updated firmware"
+E2678,Voltage Fluctuation,Control Panel,2025-01-03,20:55:40,Stabilized power input
+E2679,Voltage Fluctuation,Control Panel,2025-01-02,20:21:30,Stabilized power input
+E2680,Sensor Failure,Temperature Sensor T1,2025-01-04,14:29:25,Replaced faulty sensor
+E2681,High Temperature,Cooling System,2025-01-03,05:24:46,Refilled coolant
+E2682,Oil Leakage,Gear Box,2025-01-02,01:06:55,Replaced oil seal
+E2683,Low Pressure,Hydraulic Pump,2025-01-03,05:47:37,Adjusted pressure valve
+E2684,Alignment Issue,Conveyor Belt Section A,2025-01-04,20:59:21,Re-aligned conveyor belt
+E2685,Low Pressure,Hydraulic Pump,2025-01-05,07:10:34,Adjusted pressure valve
+E2686,Jammed Component,Conveyor Belt Section C,2025-01-02,02:18:48,Cleared obstruction
+E2687,Overheating,Motor Section,2025-01-04,08:41:48,"Cooled fan, checked lubrication"
+E2688,Voltage Fluctuation,Control Panel,2025-01-02,17:39:38,Stabilized power input
+E2689,Communication Error,PLC Controller,2025-01-03,18:09:23,"Reset PLC, updated firmware"
+E2690,Voltage Fluctuation,Control Panel,2025-01-05,23:01:05,Stabilized power input
+E2691,Voltage Fluctuation,Control Panel,2025-01-02,18:22:20,Stabilized power input
+E2692,Alignment Issue,Conveyor Belt Section A,2025-01-03,17:54:58,Re-aligned conveyor belt
+E2693,High Temperature,Cooling System,2025-01-03,08:29:08,Refilled coolant
+E2694,Communication Error,PLC Controller,2025-01-05,18:59:16,"Reset PLC, updated firmware"
+E2695,Oil Leakage,Gear Box,2025-01-03,04:39:52,Replaced oil seal
+E2696,Low Pressure,Hydraulic Pump,2025-01-05,18:20:59,Adjusted pressure valve
+E2697,Alignment Issue,Conveyor Belt Section A,2025-01-04,21:59:13,Re-aligned conveyor belt
+E2698,Jammed Component,Conveyor Belt Section C,2025-01-04,03:20:12,Cleared obstruction
+E2699,Alignment Issue,Conveyor Belt Section A,2025-01-03,09:51:43,Re-aligned conveyor belt
+E2700,Voltage Fluctuation,Control Panel,2025-01-04,18:00:43,Stabilized power input
+E2701,Sensor Failure,Temperature Sensor T1,2025-01-03,21:37:27,Replaced faulty sensor
+E2702,Overload Detected,Motor Section,2025-01-04,12:52:28,Reduced machine load
+E2703,Sensor Failure,Temperature Sensor T1,2025-01-03,12:39:05,Replaced faulty sensor
+E2704,Alignment Issue,Conveyor Belt Section A,2025-01-02,14:24:30,Re-aligned conveyor belt
+E2705,High Temperature,Cooling System,2025-01-03,00:01:42,Refilled coolant
+E2706,High Temperature,Cooling System,2025-01-04,06:11:30,Refilled coolant
+E2707,Jammed Component,Conveyor Belt Section C,2025-01-01,09:55:47,Cleared obstruction
+E2708,Communication Error,PLC Controller,2025-01-03,16:28:44,"Reset PLC, updated firmware"
+E2709,Alignment Issue,Conveyor Belt Section A,2025-01-02,06:01:38,Re-aligned conveyor belt
+E2710,Alignment Issue,Conveyor Belt Section A,2025-01-02,05:34:05,Re-aligned conveyor belt
+E2711,High Temperature,Cooling System,2025-01-02,21:02:09,Refilled coolant
+E2712,Overload Detected,Motor Section,2025-01-05,16:26:46,Reduced machine load
+E2713,Overload Detected,Motor Section,2025-01-05,05:27:30,Reduced machine load
+E2714,Jammed Component,Conveyor Belt Section C,2025-01-02,03:10:53,Cleared obstruction
+E2715,Sensor Failure,Temperature Sensor T1,2025-01-05,09:18:12,Replaced faulty sensor
+E2716,Overload Detected,Motor Section,2025-01-02,04:29:12,Reduced machine load
+E2717,Jammed Component,Conveyor Belt Section C,2025-01-03,13:19:01,Cleared obstruction
+E2718,Sensor Failure,Temperature Sensor T1,2025-01-03,21:51:14,Replaced faulty sensor
+E2719,Low Pressure,Hydraulic Pump,2025-01-02,13:27:48,Adjusted pressure valve
+E2720,Alignment Issue,Conveyor Belt Section A,2025-01-04,07:05:41,Re-aligned conveyor belt
+E2721,Alignment Issue,Conveyor Belt Section A,2025-01-04,06:37:38,Re-aligned conveyor belt
+E2722,Low Pressure,Hydraulic Pump,2025-01-01,13:24:29,Adjusted pressure valve
+E2723,Sensor Failure,Temperature Sensor T1,2025-01-02,14:31:45,Replaced faulty sensor
+E2724,Jammed Component,Conveyor Belt Section C,2025-01-03,21:20:15,Cleared obstruction
+E2725,Jammed Component,Conveyor Belt Section C,2025-01-03,10:39:38,Cleared obstruction
+E2726,Overheating,Motor Section,2025-01-02,04:59:56,"Cooled fan, checked lubrication"
+E2727,Oil Leakage,Gear Box,2025-01-05,20:27:21,Replaced oil seal
+E2728,High Temperature,Cooling System,2025-01-05,19:38:44,Refilled coolant
+E2729,Overload Detected,Motor Section,2025-01-04,14:13:06,Reduced machine load
+E2730,Low Pressure,Hydraulic Pump,2025-01-02,18:41:32,Adjusted pressure valve
+E2731,Jammed Component,Conveyor Belt Section C,2025-01-03,00:30:22,Cleared obstruction
+E2732,Jammed Component,Conveyor Belt Section C,2025-01-02,18:29:35,Cleared obstruction
+E2733,Oil Leakage,Gear Box,2025-01-03,12:51:57,Replaced oil seal
+E2734,Overload Detected,Motor Section,2025-01-01,17:21:33,Reduced machine load
+E2735,Low Pressure,Hydraulic Pump,2025-01-04,09:34:41,Adjusted pressure valve
+E2736,Overload Detected,Motor Section,2025-01-03,23:11:17,Reduced machine load
+E2737,Overload Detected,Motor Section,2025-01-01,14:23:08,Reduced machine load
+E2738,Voltage Fluctuation,Control Panel,2025-01-03,08:17:02,Stabilized power input
+E2739,Communication Error,PLC Controller,2025-01-02,06:03:30,"Reset PLC, updated firmware"
+E2740,High Temperature,Cooling System,2025-01-02,12:25:48,Refilled coolant
+E2741,High Temperature,Cooling System,2025-01-05,15:37:38,Refilled coolant
+E2742,Voltage Fluctuation,Control Panel,2025-01-05,16:54:46,Stabilized power input
+E2743,Overheating,Motor Section,2025-01-05,17:29:20,"Cooled fan, checked lubrication"
+E2744,Voltage Fluctuation,Control Panel,2025-01-03,11:34:33,Stabilized power input
+E2745,Sensor Failure,Temperature Sensor T1,2025-01-01,13:12:27,Replaced faulty sensor
+E2746,Low Pressure,Hydraulic Pump,2025-01-04,07:29:40,Adjusted pressure valve
+E2747,Alignment Issue,Conveyor Belt Section A,2025-01-03,20:35:00,Re-aligned conveyor belt
+E2748,High Temperature,Cooling System,2025-01-01,23:56:47,Refilled coolant
+E2749,Voltage Fluctuation,Control Panel,2025-01-03,06:36:58,Stabilized power input
+E2750,High Temperature,Cooling System,2025-01-03,01:31:51,Refilled coolant
+E2751,Oil Leakage,Gear Box,2025-01-04,12:42:06,Replaced oil seal
+E2752,Jammed Component,Conveyor Belt Section C,2025-01-03,12:56:10,Cleared obstruction
+E2753,Jammed Component,Conveyor Belt Section C,2025-01-02,18:53:19,Cleared obstruction
+E2754,Low Pressure,Hydraulic Pump,2025-01-03,02:41:06,Adjusted pressure valve
+E2755,Low Pressure,Hydraulic Pump,2025-01-04,00:43:05,Adjusted pressure valve
+E2756,Oil Leakage,Gear Box,2025-01-04,13:50:06,Replaced oil seal
+E2757,Overheating,Motor Section,2025-01-04,17:42:27,"Cooled fan, checked lubrication"
+E2758,Overheating,Motor Section,2025-01-04,16:22:28,"Cooled fan, checked lubrication"
+E2759,Oil Leakage,Gear Box,2025-01-04,17:03:17,Replaced oil seal
+E2760,Sensor Failure,Temperature Sensor T1,2025-01-05,15:22:49,Replaced faulty sensor
+E2761,Overheating,Motor Section,2025-01-01,20:00:48,"Cooled fan, checked lubrication"
+E2762,High Temperature,Cooling System,2025-01-03,03:25:34,Refilled coolant
+E2763,Jammed Component,Conveyor Belt Section C,2025-01-02,11:03:07,Cleared obstruction
+E2764,Communication Error,PLC Controller,2025-01-03,20:19:47,"Reset PLC, updated firmware"
+E2765,Overload Detected,Motor Section,2025-01-02,02:49:23,Reduced machine load
+E2766,Sensor Failure,Temperature Sensor T1,2025-01-02,16:03:02,Replaced faulty sensor
+E2767,Jammed Component,Conveyor Belt Section C,2025-01-01,19:27:21,Cleared obstruction
+E2768,Overload Detected,Motor Section,2025-01-02,15:17:46,Reduced machine load
+E2769,Sensor Failure,Temperature Sensor T1,2025-01-04,04:16:08,Replaced faulty sensor
+E2770,Voltage Fluctuation,Control Panel,2025-01-02,00:38:46,Stabilized power input
+E2771,Voltage Fluctuation,Control Panel,2025-01-02,21:19:07,Stabilized power input
+E2772,Communication Error,PLC Controller,2025-01-05,17:55:55,"Reset PLC, updated firmware"
+E2773,Oil Leakage,Gear Box,2025-01-02,15:16:41,Replaced oil seal
+E2774,Voltage Fluctuation,Control Panel,2025-01-03,23:37:58,Stabilized power input
+E2775,Alignment Issue,Conveyor Belt Section A,2025-01-03,23:47:42,Re-aligned conveyor belt
+E2776,Overload Detected,Motor Section,2025-01-05,01:37:13,Reduced machine load
+E2777,Communication Error,PLC Controller,2025-01-05,02:30:03,"Reset PLC, updated firmware"
+E2778,Voltage Fluctuation,Control Panel,2025-01-04,18:12:39,Stabilized power input
+E2779,Communication Error,PLC Controller,2025-01-01,19:11:39,"Reset PLC, updated firmware"
+E2780,Alignment Issue,Conveyor Belt Section A,2025-01-02,09:17:43,Re-aligned conveyor belt
+E2781,Overload Detected,Motor Section,2025-01-03,02:02:14,Reduced machine load
+E2782,Jammed Component,Conveyor Belt Section C,2025-01-03,21:29:30,Cleared obstruction
+E2783,Sensor Failure,Temperature Sensor T1,2025-01-02,17:14:49,Replaced faulty sensor
+E2784,High Temperature,Cooling System,2025-01-03,21:59:11,Refilled coolant
+E2785,Communication Error,PLC Controller,2025-01-02,22:38:06,"Reset PLC, updated firmware"
+E2786,Communication Error,PLC Controller,2025-01-03,03:46:32,"Reset PLC, updated firmware"
+E2787,Jammed Component,Conveyor Belt Section C,2025-01-05,08:10:14,Cleared obstruction
+E2788,Jammed Component,Conveyor Belt Section C,2025-01-05,16:18:55,Cleared obstruction
+E2789,Sensor Failure,Temperature Sensor T1,2025-01-05,20:07:00,Replaced faulty sensor
+E2790,Sensor Failure,Temperature Sensor T1,2025-01-05,06:09:54,Replaced faulty sensor
+E2791,Sensor Failure,Temperature Sensor T1,2025-01-02,21:19:46,Replaced faulty sensor
+E2792,Sensor Failure,Temperature Sensor T1,2025-01-04,08:46:39,Replaced faulty sensor
+E2793,Overload Detected,Motor Section,2025-01-05,22:53:45,Reduced machine load
+E2794,Jammed Component,Conveyor Belt Section C,2025-01-02,19:39:09,Cleared obstruction
+E2795,Voltage Fluctuation,Control Panel,2025-01-05,14:58:40,Stabilized power input
+E2796,Alignment Issue,Conveyor Belt Section A,2025-01-04,03:50:23,Re-aligned conveyor belt
+E2797,Overheating,Motor Section,2025-01-02,00:31:06,"Cooled fan, checked lubrication"
+E2798,High Temperature,Cooling System,2025-01-05,17:42:39,Refilled coolant
+E2799,Overload Detected,Motor Section,2025-01-04,16:57:41,Reduced machine load
+E2800,High Temperature,Cooling System,2025-01-02,13:53:03,Refilled coolant
+E2801,High Temperature,Cooling System,2025-01-01,23:30:19,Refilled coolant
+E2802,Overheating,Motor Section,2025-01-03,23:17:36,"Cooled fan, checked lubrication"
+E2803,Sensor Failure,Temperature Sensor T1,2025-01-01,20:59:11,Replaced faulty sensor
+E2804,Low Pressure,Hydraulic Pump,2025-01-02,13:49:08,Adjusted pressure valve
+E2805,Voltage Fluctuation,Control Panel,2025-01-03,18:25:22,Stabilized power input
+E2806,High Temperature,Cooling System,2025-01-03,00:03:44,Refilled coolant
+E2807,Communication Error,PLC Controller,2025-01-02,21:48:48,"Reset PLC, updated firmware"
+E2808,High Temperature,Cooling System,2025-01-03,22:06:29,Refilled coolant
+E2809,Low Pressure,Hydraulic Pump,2025-01-05,10:09:42,Adjusted pressure valve
+E2810,Alignment Issue,Conveyor Belt Section A,2025-01-02,05:55:16,Re-aligned conveyor belt
+E2811,Low Pressure,Hydraulic Pump,2025-01-02,10:24:19,Adjusted pressure valve
+E2812,Overheating,Motor Section,2025-01-04,08:16:40,"Cooled fan, checked lubrication"
+E2813,Overheating,Motor Section,2025-01-03,22:10:44,"Cooled fan, checked lubrication"
+E2814,Oil Leakage,Gear Box,2025-01-03,17:15:38,Replaced oil seal
+E2815,Overload Detected,Motor Section,2025-01-01,11:14:03,Reduced machine load
+E2816,Voltage Fluctuation,Control Panel,2025-01-02,19:25:10,Stabilized power input
+E2817,Overload Detected,Motor Section,2025-01-05,16:14:56,Reduced machine load
+E2818,Jammed Component,Conveyor Belt Section C,2025-01-05,06:05:19,Cleared obstruction
+E2819,Oil Leakage,Gear Box,2025-01-02,01:01:00,Replaced oil seal
+E2820,High Temperature,Cooling System,2025-01-04,15:58:21,Refilled coolant
+E2821,Overheating,Motor Section,2025-01-05,09:28:24,"Cooled fan, checked lubrication"
+E2822,Voltage Fluctuation,Control Panel,2025-01-05,14:18:30,Stabilized power input
+E2823,Communication Error,PLC Controller,2025-01-03,08:24:09,"Reset PLC, updated firmware"
+E2824,High Temperature,Cooling System,2025-01-03,20:06:28,Refilled coolant
+E2825,Communication Error,PLC Controller,2025-01-02,11:26:44,"Reset PLC, updated firmware"
+E2826,Overheating,Motor Section,2025-01-03,19:49:49,"Cooled fan, checked lubrication"
+E2827,Low Pressure,Hydraulic Pump,2025-01-04,20:11:12,Adjusted pressure valve
+E2828,High Temperature,Cooling System,2025-01-03,10:38:08,Refilled coolant
+E2829,Jammed Component,Conveyor Belt Section C,2025-01-05,16:50:09,Cleared obstruction
+E2830,Sensor Failure,Temperature Sensor T1,2025-01-04,11:15:44,Replaced faulty sensor
+E2831,Oil Leakage,Gear Box,2025-01-05,17:31:01,Replaced oil seal
+E2832,Voltage Fluctuation,Control Panel,2025-01-03,17:51:28,Stabilized power input
+E2833,Oil Leakage,Gear Box,2025-01-03,12:30:28,Replaced oil seal
+E2834,Overload Detected,Motor Section,2025-01-02,11:08:02,Reduced machine load
+E2835,Overheating,Motor Section,2025-01-03,07:00:07,"Cooled fan, checked lubrication"
+E2836,Overheating,Motor Section,2025-01-03,15:49:58,"Cooled fan, checked lubrication"
+E2837,Oil Leakage,Gear Box,2025-01-05,18:45:26,Replaced oil seal
+E2838,Alignment Issue,Conveyor Belt Section A,2025-01-03,21:44:19,Re-aligned conveyor belt
+E2839,Jammed Component,Conveyor Belt Section C,2025-01-05,23:01:36,Cleared obstruction
+E2840,Sensor Failure,Temperature Sensor T1,2025-01-05,16:06:58,Replaced faulty sensor
+E2841,Overheating,Motor Section,2025-01-03,06:28:25,"Cooled fan, checked lubrication"
+E2842,Alignment Issue,Conveyor Belt Section A,2025-01-05,18:37:11,Re-aligned conveyor belt
+E2843,Overheating,Motor Section,2025-01-04,08:56:20,"Cooled fan, checked lubrication"
+E2844,Communication Error,PLC Controller,2025-01-02,18:30:36,"Reset PLC, updated firmware"
+E2845,Overload Detected,Motor Section,2025-01-05,15:40:04,Reduced machine load
+E2846,Sensor Failure,Temperature Sensor T1,2025-01-02,15:35:58,Replaced faulty sensor
+E2847,Alignment Issue,Conveyor Belt Section A,2025-01-03,21:32:31,Re-aligned conveyor belt
+E2848,Alignment Issue,Conveyor Belt Section A,2025-01-01,08:20:22,Re-aligned conveyor belt
+E2849,Oil Leakage,Gear Box,2025-01-02,15:55:12,Replaced oil seal
+E2850,High Temperature,Cooling System,2025-01-04,04:37:43,Refilled coolant
+E2851,Low Pressure,Hydraulic Pump,2025-01-03,07:31:53,Adjusted pressure valve
+E2852,Alignment Issue,Conveyor Belt Section A,2025-01-02,16:07:05,Re-aligned conveyor belt
+E2853,Jammed Component,Conveyor Belt Section C,2025-01-04,09:11:05,Cleared obstruction
+E2854,Overheating,Motor Section,2025-01-03,06:08:30,"Cooled fan, checked lubrication"
+E2855,Communication Error,PLC Controller,2025-01-05,19:45:50,"Reset PLC, updated firmware"
+E2856,Overload Detected,Motor Section,2025-01-04,15:02:01,Reduced machine load
+E2857,Voltage Fluctuation,Control Panel,2025-01-05,19:01:08,Stabilized power input
+E2858,Alignment Issue,Conveyor Belt Section A,2025-01-04,16:31:13,Re-aligned conveyor belt
+E2859,Oil Leakage,Gear Box,2025-01-04,18:05:16,Replaced oil seal
+E2860,Alignment Issue,Conveyor Belt Section A,2025-01-01,20:15:23,Re-aligned conveyor belt
+E2861,Alignment Issue,Conveyor Belt Section A,2025-01-05,11:48:36,Re-aligned conveyor belt
+E2862,Oil Leakage,Gear Box,2025-01-03,10:38:27,Replaced oil seal
+E2863,Voltage Fluctuation,Control Panel,2025-01-04,03:51:46,Stabilized power input
+E2864,Voltage Fluctuation,Control Panel,2025-01-02,14:14:57,Stabilized power input
+E2865,Voltage Fluctuation,Control Panel,2025-01-04,17:30:34,Stabilized power input
+E2866,Overheating,Motor Section,2025-01-05,10:31:32,"Cooled fan, checked lubrication"
+E2867,Overload Detected,Motor Section,2025-01-05,16:29:31,Reduced machine load
+E2868,Jammed Component,Conveyor Belt Section C,2025-01-02,17:10:13,Cleared obstruction
+E2869,Jammed Component,Conveyor Belt Section C,2025-01-04,11:12:40,Cleared obstruction
+E2870,Low Pressure,Hydraulic Pump,2025-01-02,19:16:18,Adjusted pressure valve
+E2871,Voltage Fluctuation,Control Panel,2025-01-02,13:14:50,Stabilized power input
+E2872,Sensor Failure,Temperature Sensor T1,2025-01-05,21:06:32,Replaced faulty sensor
+E2873,Overload Detected,Motor Section,2025-01-04,21:53:42,Reduced machine load
+E2874,Voltage Fluctuation,Control Panel,2025-01-03,01:23:12,Stabilized power input
+E2875,Overload Detected,Motor Section,2025-01-05,09:27:20,Reduced machine load
+E2876,Oil Leakage,Gear Box,2025-01-03,05:47:41,Replaced oil seal
+E2877,Sensor Failure,Temperature Sensor T1,2025-01-02,08:21:53,Replaced faulty sensor
+E2878,Overheating,Motor Section,2025-01-01,16:10:20,"Cooled fan, checked lubrication"
+E2879,Jammed Component,Conveyor Belt Section C,2025-01-04,08:29:42,Cleared obstruction
+E2880,Overload Detected,Motor Section,2025-01-02,21:46:42,Reduced machine load
+E2881,Jammed Component,Conveyor Belt Section C,2025-01-01,17:47:47,Cleared obstruction
+E2882,Oil Leakage,Gear Box,2025-01-03,17:37:50,Replaced oil seal
+E2883,Voltage Fluctuation,Control Panel,2025-01-01,23:27:59,Stabilized power input
+E2884,Oil Leakage,Gear Box,2025-01-05,18:25:34,Replaced oil seal
+E2885,Oil Leakage,Gear Box,2025-01-02,12:34:49,Replaced oil seal
+E2886,Voltage Fluctuation,Control Panel,2025-01-03,05:45:00,Stabilized power input
+E2887,Overheating,Motor Section,2025-01-04,08:35:26,"Cooled fan, checked lubrication"
+E2888,Alignment Issue,Conveyor Belt Section A,2025-01-01,13:58:20,Re-aligned conveyor belt
+E2889,Alignment Issue,Conveyor Belt Section A,2025-01-01,18:06:55,Re-aligned conveyor belt
+E2890,Overheating,Motor Section,2025-01-02,07:57:09,"Cooled fan, checked lubrication"
+E2891,Voltage Fluctuation,Control Panel,2025-01-04,11:01:34,Stabilized power input
+E2892,Alignment Issue,Conveyor Belt Section A,2025-01-03,03:33:54,Re-aligned conveyor belt
+E2893,Voltage Fluctuation,Control Panel,2025-01-03,16:49:04,Stabilized power input
+E2894,Jammed Component,Conveyor Belt Section C,2025-01-05,13:44:30,Cleared obstruction
+E2895,Sensor Failure,Temperature Sensor T1,2025-01-04,13:32:36,Replaced faulty sensor
+E2896,Sensor Failure,Temperature Sensor T1,2025-01-02,02:53:47,Replaced faulty sensor
+E2897,Sensor Failure,Temperature Sensor T1,2025-01-04,07:16:03,Replaced faulty sensor
+E2898,Oil Leakage,Gear Box,2025-01-02,17:30:30,Replaced oil seal
+E2899,Sensor Failure,Temperature Sensor T1,2025-01-02,19:32:57,Replaced faulty sensor
+E2900,Overheating,Motor Section,2025-01-01,14:47:00,"Cooled fan, checked lubrication"
+E2901,Overheating,Motor Section,2025-01-02,12:57:50,"Cooled fan, checked lubrication"
+E2902,Low Pressure,Hydraulic Pump,2025-01-05,14:00:43,Adjusted pressure valve
+E2903,High Temperature,Cooling System,2025-01-03,19:14:00,Refilled coolant
+E2904,Voltage Fluctuation,Control Panel,2025-01-01,18:37:51,Stabilized power input
+E2905,High Temperature,Cooling System,2025-01-02,12:38:08,Refilled coolant
+E2906,Communication Error,PLC Controller,2025-01-04,10:07:42,"Reset PLC, updated firmware"
+E2907,Overload Detected,Motor Section,2025-01-03,11:46:39,Reduced machine load
+E2908,Communication Error,PLC Controller,2025-01-01,20:23:20,"Reset PLC, updated firmware"
+E2909,Voltage Fluctuation,Control Panel,2025-01-02,07:36:43,Stabilized power input
+E2910,Jammed Component,Conveyor Belt Section C,2025-01-05,17:05:58,Cleared obstruction
+E2911,High Temperature,Cooling System,2025-01-04,02:45:49,Refilled coolant
+E2912,Jammed Component,Conveyor Belt Section C,2025-01-03,01:27:58,Cleared obstruction
+E2913,Sensor Failure,Temperature Sensor T1,2025-01-02,06:08:05,Replaced faulty sensor
+E2914,Alignment Issue,Conveyor Belt Section A,2025-01-05,14:29:02,Re-aligned conveyor belt
+E2915,Jammed Component,Conveyor Belt Section C,2025-01-02,04:57:10,Cleared obstruction
+E2916,Voltage Fluctuation,Control Panel,2025-01-05,05:31:41,Stabilized power input
+E2917,Communication Error,PLC Controller,2025-01-01,21:02:23,"Reset PLC, updated firmware"
+E2918,Oil Leakage,Gear Box,2025-01-01,13:24:14,Replaced oil seal
+E2919,Sensor Failure,Temperature Sensor T1,2025-01-05,09:10:29,Replaced faulty sensor
+E2920,High Temperature,Cooling System,2025-01-05,01:20:50,Refilled coolant
+E2921,Voltage Fluctuation,Control Panel,2025-01-02,05:29:25,Stabilized power input
+E2922,High Temperature,Cooling System,2025-01-01,23:19:57,Refilled coolant
+E2923,Oil Leakage,Gear Box,2025-01-02,06:37:14,Replaced oil seal
+E2924,High Temperature,Cooling System,2025-01-02,23:10:07,Refilled coolant
+E2925,Voltage Fluctuation,Control Panel,2025-01-04,09:28:37,Stabilized power input
+E2926,Voltage Fluctuation,Control Panel,2025-01-05,19:38:50,Stabilized power input
+E2927,Voltage Fluctuation,Control Panel,2025-01-03,19:36:02,Stabilized power input
+E2928,Jammed Component,Conveyor Belt Section C,2025-01-04,06:32:49,Cleared obstruction
+E2929,Voltage Fluctuation,Control Panel,2025-01-03,09:29:07,Stabilized power input
+E2930,Alignment Issue,Conveyor Belt Section A,2025-01-02,16:09:07,Re-aligned conveyor belt
+E2931,Alignment Issue,Conveyor Belt Section A,2025-01-02,05:57:53,Re-aligned conveyor belt
+E2932,Low Pressure,Hydraulic Pump,2025-01-03,07:40:30,Adjusted pressure valve
+E2933,Overheating,Motor Section,2025-01-01,18:39:58,"Cooled fan, checked lubrication"
+E2934,Communication Error,PLC Controller,2025-01-02,12:20:38,"Reset PLC, updated firmware"
+E2935,High Temperature,Cooling System,2025-01-02,05:49:59,Refilled coolant
+E2936,Low Pressure,Hydraulic Pump,2025-01-02,15:03:31,Adjusted pressure valve
+E2937,Communication Error,PLC Controller,2025-01-05,09:57:33,"Reset PLC, updated firmware"
+E2938,Jammed Component,Conveyor Belt Section C,2025-01-03,00:52:12,Cleared obstruction
+E2939,Voltage Fluctuation,Control Panel,2025-01-04,11:19:58,Stabilized power input
+E2940,High Temperature,Cooling System,2025-01-02,03:09:54,Refilled coolant
+E2941,Overload Detected,Motor Section,2025-01-05,08:37:41,Reduced machine load
+E2942,Jammed Component,Conveyor Belt Section C,2025-01-03,06:44:11,Cleared obstruction
+E2943,Low Pressure,Hydraulic Pump,2025-01-03,09:25:44,Adjusted pressure valve
+E2944,Sensor Failure,Temperature Sensor T1,2025-01-02,13:13:34,Replaced faulty sensor
+E2945,Communication Error,PLC Controller,2025-01-05,14:36:39,"Reset PLC, updated firmware"
+E2946,Communication Error,PLC Controller,2025-01-05,07:03:41,"Reset PLC, updated firmware"
+E2947,Low Pressure,Hydraulic Pump,2025-01-04,04:57:27,Adjusted pressure valve
+E2948,Overload Detected,Motor Section,2025-01-02,08:42:57,Reduced machine load
+E2949,Alignment Issue,Conveyor Belt Section A,2025-01-04,23:20:31,Re-aligned conveyor belt
+E2950,High Temperature,Cooling System,2025-01-02,11:43:02,Refilled coolant
+E2951,Oil Leakage,Gear Box,2025-01-02,10:36:25,Replaced oil seal
+E2952,Voltage Fluctuation,Control Panel,2025-01-01,19:43:16,Stabilized power input
+E2953,High Temperature,Cooling System,2025-01-03,11:14:07,Refilled coolant
+E2954,Alignment Issue,Conveyor Belt Section A,2025-01-05,20:00:26,Re-aligned conveyor belt
+E2955,Low Pressure,Hydraulic Pump,2025-01-02,07:18:20,Adjusted pressure valve
+E2956,High Temperature,Cooling System,2025-01-04,21:47:02,Refilled coolant
+E2957,Overload Detected,Motor Section,2025-01-05,17:27:52,Reduced machine load
+E2958,Overload Detected,Motor Section,2025-01-01,20:52:33,Reduced machine load
+E2959,Overheating,Motor Section,2025-01-05,06:37:59,"Cooled fan, checked lubrication"
+E2960,High Temperature,Cooling System,2025-01-04,23:26:09,Refilled coolant
+E2961,Sensor Failure,Temperature Sensor T1,2025-01-03,19:26:10,Replaced faulty sensor
+E2962,Overload Detected,Motor Section,2025-01-04,23:34:17,Reduced machine load
+E2963,Overheating,Motor Section,2025-01-04,16:58:52,"Cooled fan, checked lubrication"
+E2964,Alignment Issue,Conveyor Belt Section A,2025-01-01,15:06:29,Re-aligned conveyor belt
+E2965,Jammed Component,Conveyor Belt Section C,2025-01-03,22:03:28,Cleared obstruction
+E2966,Overload Detected,Motor Section,2025-01-04,03:17:04,Reduced machine load
+E2967,High Temperature,Cooling System,2025-01-05,04:18:03,Refilled coolant
+E2968,Low Pressure,Hydraulic Pump,2025-01-05,08:06:56,Adjusted pressure valve
+E2969,Low Pressure,Hydraulic Pump,2025-01-01,20:25:51,Adjusted pressure valve
+E2970,Overload Detected,Motor Section,2025-01-01,21:00:59,Reduced machine load
+E2971,Voltage Fluctuation,Control Panel,2025-01-04,22:22:24,Stabilized power input
+E2972,Low Pressure,Hydraulic Pump,2025-01-03,21:56:24,Adjusted pressure valve
+E2973,Low Pressure,Hydraulic Pump,2025-01-05,14:09:26,Adjusted pressure valve
+E2974,High Temperature,Cooling System,2025-01-03,10:06:31,Refilled coolant
+E2975,Voltage Fluctuation,Control Panel,2025-01-03,13:20:32,Stabilized power input
+E2976,Overheating,Motor Section,2025-01-02,04:14:56,"Cooled fan, checked lubrication"
+E2977,Low Pressure,Hydraulic Pump,2025-01-02,00:04:59,Adjusted pressure valve
+E2978,Sensor Failure,Temperature Sensor T1,2025-01-04,09:55:27,Replaced faulty sensor
+E2979,Alignment Issue,Conveyor Belt Section A,2025-01-04,11:10:55,Re-aligned conveyor belt
+E2980,Voltage Fluctuation,Control Panel,2025-01-01,13:02:21,Stabilized power input
+E2981,Low Pressure,Hydraulic Pump,2025-01-03,06:09:21,Adjusted pressure valve
+E2982,Low Pressure,Hydraulic Pump,2025-01-02,18:40:26,Adjusted pressure valve
+E2983,Jammed Component,Conveyor Belt Section C,2025-01-02,18:01:10,Cleared obstruction
+E2984,Overheating,Motor Section,2025-01-03,07:03:17,"Cooled fan, checked lubrication"
+E2985,Sensor Failure,Temperature Sensor T1,2025-01-02,05:33:45,Replaced faulty sensor
+E2986,Voltage Fluctuation,Control Panel,2025-01-01,14:35:45,Stabilized power input
+E2987,Low Pressure,Hydraulic Pump,2025-01-05,07:33:25,Adjusted pressure valve
+E2988,Oil Leakage,Gear Box,2025-01-03,13:17:03,Replaced oil seal
+E2989,Low Pressure,Hydraulic Pump,2025-01-05,13:32:09,Adjusted pressure valve
+E2990,Overheating,Motor Section,2025-01-05,09:11:12,"Cooled fan, checked lubrication"
+E2991,Overload Detected,Motor Section,2025-01-04,16:52:48,Reduced machine load
+E2992,Voltage Fluctuation,Control Panel,2025-01-03,11:02:54,Stabilized power input
+E2993,Voltage Fluctuation,Control Panel,2025-01-05,15:40:58,Stabilized power input
+E2994,Communication Error,PLC Controller,2025-01-04,05:52:28,"Reset PLC, updated firmware"
+E2995,High Temperature,Cooling System,2025-01-03,12:20:42,Refilled coolant
+E2996,High Temperature,Cooling System,2025-01-02,18:57:10,Refilled coolant
+E2997,Sensor Failure,Temperature Sensor T1,2025-01-03,18:40:58,Replaced faulty sensor
+E2998,Communication Error,PLC Controller,2025-01-03,01:39:03,"Reset PLC, updated firmware"
+E2999,Sensor Failure,Temperature Sensor T1,2025-01-05,20:20:43,Replaced faulty sensor
+E3000,Overload Detected,Motor Section,2025-01-05,07:43:36,Reduced machine load
+E3001,Jammed Component,Conveyor Belt Section C,2025-01-03,07:04:59,Cleared obstruction
+E3002,Communication Error,PLC Controller,2025-01-03,07:30:14,"Reset PLC, updated firmware"
+E3003,Voltage Fluctuation,Control Panel,2025-01-02,11:17:04,Stabilized power input
+E3004,Overload Detected,Motor Section,2025-01-04,17:35:21,Reduced machine load
+E3005,Communication Error,PLC Controller,2025-01-01,11:47:59,"Reset PLC, updated firmware"
+E3006,Overheating,Motor Section,2025-01-03,13:18:29,"Cooled fan, checked lubrication"
+E3007,Overheating,Motor Section,2025-01-05,12:22:40,"Cooled fan, checked lubrication"
+E3008,Overheating,Motor Section,2025-01-04,05:17:30,"Cooled fan, checked lubrication"
+E3009,Overload Detected,Motor Section,2025-01-01,14:30:00,Reduced machine load
+E3010,Voltage Fluctuation,Control Panel,2025-01-02,11:26:15,Stabilized power input
+E3011,Alignment Issue,Conveyor Belt Section A,2025-01-02,08:17:56,Re-aligned conveyor belt
+E3012,High Temperature,Cooling System,2025-01-02,07:46:04,Refilled coolant
+E3013,Overload Detected,Motor Section,2025-01-01,08:14:47,Reduced machine load
+E3014,Alignment Issue,Conveyor Belt Section A,2025-01-01,15:22:00,Re-aligned conveyor belt
+E3015,Communication Error,PLC Controller,2025-01-02,12:48:35,"Reset PLC, updated firmware"
+E3016,Sensor Failure,Temperature Sensor T1,2025-01-03,15:59:39,Replaced faulty sensor
+E3017,Oil Leakage,Gear Box,2025-01-03,20:07:21,Replaced oil seal
+E3018,Overheating,Motor Section,2025-01-03,12:12:42,"Cooled fan, checked lubrication"
+E3019,Alignment Issue,Conveyor Belt Section A,2025-01-05,13:30:01,Re-aligned conveyor belt
+E3020,Voltage Fluctuation,Control Panel,2025-01-01,15:31:22,Stabilized power input
+E3021,Overheating,Motor Section,2025-01-05,17:56:47,"Cooled fan, checked lubrication"
+E3022,Communication Error,PLC Controller,2025-01-01,11:11:46,"Reset PLC, updated firmware"
+E3023,Low Pressure,Hydraulic Pump,2025-01-02,02:46:22,Adjusted pressure valve
+E3024,Sensor Failure,Temperature Sensor T1,2025-01-04,05:10:49,Replaced faulty sensor
+E3025,Oil Leakage,Gear Box,2025-01-03,12:53:14,Replaced oil seal
+E3026,Overload Detected,Motor Section,2025-01-02,02:20:59,Reduced machine load
+E3027,Sensor Failure,Temperature Sensor T1,2025-01-04,10:32:47,Replaced faulty sensor
+E3028,Overload Detected,Motor Section,2025-01-03,10:09:52,Reduced machine load
+E3029,Jammed Component,Conveyor Belt Section C,2025-01-03,18:10:05,Cleared obstruction
+E3030,Low Pressure,Hydraulic Pump,2025-01-03,18:09:45,Adjusted pressure valve
+E3031,High Temperature,Cooling System,2025-01-04,05:47:25,Refilled coolant
+E3032,Communication Error,PLC Controller,2025-01-02,16:03:15,"Reset PLC, updated firmware"
+E3033,Voltage Fluctuation,Control Panel,2025-01-03,10:17:04,Stabilized power input
+E3034,Communication Error,PLC Controller,2025-01-05,02:57:52,"Reset PLC, updated firmware"
+E3035,Communication Error,PLC Controller,2025-01-02,04:58:32,"Reset PLC, updated firmware"
+E3036,Voltage Fluctuation,Control Panel,2025-01-03,16:18:54,Stabilized power input
+E3037,Voltage Fluctuation,Control Panel,2025-01-03,10:21:35,Stabilized power input
+E3038,Sensor Failure,Temperature Sensor T1,2025-01-02,02:43:15,Replaced faulty sensor
+E3039,Voltage Fluctuation,Control Panel,2025-01-02,14:03:44,Stabilized power input
+E3040,High Temperature,Cooling System,2025-01-05,20:33:16,Refilled coolant
+E3041,Sensor Failure,Temperature Sensor T1,2025-01-05,11:19:47,Replaced faulty sensor
+E3042,Jammed Component,Conveyor Belt Section C,2025-01-04,17:50:20,Cleared obstruction
+E3043,Sensor Failure,Temperature Sensor T1,2025-01-03,04:57:43,Replaced faulty sensor
+E3044,Low Pressure,Hydraulic Pump,2025-01-02,02:33:04,Adjusted pressure valve
+E3045,High Temperature,Cooling System,2025-01-03,07:27:30,Refilled coolant
+E3046,High Temperature,Cooling System,2025-01-02,04:33:57,Refilled coolant
+E3047,Voltage Fluctuation,Control Panel,2025-01-01,15:55:55,Stabilized power input
+E3048,Communication Error,PLC Controller,2025-01-05,22:06:54,"Reset PLC, updated firmware"
+E3049,Low Pressure,Hydraulic Pump,2025-01-02,04:20:57,Adjusted pressure valve
+E3050,Communication Error,PLC Controller,2025-01-02,11:03:32,"Reset PLC, updated firmware"
+E3051,Oil Leakage,Gear Box,2025-01-04,00:56:51,Replaced oil seal
+E3052,Communication Error,PLC Controller,2025-01-02,21:06:59,"Reset PLC, updated firmware"
+E3053,Low Pressure,Hydraulic Pump,2025-01-03,23:42:45,Adjusted pressure valve
+E3054,Sensor Failure,Temperature Sensor T1,2025-01-01,15:48:58,Replaced faulty sensor
+E3055,Overload Detected,Motor Section,2025-01-02,16:30:59,Reduced machine load
+E3056,Alignment Issue,Conveyor Belt Section A,2025-01-01,16:31:04,Re-aligned conveyor belt
+E3057,Oil Leakage,Gear Box,2025-01-03,12:15:42,Replaced oil seal
+E3058,Jammed Component,Conveyor Belt Section C,2025-01-01,11:49:34,Cleared obstruction
+E3059,Low Pressure,Hydraulic Pump,2025-01-03,09:15:34,Adjusted pressure valve
+E3060,Jammed Component,Conveyor Belt Section C,2025-01-03,06:09:52,Cleared obstruction
+E3061,Sensor Failure,Temperature Sensor T1,2025-01-05,11:28:31,Replaced faulty sensor
+E3062,Voltage Fluctuation,Control Panel,2025-01-05,13:04:54,Stabilized power input
+E3063,Voltage Fluctuation,Control Panel,2025-01-02,07:44:36,Stabilized power input
+E3064,Jammed Component,Conveyor Belt Section C,2025-01-05,15:33:58,Cleared obstruction
+E3065,Jammed Component,Conveyor Belt Section C,2025-01-02,05:09:03,Cleared obstruction
+E3066,Communication Error,PLC Controller,2025-01-02,18:37:30,"Reset PLC, updated firmware"
+E3067,Low Pressure,Hydraulic Pump,2025-01-03,03:28:10,Adjusted pressure valve
+E3068,Sensor Failure,Temperature Sensor T1,2025-01-01,12:07:41,Replaced faulty sensor
+E3069,High Temperature,Cooling System,2025-01-02,21:57:51,Refilled coolant
+E3070,Voltage Fluctuation,Control Panel,2025-01-02,23:52:57,Stabilized power input
+E3071,Alignment Issue,Conveyor Belt Section A,2025-01-05,08:51:12,Re-aligned conveyor belt
+E3072,Communication Error,PLC Controller,2025-01-02,07:00:37,"Reset PLC, updated firmware"
+E3073,Overload Detected,Motor Section,2025-01-04,15:49:58,Reduced machine load
+E3074,Overheating,Motor Section,2025-01-05,16:48:30,"Cooled fan, checked lubrication"
+E3075,Communication Error,PLC Controller,2025-01-02,10:22:37,"Reset PLC, updated firmware"
+E3076,Sensor Failure,Temperature Sensor T1,2025-01-02,03:00:55,Replaced faulty sensor
+E3077,Overload Detected,Motor Section,2025-01-01,16:31:51,Reduced machine load
+E3078,Jammed Component,Conveyor Belt Section C,2025-01-05,09:24:35,Cleared obstruction
+E3079,Sensor Failure,Temperature Sensor T1,2025-01-02,16:25:34,Replaced faulty sensor
+E3080,Jammed Component,Conveyor Belt Section C,2025-01-01,16:51:58,Cleared obstruction
+E3081,Overheating,Motor Section,2025-01-04,09:32:27,"Cooled fan, checked lubrication"
+E3082,Low Pressure,Hydraulic Pump,2025-01-05,08:55:12,Adjusted pressure valve
+E3083,Overheating,Motor Section,2025-01-04,14:36:20,"Cooled fan, checked lubrication"
+E3084,Alignment Issue,Conveyor Belt Section A,2025-01-05,04:31:35,Re-aligned conveyor belt
+E3085,Communication Error,PLC Controller,2025-01-05,00:12:15,"Reset PLC, updated firmware"
+E3086,Oil Leakage,Gear Box,2025-01-05,08:00:24,Replaced oil seal
+E3087,Low Pressure,Hydraulic Pump,2025-01-01,13:56:49,Adjusted pressure valve
+E3088,Low Pressure,Hydraulic Pump,2025-01-01,18:37:28,Adjusted pressure valve
+E3089,Overheating,Motor Section,2025-01-02,01:45:59,"Cooled fan, checked lubrication"
+E3090,Voltage Fluctuation,Control Panel,2025-01-03,00:19:08,Stabilized power input
+E3091,Jammed Component,Conveyor Belt Section C,2025-01-01,10:34:05,Cleared obstruction
+E3092,Voltage Fluctuation,Control Panel,2025-01-02,10:13:29,Stabilized power input
+E3093,High Temperature,Cooling System,2025-01-05,19:37:23,Refilled coolant
+E3094,High Temperature,Cooling System,2025-01-04,00:06:03,Refilled coolant
+E3095,Overload Detected,Motor Section,2025-01-01,23:45:41,Reduced machine load
+E3096,Sensor Failure,Temperature Sensor T1,2025-01-02,03:47:55,Replaced faulty sensor
+E3097,Jammed Component,Conveyor Belt Section C,2025-01-01,17:36:22,Cleared obstruction
+E3098,Voltage Fluctuation,Control Panel,2025-01-05,05:26:57,Stabilized power input
+E3099,Voltage Fluctuation,Control Panel,2025-01-02,07:14:32,Stabilized power input
+E3100,High Temperature,Cooling System,2025-01-03,21:55:24,Refilled coolant
+E3101,Low Pressure,Hydraulic Pump,2025-01-02,12:46:53,Adjusted pressure valve
+E3102,Jammed Component,Conveyor Belt Section C,2025-01-03,22:18:43,Cleared obstruction
+E3103,Sensor Failure,Temperature Sensor T1,2025-01-03,15:44:21,Replaced faulty sensor
+E3104,Low Pressure,Hydraulic Pump,2025-01-03,07:17:21,Adjusted pressure valve
+E3105,Overload Detected,Motor Section,2025-01-04,17:25:59,Reduced machine load
+E3106,Sensor Failure,Temperature Sensor T1,2025-01-04,15:24:47,Replaced faulty sensor
+E3107,Overheating,Motor Section,2025-01-01,17:54:32,"Cooled fan, checked lubrication"
+E3108,Voltage Fluctuation,Control Panel,2025-01-04,20:18:34,Stabilized power input
+E3109,Low Pressure,Hydraulic Pump,2025-01-05,03:11:22,Adjusted pressure valve
+E3110,Sensor Failure,Temperature Sensor T1,2025-01-05,06:31:56,Replaced faulty sensor
+E3111,Alignment Issue,Conveyor Belt Section A,2025-01-02,15:41:16,Re-aligned conveyor belt
+E3112,Low Pressure,Hydraulic Pump,2025-01-05,14:46:34,Adjusted pressure valve
+E3113,Jammed Component,Conveyor Belt Section C,2025-01-02,13:04:03,Cleared obstruction
+E3114,Alignment Issue,Conveyor Belt Section A,2025-01-05,02:08:24,Re-aligned conveyor belt
+E3115,Low Pressure,Hydraulic Pump,2025-01-02,19:54:47,Adjusted pressure valve
+E3116,Overheating,Motor Section,2025-01-04,15:03:11,"Cooled fan, checked lubrication"
+E3117,High Temperature,Cooling System,2025-01-03,06:18:07,Refilled coolant
+E3118,Jammed Component,Conveyor Belt Section C,2025-01-01,08:28:17,Cleared obstruction
+E3119,Oil Leakage,Gear Box,2025-01-03,20:32:06,Replaced oil seal
+E3120,Jammed Component,Conveyor Belt Section C,2025-01-02,02:24:34,Cleared obstruction
+E3121,Overheating,Motor Section,2025-01-03,07:33:55,"Cooled fan, checked lubrication"
+E3122,Overload Detected,Motor Section,2025-01-05,18:35:29,Reduced machine load
+E3123,Jammed Component,Conveyor Belt Section C,2025-01-01,21:59:17,Cleared obstruction
+E3124,Voltage Fluctuation,Control Panel,2025-01-03,02:50:03,Stabilized power input
+E3125,Overheating,Motor Section,2025-01-01,19:51:33,"Cooled fan, checked lubrication"
+E3126,Alignment Issue,Conveyor Belt Section A,2025-01-03,18:07:51,Re-aligned conveyor belt
+E3127,High Temperature,Cooling System,2025-01-02,17:01:41,Refilled coolant
+E3128,Low Pressure,Hydraulic Pump,2025-01-03,15:29:10,Adjusted pressure valve
+E3129,Voltage Fluctuation,Control Panel,2025-01-02,18:23:45,Stabilized power input
+E3130,Jammed Component,Conveyor Belt Section C,2025-01-03,04:26:41,Cleared obstruction
+E3131,Communication Error,PLC Controller,2025-01-05,13:18:06,"Reset PLC, updated firmware"
+E3132,Alignment Issue,Conveyor Belt Section A,2025-01-05,14:48:57,Re-aligned conveyor belt
+E3133,Overheating,Motor Section,2025-01-05,18:13:38,"Cooled fan, checked lubrication"
+E3134,Overheating,Motor Section,2025-01-05,18:59:46,"Cooled fan, checked lubrication"
+E3135,Oil Leakage,Gear Box,2025-01-03,11:48:26,Replaced oil seal
+E3136,Voltage Fluctuation,Control Panel,2025-01-03,12:24:35,Stabilized power input
+E3137,Oil Leakage,Gear Box,2025-01-05,14:56:39,Replaced oil seal
+E3138,Communication Error,PLC Controller,2025-01-03,04:37:30,"Reset PLC, updated firmware"
+E3139,Voltage Fluctuation,Control Panel,2025-01-04,18:56:28,Stabilized power input
+E3140,Alignment Issue,Conveyor Belt Section A,2025-01-04,17:56:17,Re-aligned conveyor belt
+E3141,Oil Leakage,Gear Box,2025-01-04,20:09:58,Replaced oil seal
+E3142,Jammed Component,Conveyor Belt Section C,2025-01-03,06:41:27,Cleared obstruction
+E3143,Overheating,Motor Section,2025-01-05,19:10:09,"Cooled fan, checked lubrication"
+E3144,Jammed Component,Conveyor Belt Section C,2025-01-02,14:01:06,Cleared obstruction
+E3145,Oil Leakage,Gear Box,2025-01-04,09:39:37,Replaced oil seal
+E3146,Overload Detected,Motor Section,2025-01-02,20:19:37,Reduced machine load
+E3147,Low Pressure,Hydraulic Pump,2025-01-02,06:34:57,Adjusted pressure valve
+E3148,Communication Error,PLC Controller,2025-01-05,11:14:28,"Reset PLC, updated firmware"
+E3149,Overload Detected,Motor Section,2025-01-05,14:19:46,Reduced machine load
+E3150,Sensor Failure,Temperature Sensor T1,2025-01-02,12:06:45,Replaced faulty sensor
+E3151,High Temperature,Cooling System,2025-01-03,23:33:34,Refilled coolant
+E3152,Overheating,Motor Section,2025-01-03,07:29:27,"Cooled fan, checked lubrication"
+E3153,High Temperature,Cooling System,2025-01-05,07:32:09,Refilled coolant
+E3154,Communication Error,PLC Controller,2025-01-01,10:10:49,"Reset PLC, updated firmware"
+E3155,High Temperature,Cooling System,2025-01-01,23:38:50,Refilled coolant
+E3156,Overload Detected,Motor Section,2025-01-04,16:21:24,Reduced machine load
+E3157,Oil Leakage,Gear Box,2025-01-02,14:59:57,Replaced oil seal
+E3158,High Temperature,Cooling System,2025-01-01,10:34:08,Refilled coolant
+E3159,Overheating,Motor Section,2025-01-04,15:20:23,"Cooled fan, checked lubrication"
+E3160,Communication Error,PLC Controller,2025-01-03,00:37:06,"Reset PLC, updated firmware"
+E3161,Oil Leakage,Gear Box,2025-01-03,14:46:53,Replaced oil seal
+E3162,Sensor Failure,Temperature Sensor T1,2025-01-04,07:05:24,Replaced faulty sensor
+E3163,Voltage Fluctuation,Control Panel,2025-01-02,09:03:22,Stabilized power input
+E3164,Jammed Component,Conveyor Belt Section C,2025-01-04,21:19:57,Cleared obstruction
+E3165,Overheating,Motor Section,2025-01-01,12:55:22,"Cooled fan, checked lubrication"
+E3166,Sensor Failure,Temperature Sensor T1,2025-01-04,22:38:06,Replaced faulty sensor
+E3167,Sensor Failure,Temperature Sensor T1,2025-01-04,20:15:32,Replaced faulty sensor
+E3168,Low Pressure,Hydraulic Pump,2025-01-04,17:07:11,Adjusted pressure valve
+E3169,Alignment Issue,Conveyor Belt Section A,2025-01-05,17:57:07,Re-aligned conveyor belt
+E3170,Jammed Component,Conveyor Belt Section C,2025-01-05,19:56:57,Cleared obstruction
+E3171,Voltage Fluctuation,Control Panel,2025-01-04,15:14:35,Stabilized power input
+E3172,Voltage Fluctuation,Control Panel,2025-01-02,23:46:30,Stabilized power input
+E3173,Overheating,Motor Section,2025-01-05,07:16:39,"Cooled fan, checked lubrication"
+E3174,Communication Error,PLC Controller,2025-01-04,14:14:48,"Reset PLC, updated firmware"
+E3175,Communication Error,PLC Controller,2025-01-02,06:02:33,"Reset PLC, updated firmware"
+E3176,Oil Leakage,Gear Box,2025-01-05,10:06:23,Replaced oil seal
+E3177,Voltage Fluctuation,Control Panel,2025-01-01,22:38:09,Stabilized power input
+E3178,Jammed Component,Conveyor Belt Section C,2025-01-04,16:02:15,Cleared obstruction
+E3179,Jammed Component,Conveyor Belt Section C,2025-01-01,23:40:53,Cleared obstruction
+E3180,Communication Error,PLC Controller,2025-01-03,17:15:34,"Reset PLC, updated firmware"
+E3181,Voltage Fluctuation,Control Panel,2025-01-04,15:09:56,Stabilized power input
+E3182,Communication Error,PLC Controller,2025-01-04,03:08:54,"Reset PLC, updated firmware"
+E3183,Communication Error,PLC Controller,2025-01-02,15:07:27,"Reset PLC, updated firmware"
+E3184,Overheating,Motor Section,2025-01-01,09:38:52,"Cooled fan, checked lubrication"
+E3185,Voltage Fluctuation,Control Panel,2025-01-04,17:44:59,Stabilized power input
+E3186,Low Pressure,Hydraulic Pump,2025-01-02,15:40:27,Adjusted pressure valve
+E3187,Alignment Issue,Conveyor Belt Section A,2025-01-03,05:39:54,Re-aligned conveyor belt
+E3188,Oil Leakage,Gear Box,2025-01-02,14:36:39,Replaced oil seal
+E3189,Low Pressure,Hydraulic Pump,2025-01-03,03:25:41,Adjusted pressure valve
+E3190,Sensor Failure,Temperature Sensor T1,2025-01-04,18:20:27,Replaced faulty sensor
+E3191,Communication Error,PLC Controller,2025-01-03,18:39:46,"Reset PLC, updated firmware"
+E3192,Overheating,Motor Section,2025-01-04,18:19:22,"Cooled fan, checked lubrication"
+E3193,Voltage Fluctuation,Control Panel,2025-01-01,11:35:12,Stabilized power input
+E3194,Sensor Failure,Temperature Sensor T1,2025-01-05,14:21:45,Replaced faulty sensor
+E3195,Sensor Failure,Temperature Sensor T1,2025-01-01,20:42:23,Replaced faulty sensor
+E3196,Voltage Fluctuation,Control Panel,2025-01-02,12:06:07,Stabilized power input
+E3197,Overload Detected,Motor Section,2025-01-01,19:26:01,Reduced machine load
+E3198,Overheating,Motor Section,2025-01-01,16:24:53,"Cooled fan, checked lubrication"
+E3199,Oil Leakage,Gear Box,2025-01-01,20:30:15,Replaced oil seal
+E3200,Overload Detected,Motor Section,2025-01-03,11:20:35,Reduced machine load
+E3201,High Temperature,Cooling System,2025-01-04,18:24:03,Refilled coolant
+E3202,Alignment Issue,Conveyor Belt Section A,2025-01-03,21:52:36,Re-aligned conveyor belt
+E3203,Sensor Failure,Temperature Sensor T1,2025-01-03,01:49:10,Replaced faulty sensor
+E3204,Oil Leakage,Gear Box,2025-01-05,13:17:05,Replaced oil seal
+E3205,Voltage Fluctuation,Control Panel,2025-01-03,21:12:09,Stabilized power input
+E3206,Low Pressure,Hydraulic Pump,2025-01-05,07:05:36,Adjusted pressure valve
+E3207,Overheating,Motor Section,2025-01-01,21:43:48,"Cooled fan, checked lubrication"
+E3208,Communication Error,PLC Controller,2025-01-05,06:33:10,"Reset PLC, updated firmware"
+E3209,Low Pressure,Hydraulic Pump,2025-01-05,13:58:58,Adjusted pressure valve
+E3210,Overheating,Motor Section,2025-01-02,07:06:54,"Cooled fan, checked lubrication"
+E3211,Overload Detected,Motor Section,2025-01-05,18:13:16,Reduced machine load
+E3212,Jammed Component,Conveyor Belt Section C,2025-01-05,10:29:15,Cleared obstruction
+E3213,Overheating,Motor Section,2025-01-01,23:36:54,"Cooled fan, checked lubrication"
+E3214,Overload Detected,Motor Section,2025-01-05,06:05:42,Reduced machine load
+E3215,High Temperature,Cooling System,2025-01-03,07:23:33,Refilled coolant
+E3216,Voltage Fluctuation,Control Panel,2025-01-04,17:15:44,Stabilized power input
+E3217,Communication Error,PLC Controller,2025-01-05,01:51:15,"Reset PLC, updated firmware"
+E3218,Voltage Fluctuation,Control Panel,2025-01-03,03:36:37,Stabilized power input
+E3219,Alignment Issue,Conveyor Belt Section A,2025-01-03,19:22:55,Re-aligned conveyor belt
+E3220,Voltage Fluctuation,Control Panel,2025-01-04,16:53:06,Stabilized power input
+E3221,Jammed Component,Conveyor Belt Section C,2025-01-03,15:05:14,Cleared obstruction
+E3222,Alignment Issue,Conveyor Belt Section A,2025-01-03,01:48:58,Re-aligned conveyor belt
+E3223,Sensor Failure,Temperature Sensor T1,2025-01-03,00:05:30,Replaced faulty sensor
+E3224,Jammed Component,Conveyor Belt Section C,2025-01-04,01:15:14,Cleared obstruction
+E3225,Overheating,Motor Section,2025-01-01,23:48:57,"Cooled fan, checked lubrication"
+E3226,High Temperature,Cooling System,2025-01-03,21:40:42,Refilled coolant
+E3227,Overheating,Motor Section,2025-01-01,11:51:19,"Cooled fan, checked lubrication"
+E3228,Alignment Issue,Conveyor Belt Section A,2025-01-05,03:26:31,Re-aligned conveyor belt
+E3229,Jammed Component,Conveyor Belt Section C,2025-01-02,22:12:43,Cleared obstruction
+E3230,Communication Error,PLC Controller,2025-01-04,17:13:44,"Reset PLC, updated firmware"
+E3231,Overheating,Motor Section,2025-01-01,13:55:30,"Cooled fan, checked lubrication"
+E3232,Sensor Failure,Temperature Sensor T1,2025-01-02,16:59:57,Replaced faulty sensor
+E3233,Low Pressure,Hydraulic Pump,2025-01-05,16:08:36,Adjusted pressure valve
+E3234,Overheating,Motor Section,2025-01-02,02:00:35,"Cooled fan, checked lubrication"
+E3235,High Temperature,Cooling System,2025-01-02,04:22:06,Refilled coolant
+E3236,Jammed Component,Conveyor Belt Section C,2025-01-02,17:36:32,Cleared obstruction
+E3237,Jammed Component,Conveyor Belt Section C,2025-01-03,07:19:59,Cleared obstruction
+E3238,Overload Detected,Motor Section,2025-01-01,17:32:15,Reduced machine load
+E3239,Low Pressure,Hydraulic Pump,2025-01-02,17:04:46,Adjusted pressure valve
+E3240,Oil Leakage,Gear Box,2025-01-02,22:13:01,Replaced oil seal
+E3241,Overload Detected,Motor Section,2025-01-01,15:34:18,Reduced machine load
+E3242,Low Pressure,Hydraulic Pump,2025-01-03,17:50:47,Adjusted pressure valve
+E3243,Overload Detected,Motor Section,2025-01-05,05:35:32,Reduced machine load
+E3244,Overheating,Motor Section,2025-01-02,20:11:42,"Cooled fan, checked lubrication"
+E3245,Communication Error,PLC Controller,2025-01-05,22:54:25,"Reset PLC, updated firmware"
+E3246,Overheating,Motor Section,2025-01-01,18:27:24,"Cooled fan, checked lubrication"
+E3247,Overload Detected,Motor Section,2025-01-03,22:39:56,Reduced machine load
+E3248,High Temperature,Cooling System,2025-01-02,14:09:29,Refilled coolant
+E3249,Overheating,Motor Section,2025-01-05,07:31:40,"Cooled fan, checked lubrication"
+E3250,Communication Error,PLC Controller,2025-01-03,20:04:44,"Reset PLC, updated firmware"
+E3251,Oil Leakage,Gear Box,2025-01-04,11:03:59,Replaced oil seal
+E3252,Overload Detected,Motor Section,2025-01-04,15:48:11,Reduced machine load
+E3253,Alignment Issue,Conveyor Belt Section A,2025-01-04,14:30:04,Re-aligned conveyor belt
+E3254,Overheating,Motor Section,2025-01-02,21:04:35,"Cooled fan, checked lubrication"
+E3255,Voltage Fluctuation,Control Panel,2025-01-05,00:57:37,Stabilized power input
+E3256,Oil Leakage,Gear Box,2025-01-05,03:08:06,Replaced oil seal
+E3257,Low Pressure,Hydraulic Pump,2025-01-02,12:31:50,Adjusted pressure valve
+E3258,Overheating,Motor Section,2025-01-02,11:04:24,"Cooled fan, checked lubrication"
+E3259,Overheating,Motor Section,2025-01-05,12:26:12,"Cooled fan, checked lubrication"
+E3260,Oil Leakage,Gear Box,2025-01-03,21:19:25,Replaced oil seal
+E3261,Jammed Component,Conveyor Belt Section C,2025-01-04,12:45:26,Cleared obstruction
+E3262,Sensor Failure,Temperature Sensor T1,2025-01-03,13:26:55,Replaced faulty sensor
+E3263,Alignment Issue,Conveyor Belt Section A,2025-01-03,14:32:37,Re-aligned conveyor belt
+E3264,Sensor Failure,Temperature Sensor T1,2025-01-05,05:04:52,Replaced faulty sensor
+E3265,Oil Leakage,Gear Box,2025-01-04,03:24:57,Replaced oil seal
+E3266,Low Pressure,Hydraulic Pump,2025-01-03,11:20:09,Adjusted pressure valve
+E3267,Low Pressure,Hydraulic Pump,2025-01-02,22:27:59,Adjusted pressure valve
+E3268,Oil Leakage,Gear Box,2025-01-05,22:38:31,Replaced oil seal
+E3269,High Temperature,Cooling System,2025-01-04,21:51:13,Refilled coolant
+E3270,High Temperature,Cooling System,2025-01-02,17:22:59,Refilled coolant
+E3271,Voltage Fluctuation,Control Panel,2025-01-02,15:16:47,Stabilized power input
+E3272,Alignment Issue,Conveyor Belt Section A,2025-01-04,12:07:22,Re-aligned conveyor belt
+E3273,Jammed Component,Conveyor Belt Section C,2025-01-01,16:04:28,Cleared obstruction
+E3274,Overheating,Motor Section,2025-01-03,14:43:14,"Cooled fan, checked lubrication"
+E3275,Jammed Component,Conveyor Belt Section C,2025-01-04,01:59:30,Cleared obstruction
+E3276,Jammed Component,Conveyor Belt Section C,2025-01-05,09:57:31,Cleared obstruction
+E3277,Jammed Component,Conveyor Belt Section C,2025-01-02,04:12:04,Cleared obstruction
+E3278,Jammed Component,Conveyor Belt Section C,2025-01-01,19:14:53,Cleared obstruction
+E3279,High Temperature,Cooling System,2025-01-01,20:09:12,Refilled coolant
+E3280,Jammed Component,Conveyor Belt Section C,2025-01-04,08:57:00,Cleared obstruction
+E3281,Overheating,Motor Section,2025-01-02,01:47:05,"Cooled fan, checked lubrication"
+E3282,Overload Detected,Motor Section,2025-01-04,23:29:39,Reduced machine load
+E3283,Oil Leakage,Gear Box,2025-01-04,04:43:13,Replaced oil seal
+E3284,Jammed Component,Conveyor Belt Section C,2025-01-05,16:16:10,Cleared obstruction
+E3285,High Temperature,Cooling System,2025-01-01,17:24:07,Refilled coolant
+E3286,Voltage Fluctuation,Control Panel,2025-01-01,21:50:52,Stabilized power input
+E3287,Jammed Component,Conveyor Belt Section C,2025-01-05,08:25:01,Cleared obstruction
+E3288,Alignment Issue,Conveyor Belt Section A,2025-01-02,08:47:19,Re-aligned conveyor belt
+E3289,Communication Error,PLC Controller,2025-01-03,11:05:08,"Reset PLC, updated firmware"
+E3290,Overheating,Motor Section,2025-01-02,21:05:15,"Cooled fan, checked lubrication"
+E3291,Overheating,Motor Section,2025-01-03,14:12:37,"Cooled fan, checked lubrication"
+E3292,Overload Detected,Motor Section,2025-01-05,18:45:25,Reduced machine load
+E3293,Jammed Component,Conveyor Belt Section C,2025-01-03,15:27:11,Cleared obstruction
+E3294,Overheating,Motor Section,2025-01-05,06:11:57,"Cooled fan, checked lubrication"
+E3295,Low Pressure,Hydraulic Pump,2025-01-02,08:46:52,Adjusted pressure valve
+E3296,Sensor Failure,Temperature Sensor T1,2025-01-01,11:24:07,Replaced faulty sensor
+E3297,Communication Error,PLC Controller,2025-01-03,16:53:46,"Reset PLC, updated firmware"
+E3298,Overload Detected,Motor Section,2025-01-04,14:40:50,Reduced machine load
+E3299,Sensor Failure,Temperature Sensor T1,2025-01-02,08:43:13,Replaced faulty sensor
+E3300,Overload Detected,Motor Section,2025-01-04,09:53:55,Reduced machine load
+E3301,Communication Error,PLC Controller,2025-01-04,10:57:39,"Reset PLC, updated firmware"
+E3302,Overheating,Motor Section,2025-01-01,22:26:47,"Cooled fan, checked lubrication"
+E3303,Sensor Failure,Temperature Sensor T1,2025-01-04,10:56:13,Replaced faulty sensor
+E3304,Jammed Component,Conveyor Belt Section C,2025-01-01,08:10:53,Cleared obstruction
+E3305,Voltage Fluctuation,Control Panel,2025-01-02,06:19:30,Stabilized power input
+E3306,High Temperature,Cooling System,2025-01-02,15:58:06,Refilled coolant
+E3307,Sensor Failure,Temperature Sensor T1,2025-01-03,11:53:43,Replaced faulty sensor
+E3308,High Temperature,Cooling System,2025-01-05,10:19:47,Refilled coolant
+E3309,High Temperature,Cooling System,2025-01-01,08:39:09,Refilled coolant
+E3310,Jammed Component,Conveyor Belt Section C,2025-01-03,10:05:09,Cleared obstruction
+E3311,Jammed Component,Conveyor Belt Section C,2025-01-04,07:53:05,Cleared obstruction
+E3312,Communication Error,PLC Controller,2025-01-01,09:26:05,"Reset PLC, updated firmware"
+E3313,Alignment Issue,Conveyor Belt Section A,2025-01-05,05:59:51,Re-aligned conveyor belt
+E3314,Sensor Failure,Temperature Sensor T1,2025-01-03,08:55:19,Replaced faulty sensor
+E3315,High Temperature,Cooling System,2025-01-04,15:55:03,Refilled coolant
+E3316,Overheating,Motor Section,2025-01-02,15:49:45,"Cooled fan, checked lubrication"
+E3317,Alignment Issue,Conveyor Belt Section A,2025-01-05,14:59:18,Re-aligned conveyor belt
+E3318,Overheating,Motor Section,2025-01-01,12:49:15,"Cooled fan, checked lubrication"
+E3319,High Temperature,Cooling System,2025-01-01,20:28:46,Refilled coolant
+E3320,Sensor Failure,Temperature Sensor T1,2025-01-04,07:20:58,Replaced faulty sensor
+E3321,Alignment Issue,Conveyor Belt Section A,2025-01-01,12:24:59,Re-aligned conveyor belt
+E3322,Voltage Fluctuation,Control Panel,2025-01-03,15:04:08,Stabilized power input
+E3323,Overheating,Motor Section,2025-01-05,16:59:10,"Cooled fan, checked lubrication"
+E3324,Voltage Fluctuation,Control Panel,2025-01-01,18:47:42,Stabilized power input
+E3325,Jammed Component,Conveyor Belt Section C,2025-01-03,04:23:08,Cleared obstruction
+E3326,Communication Error,PLC Controller,2025-01-04,02:47:46,"Reset PLC, updated firmware"
+E3327,Jammed Component,Conveyor Belt Section C,2025-01-04,01:44:18,Cleared obstruction
+E3328,High Temperature,Cooling System,2025-01-04,20:38:53,Refilled coolant
+E3329,High Temperature,Cooling System,2025-01-01,19:12:17,Refilled coolant
+E3330,Communication Error,PLC Controller,2025-01-04,23:04:20,"Reset PLC, updated firmware"
+E3331,Communication Error,PLC Controller,2025-01-02,17:24:53,"Reset PLC, updated firmware"
+E3332,Communication Error,PLC Controller,2025-01-05,00:02:13,"Reset PLC, updated firmware"
+E3333,Voltage Fluctuation,Control Panel,2025-01-04,19:07:41,Stabilized power input
+E3334,Overload Detected,Motor Section,2025-01-04,22:54:46,Reduced machine load
+E3335,Sensor Failure,Temperature Sensor T1,2025-01-03,07:10:25,Replaced faulty sensor
+E3336,Voltage Fluctuation,Control Panel,2025-01-02,13:23:54,Stabilized power input
+E3337,Alignment Issue,Conveyor Belt Section A,2025-01-03,15:37:22,Re-aligned conveyor belt
+E3338,Overload Detected,Motor Section,2025-01-02,16:19:24,Reduced machine load
+E3339,Overload Detected,Motor Section,2025-01-04,04:50:55,Reduced machine load
+E3340,Low Pressure,Hydraulic Pump,2025-01-04,04:56:44,Adjusted pressure valve
+E3341,Jammed Component,Conveyor Belt Section C,2025-01-05,10:45:54,Cleared obstruction
+E3342,Overheating,Motor Section,2025-01-04,06:41:38,"Cooled fan, checked lubrication"
+E3343,Oil Leakage,Gear Box,2025-01-02,08:20:43,Replaced oil seal
+E3344,Low Pressure,Hydraulic Pump,2025-01-04,03:29:09,Adjusted pressure valve
+E3345,Low Pressure,Hydraulic Pump,2025-01-03,21:05:21,Adjusted pressure valve
+E3346,Oil Leakage,Gear Box,2025-01-01,17:59:19,Replaced oil seal
+E3347,Sensor Failure,Temperature Sensor T1,2025-01-05,08:48:30,Replaced faulty sensor
+E3348,High Temperature,Cooling System,2025-01-01,11:31:00,Refilled coolant
+E3349,Alignment Issue,Conveyor Belt Section A,2025-01-04,17:19:06,Re-aligned conveyor belt
+E3350,High Temperature,Cooling System,2025-01-05,00:53:34,Refilled coolant
+E3351,Low Pressure,Hydraulic Pump,2025-01-02,10:32:16,Adjusted pressure valve
+E3352,Voltage Fluctuation,Control Panel,2025-01-02,17:14:54,Stabilized power input
+E3353,Overheating,Motor Section,2025-01-02,01:19:51,"Cooled fan, checked lubrication"
+E3354,Communication Error,PLC Controller,2025-01-04,03:30:48,"Reset PLC, updated firmware"
+E3355,Low Pressure,Hydraulic Pump,2025-01-02,06:22:48,Adjusted pressure valve
+E3356,Oil Leakage,Gear Box,2025-01-03,06:23:38,Replaced oil seal
+E3357,High Temperature,Cooling System,2025-01-03,07:59:01,Refilled coolant
+E3358,Jammed Component,Conveyor Belt Section C,2025-01-02,11:34:08,Cleared obstruction
+E3359,Low Pressure,Hydraulic Pump,2025-01-04,12:48:30,Adjusted pressure valve
+E3360,High Temperature,Cooling System,2025-01-04,17:01:37,Refilled coolant
+E3361,Oil Leakage,Gear Box,2025-01-02,14:25:43,Replaced oil seal
+E3362,Low Pressure,Hydraulic Pump,2025-01-04,03:59:22,Adjusted pressure valve
+E3363,Communication Error,PLC Controller,2025-01-05,04:50:12,"Reset PLC, updated firmware"
+E3364,High Temperature,Cooling System,2025-01-02,17:50:19,Refilled coolant
+E3365,Alignment Issue,Conveyor Belt Section A,2025-01-04,18:54:53,Re-aligned conveyor belt
+E3366,Sensor Failure,Temperature Sensor T1,2025-01-03,14:37:41,Replaced faulty sensor
+E3367,Sensor Failure,Temperature Sensor T1,2025-01-04,20:26:16,Replaced faulty sensor
+E3368,Voltage Fluctuation,Control Panel,2025-01-04,02:25:09,Stabilized power input
+E3369,Low Pressure,Hydraulic Pump,2025-01-03,17:20:27,Adjusted pressure valve
+E3370,Communication Error,PLC Controller,2025-01-02,19:11:33,"Reset PLC, updated firmware"
+E3371,Overheating,Motor Section,2025-01-04,09:02:07,"Cooled fan, checked lubrication"
+E3372,Low Pressure,Hydraulic Pump,2025-01-02,14:13:31,Adjusted pressure valve
+E3373,Alignment Issue,Conveyor Belt Section A,2025-01-02,16:37:33,Re-aligned conveyor belt
+E3374,Sensor Failure,Temperature Sensor T1,2025-01-05,22:53:14,Replaced faulty sensor
+E3375,Overheating,Motor Section,2025-01-03,11:22:15,"Cooled fan, checked lubrication"
+E3376,Oil Leakage,Gear Box,2025-01-04,09:25:05,Replaced oil seal
+E3377,Sensor Failure,Temperature Sensor T1,2025-01-05,02:42:47,Replaced faulty sensor
+E3378,Overload Detected,Motor Section,2025-01-01,09:05:13,Reduced machine load
+E3379,Oil Leakage,Gear Box,2025-01-05,19:32:35,Replaced oil seal
+E3380,Sensor Failure,Temperature Sensor T1,2025-01-02,23:50:58,Replaced faulty sensor
+E3381,High Temperature,Cooling System,2025-01-02,22:02:11,Refilled coolant
+E3382,Oil Leakage,Gear Box,2025-01-02,09:11:39,Replaced oil seal
+E3383,Jammed Component,Conveyor Belt Section C,2025-01-02,09:10:21,Cleared obstruction
+E3384,Oil Leakage,Gear Box,2025-01-03,08:00:01,Replaced oil seal
+E3385,Low Pressure,Hydraulic Pump,2025-01-01,13:54:03,Adjusted pressure valve
+E3386,Jammed Component,Conveyor Belt Section C,2025-01-03,09:40:19,Cleared obstruction
+E3387,Overload Detected,Motor Section,2025-01-04,05:58:29,Reduced machine load
+E3388,Oil Leakage,Gear Box,2025-01-04,10:59:37,Replaced oil seal
+E3389,Communication Error,PLC Controller,2025-01-04,02:15:28,"Reset PLC, updated firmware"
+E3390,Jammed Component,Conveyor Belt Section C,2025-01-03,15:13:49,Cleared obstruction
+E3391,Jammed Component,Conveyor Belt Section C,2025-01-03,03:15:11,Cleared obstruction
+E3392,Alignment Issue,Conveyor Belt Section A,2025-01-02,09:44:02,Re-aligned conveyor belt
+E3393,Communication Error,PLC Controller,2025-01-03,13:01:24,"Reset PLC, updated firmware"
+E3394,Oil Leakage,Gear Box,2025-01-03,20:13:42,Replaced oil seal
+E3395,Low Pressure,Hydraulic Pump,2025-01-03,08:43:32,Adjusted pressure valve
+E3396,Communication Error,PLC Controller,2025-01-03,23:24:18,"Reset PLC, updated firmware"
+E3397,Voltage Fluctuation,Control Panel,2025-01-03,18:14:40,Stabilized power input
+E3398,Voltage Fluctuation,Control Panel,2025-01-03,19:42:59,Stabilized power input
+E3399,Oil Leakage,Gear Box,2025-01-05,15:11:07,Replaced oil seal
+E3400,Communication Error,PLC Controller,2025-01-02,10:08:10,"Reset PLC, updated firmware"
+E3401,Sensor Failure,Temperature Sensor T1,2025-01-05,10:44:39,Replaced faulty sensor
+E3402,High Temperature,Cooling System,2025-01-03,08:12:52,Refilled coolant
+E3403,Communication Error,PLC Controller,2025-01-02,21:52:38,"Reset PLC, updated firmware"
+E3404,Voltage Fluctuation,Control Panel,2025-01-03,07:52:45,Stabilized power input
+E3405,Jammed Component,Conveyor Belt Section C,2025-01-04,00:59:04,Cleared obstruction
+E3406,Communication Error,PLC Controller,2025-01-05,08:32:02,"Reset PLC, updated firmware"
+E3407,Voltage Fluctuation,Control Panel,2025-01-01,22:29:34,Stabilized power input
+E3408,Low Pressure,Hydraulic Pump,2025-01-05,17:10:23,Adjusted pressure valve
+E3409,Oil Leakage,Gear Box,2025-01-05,14:01:51,Replaced oil seal
+E3410,Oil Leakage,Gear Box,2025-01-02,02:21:39,Replaced oil seal
+E3411,Low Pressure,Hydraulic Pump,2025-01-04,03:54:10,Adjusted pressure valve
+E3412,Overload Detected,Motor Section,2025-01-03,09:37:38,Reduced machine load
+E3413,Sensor Failure,Temperature Sensor T1,2025-01-03,00:55:14,Replaced faulty sensor
+E3414,Overload Detected,Motor Section,2025-01-03,23:31:44,Reduced machine load
+E3415,Low Pressure,Hydraulic Pump,2025-01-01,17:55:59,Adjusted pressure valve
+E3416,Low Pressure,Hydraulic Pump,2025-01-05,04:17:39,Adjusted pressure valve
+E3417,Voltage Fluctuation,Control Panel,2025-01-02,06:13:31,Stabilized power input
+E3418,Overheating,Motor Section,2025-01-02,18:41:56,"Cooled fan, checked lubrication"
+E3419,Oil Leakage,Gear Box,2025-01-02,19:56:12,Replaced oil seal
+E3420,Voltage Fluctuation,Control Panel,2025-01-01,14:40:04,Stabilized power input
+E3421,Jammed Component,Conveyor Belt Section C,2025-01-05,20:27:12,Cleared obstruction
+E3422,High Temperature,Cooling System,2025-01-05,02:22:29,Refilled coolant
+E3423,Oil Leakage,Gear Box,2025-01-05,00:41:59,Replaced oil seal
+E3424,Overheating,Motor Section,2025-01-03,06:55:52,"Cooled fan, checked lubrication"
+E3425,Communication Error,PLC Controller,2025-01-02,22:05:46,"Reset PLC, updated firmware"
+E3426,Jammed Component,Conveyor Belt Section C,2025-01-01,21:27:21,Cleared obstruction
+E3427,Voltage Fluctuation,Control Panel,2025-01-04,02:48:10,Stabilized power input
+E3428,Communication Error,PLC Controller,2025-01-04,01:00:49,"Reset PLC, updated firmware"
+E3429,Jammed Component,Conveyor Belt Section C,2025-01-01,15:43:27,Cleared obstruction
+E3430,Communication Error,PLC Controller,2025-01-03,19:08:01,"Reset PLC, updated firmware"
+E3431,Alignment Issue,Conveyor Belt Section A,2025-01-03,23:29:59,Re-aligned conveyor belt
+E3432,Jammed Component,Conveyor Belt Section C,2025-01-02,01:21:39,Cleared obstruction
+E3433,Jammed Component,Conveyor Belt Section C,2025-01-05,22:22:24,Cleared obstruction
+E3434,Jammed Component,Conveyor Belt Section C,2025-01-05,11:17:14,Cleared obstruction
+E3435,High Temperature,Cooling System,2025-01-03,10:19:45,Refilled coolant
+E3436,Communication Error,PLC Controller,2025-01-02,13:22:58,"Reset PLC, updated firmware"
+E3437,Jammed Component,Conveyor Belt Section C,2025-01-05,18:21:54,Cleared obstruction
+E3438,Voltage Fluctuation,Control Panel,2025-01-02,09:10:13,Stabilized power input
+E3439,Overload Detected,Motor Section,2025-01-05,04:55:49,Reduced machine load
+E3440,Alignment Issue,Conveyor Belt Section A,2025-01-04,14:01:22,Re-aligned conveyor belt
+E3441,Oil Leakage,Gear Box,2025-01-02,04:13:14,Replaced oil seal
+E3442,Jammed Component,Conveyor Belt Section C,2025-01-03,17:14:24,Cleared obstruction
+E3443,Voltage Fluctuation,Control Panel,2025-01-04,08:05:15,Stabilized power input
+E3444,Overheating,Motor Section,2025-01-05,16:37:53,"Cooled fan, checked lubrication"
+E3445,Overload Detected,Motor Section,2025-01-03,22:04:02,Reduced machine load
+E3446,Sensor Failure,Temperature Sensor T1,2025-01-01,21:35:21,Replaced faulty sensor
+E3447,Oil Leakage,Gear Box,2025-01-04,07:38:45,Replaced oil seal
+E3448,Oil Leakage,Gear Box,2025-01-03,02:41:11,Replaced oil seal
+E3449,Alignment Issue,Conveyor Belt Section A,2025-01-04,22:14:11,Re-aligned conveyor belt
+E3450,High Temperature,Cooling System,2025-01-02,14:44:04,Refilled coolant
+E3451,Overload Detected,Motor Section,2025-01-01,14:52:42,Reduced machine load
+E3452,Sensor Failure,Temperature Sensor T1,2025-01-02,13:48:59,Replaced faulty sensor
+E3453,Alignment Issue,Conveyor Belt Section A,2025-01-05,18:36:03,Re-aligned conveyor belt
+E3454,Overload Detected,Motor Section,2025-01-03,21:27:25,Reduced machine load
+E3455,High Temperature,Cooling System,2025-01-02,11:38:36,Refilled coolant
+E3456,Sensor Failure,Temperature Sensor T1,2025-01-04,18:39:06,Replaced faulty sensor
+E3457,Alignment Issue,Conveyor Belt Section A,2025-01-02,09:51:08,Re-aligned conveyor belt
+E3458,Communication Error,PLC Controller,2025-01-02,16:14:12,"Reset PLC, updated firmware"
+E3459,Jammed Component,Conveyor Belt Section C,2025-01-05,11:03:00,Cleared obstruction
+E3460,Oil Leakage,Gear Box,2025-01-05,00:23:16,Replaced oil seal
+E3461,Alignment Issue,Conveyor Belt Section A,2025-01-03,19:05:05,Re-aligned conveyor belt
+E3462,Alignment Issue,Conveyor Belt Section A,2025-01-04,11:35:58,Re-aligned conveyor belt
+E3463,Low Pressure,Hydraulic Pump,2025-01-02,15:38:45,Adjusted pressure valve
+E3464,Overheating,Motor Section,2025-01-03,11:06:40,"Cooled fan, checked lubrication"
+E3465,Low Pressure,Hydraulic Pump,2025-01-03,20:08:57,Adjusted pressure valve
+E3466,Oil Leakage,Gear Box,2025-01-03,10:36:46,Replaced oil seal
+E3467,High Temperature,Cooling System,2025-01-02,05:15:13,Refilled coolant
+E3468,Overheating,Motor Section,2025-01-05,05:39:10,"Cooled fan, checked lubrication"
+E3469,Oil Leakage,Gear Box,2025-01-04,09:52:59,Replaced oil seal
+E3470,High Temperature,Cooling System,2025-01-01,12:57:10,Refilled coolant
+E3471,High Temperature,Cooling System,2025-01-02,14:15:05,Refilled coolant
+E3472,Sensor Failure,Temperature Sensor T1,2025-01-03,01:05:55,Replaced faulty sensor
+E3473,Alignment Issue,Conveyor Belt Section A,2025-01-04,05:33:02,Re-aligned conveyor belt
+E3474,Jammed Component,Conveyor Belt Section C,2025-01-05,05:52:05,Cleared obstruction
+E3475,Communication Error,PLC Controller,2025-01-05,13:59:32,"Reset PLC, updated firmware"
+E3476,Voltage Fluctuation,Control Panel,2025-01-04,16:28:55,Stabilized power input
+E3477,Sensor Failure,Temperature Sensor T1,2025-01-05,07:15:34,Replaced faulty sensor
+E3478,Low Pressure,Hydraulic Pump,2025-01-03,22:08:24,Adjusted pressure valve
+E3479,Communication Error,PLC Controller,2025-01-01,16:01:58,"Reset PLC, updated firmware"
+E3480,High Temperature,Cooling System,2025-01-03,00:09:28,Refilled coolant
+E3481,Low Pressure,Hydraulic Pump,2025-01-04,08:00:59,Adjusted pressure valve
+E3482,High Temperature,Cooling System,2025-01-05,17:03:53,Refilled coolant
+E3483,Sensor Failure,Temperature Sensor T1,2025-01-01,18:44:24,Replaced faulty sensor
+E3484,Voltage Fluctuation,Control Panel,2025-01-03,03:08:09,Stabilized power input
+E3485,Oil Leakage,Gear Box,2025-01-04,22:44:56,Replaced oil seal
+E3486,Low Pressure,Hydraulic Pump,2025-01-04,20:47:25,Adjusted pressure valve
+E3487,Overload Detected,Motor Section,2025-01-03,05:23:37,Reduced machine load
+E3488,Low Pressure,Hydraulic Pump,2025-01-05,12:58:35,Adjusted pressure valve
+E3489,Low Pressure,Hydraulic Pump,2025-01-03,11:57:39,Adjusted pressure valve
+E3490,High Temperature,Cooling System,2025-01-03,23:54:23,Refilled coolant
+E3491,Jammed Component,Conveyor Belt Section C,2025-01-05,22:06:21,Cleared obstruction
+E3492,Overload Detected,Motor Section,2025-01-05,11:08:32,Reduced machine load
+E3493,Sensor Failure,Temperature Sensor T1,2025-01-03,08:04:44,Replaced faulty sensor
+E3494,Sensor Failure,Temperature Sensor T1,2025-01-04,05:29:19,Replaced faulty sensor
+E3495,Communication Error,PLC Controller,2025-01-02,04:12:11,"Reset PLC, updated firmware"
+E3496,Voltage Fluctuation,Control Panel,2025-01-02,06:21:03,Stabilized power input
+E3497,Oil Leakage,Gear Box,2025-01-05,08:41:24,Replaced oil seal
+E3498,Communication Error,PLC Controller,2025-01-04,22:55:43,"Reset PLC, updated firmware"
+E3499,Communication Error,PLC Controller,2025-01-01,23:11:04,"Reset PLC, updated firmware"
+E3500,Sensor Failure,Temperature Sensor T1,2025-01-01,14:52:12,Replaced faulty sensor
+E3501,Voltage Fluctuation,Control Panel,2025-01-05,16:10:40,Stabilized power input
+E3502,Oil Leakage,Gear Box,2025-01-05,00:24:48,Replaced oil seal
+E3503,Communication Error,PLC Controller,2025-01-02,21:15:32,"Reset PLC, updated firmware"
+E3504,Overload Detected,Motor Section,2025-01-04,07:35:55,Reduced machine load
+E3505,Overheating,Motor Section,2025-01-02,16:26:31,"Cooled fan, checked lubrication"
+E3506,Jammed Component,Conveyor Belt Section C,2025-01-04,04:22:08,Cleared obstruction
+E3507,Oil Leakage,Gear Box,2025-01-05,09:27:03,Replaced oil seal
+E3508,High Temperature,Cooling System,2025-01-04,14:17:03,Refilled coolant
+E3509,Communication Error,PLC Controller,2025-01-01,20:44:05,"Reset PLC, updated firmware"
+E3510,Sensor Failure,Temperature Sensor T1,2025-01-03,21:34:39,Replaced faulty sensor
+E3511,Sensor Failure,Temperature Sensor T1,2025-01-02,22:40:26,Replaced faulty sensor
+E3512,Sensor Failure,Temperature Sensor T1,2025-01-02,02:27:42,Replaced faulty sensor
+E3513,Sensor Failure,Temperature Sensor T1,2025-01-02,03:11:28,Replaced faulty sensor
+E3514,Overheating,Motor Section,2025-01-02,16:00:40,"Cooled fan, checked lubrication"
+E3515,Low Pressure,Hydraulic Pump,2025-01-02,15:18:39,Adjusted pressure valve
+E3516,Overheating,Motor Section,2025-01-03,19:04:42,"Cooled fan, checked lubrication"
+E3517,Overload Detected,Motor Section,2025-01-05,09:41:13,Reduced machine load
+E3518,High Temperature,Cooling System,2025-01-04,05:12:30,Refilled coolant
+E3519,Low Pressure,Hydraulic Pump,2025-01-05,01:46:41,Adjusted pressure valve
+E3520,Oil Leakage,Gear Box,2025-01-03,18:40:41,Replaced oil seal
+E3521,Voltage Fluctuation,Control Panel,2025-01-01,15:20:49,Stabilized power input
+E3522,Alignment Issue,Conveyor Belt Section A,2025-01-01,09:20:56,Re-aligned conveyor belt
+E3523,Sensor Failure,Temperature Sensor T1,2025-01-04,02:32:08,Replaced faulty sensor
+E3524,Jammed Component,Conveyor Belt Section C,2025-01-05,19:12:53,Cleared obstruction
+E3525,Overheating,Motor Section,2025-01-03,08:28:11,"Cooled fan, checked lubrication"
+E3526,Overload Detected,Motor Section,2025-01-02,15:30:16,Reduced machine load
+E3527,Alignment Issue,Conveyor Belt Section A,2025-01-01,22:22:08,Re-aligned conveyor belt
+E3528,Voltage Fluctuation,Control Panel,2025-01-02,17:35:57,Stabilized power input
+E3529,Jammed Component,Conveyor Belt Section C,2025-01-03,09:32:49,Cleared obstruction
+E3530,Alignment Issue,Conveyor Belt Section A,2025-01-03,15:03:46,Re-aligned conveyor belt
+E3531,High Temperature,Cooling System,2025-01-03,23:43:34,Refilled coolant
+E3532,Alignment Issue,Conveyor Belt Section A,2025-01-02,14:22:47,Re-aligned conveyor belt
+E3533,Communication Error,PLC Controller,2025-01-04,05:24:51,"Reset PLC, updated firmware"
+E3534,High Temperature,Cooling System,2025-01-01,12:59:30,Refilled coolant
+E3535,Low Pressure,Hydraulic Pump,2025-01-01,15:00:30,Adjusted pressure valve
+E3536,Sensor Failure,Temperature Sensor T1,2025-01-02,18:19:27,Replaced faulty sensor
+E3537,Voltage Fluctuation,Control Panel,2025-01-03,05:29:05,Stabilized power input
+E3538,Alignment Issue,Conveyor Belt Section A,2025-01-01,08:29:32,Re-aligned conveyor belt
+E3539,Low Pressure,Hydraulic Pump,2025-01-04,18:20:43,Adjusted pressure valve
+E3540,Overload Detected,Motor Section,2025-01-05,01:51:11,Reduced machine load
+E3541,High Temperature,Cooling System,2025-01-04,09:40:41,Refilled coolant
+E3542,Sensor Failure,Temperature Sensor T1,2025-01-03,12:37:05,Replaced faulty sensor
+E3543,Overheating,Motor Section,2025-01-03,19:03:50,"Cooled fan, checked lubrication"
+E3544,Low Pressure,Hydraulic Pump,2025-01-01,09:02:40,Adjusted pressure valve
+E3545,Overload Detected,Motor Section,2025-01-01,18:40:44,Reduced machine load
+E3546,Alignment Issue,Conveyor Belt Section A,2025-01-01,17:57:22,Re-aligned conveyor belt
+E3547,Low Pressure,Hydraulic Pump,2025-01-05,11:20:43,Adjusted pressure valve
+E3548,Communication Error,PLC Controller,2025-01-03,09:50:41,"Reset PLC, updated firmware"
+E3549,Jammed Component,Conveyor Belt Section C,2025-01-02,00:15:28,Cleared obstruction
+E3550,High Temperature,Cooling System,2025-01-01,21:40:00,Refilled coolant
+E3551,High Temperature,Cooling System,2025-01-03,07:59:50,Refilled coolant
+E3552,Overheating,Motor Section,2025-01-04,10:58:51,"Cooled fan, checked lubrication"
+E3553,Overheating,Motor Section,2025-01-03,20:26:58,"Cooled fan, checked lubrication"
+E3554,Oil Leakage,Gear Box,2025-01-05,03:57:27,Replaced oil seal
+E3555,Overheating,Motor Section,2025-01-02,03:36:58,"Cooled fan, checked lubrication"
+E3556,Low Pressure,Hydraulic Pump,2025-01-04,17:50:38,Adjusted pressure valve
+E3557,Overheating,Motor Section,2025-01-01,16:31:46,"Cooled fan, checked lubrication"
+E3558,Alignment Issue,Conveyor Belt Section A,2025-01-01,14:11:07,Re-aligned conveyor belt
+E3559,Overload Detected,Motor Section,2025-01-05,08:04:07,Reduced machine load
+E3560,Alignment Issue,Conveyor Belt Section A,2025-01-02,20:59:02,Re-aligned conveyor belt
+E3561,Communication Error,PLC Controller,2025-01-04,03:58:29,"Reset PLC, updated firmware"
+E3562,Low Pressure,Hydraulic Pump,2025-01-05,07:06:50,Adjusted pressure valve
+E3563,Overload Detected,Motor Section,2025-01-04,05:43:48,Reduced machine load
+E3564,Voltage Fluctuation,Control Panel,2025-01-04,23:51:17,Stabilized power input
+E3565,Sensor Failure,Temperature Sensor T1,2025-01-04,22:43:47,Replaced faulty sensor
+E3566,Jammed Component,Conveyor Belt Section C,2025-01-03,14:20:36,Cleared obstruction
+E3567,Sensor Failure,Temperature Sensor T1,2025-01-03,19:24:46,Replaced faulty sensor
+E3568,Overheating,Motor Section,2025-01-04,15:12:07,"Cooled fan, checked lubrication"
+E3569,Jammed Component,Conveyor Belt Section C,2025-01-01,17:19:10,Cleared obstruction
+E3570,Alignment Issue,Conveyor Belt Section A,2025-01-04,01:29:08,Re-aligned conveyor belt
+E3571,Voltage Fluctuation,Control Panel,2025-01-02,09:16:08,Stabilized power input
+E3572,Overheating,Motor Section,2025-01-05,15:57:02,"Cooled fan, checked lubrication"
+E3573,Overload Detected,Motor Section,2025-01-05,06:02:03,Reduced machine load
+E3574,Overheating,Motor Section,2025-01-01,14:55:17,"Cooled fan, checked lubrication"
+E3575,Overload Detected,Motor Section,2025-01-03,13:38:22,Reduced machine load
+E3576,Voltage Fluctuation,Control Panel,2025-01-01,11:27:59,Stabilized power input
+E3577,Communication Error,PLC Controller,2025-01-03,21:03:21,"Reset PLC, updated firmware"
+E3578,Overload Detected,Motor Section,2025-01-04,08:13:49,Reduced machine load
+E3579,Alignment Issue,Conveyor Belt Section A,2025-01-01,13:39:20,Re-aligned conveyor belt
+E3580,Jammed Component,Conveyor Belt Section C,2025-01-02,11:55:02,Cleared obstruction
+E3581,Communication Error,PLC Controller,2025-01-05,11:04:20,"Reset PLC, updated firmware"
+E3582,High Temperature,Cooling System,2025-01-01,21:24:06,Refilled coolant
+E3583,Voltage Fluctuation,Control Panel,2025-01-05,02:47:56,Stabilized power input
+E3584,Alignment Issue,Conveyor Belt Section A,2025-01-05,17:49:08,Re-aligned conveyor belt
+E3585,Sensor Failure,Temperature Sensor T1,2025-01-02,05:26:47,Replaced faulty sensor
+E3586,High Temperature,Cooling System,2025-01-03,06:20:09,Refilled coolant
+E3587,Alignment Issue,Conveyor Belt Section A,2025-01-02,01:33:54,Re-aligned conveyor belt
+E3588,Overheating,Motor Section,2025-01-02,08:51:48,"Cooled fan, checked lubrication"
+E3589,Communication Error,PLC Controller,2025-01-04,10:57:22,"Reset PLC, updated firmware"
+E3590,Overheating,Motor Section,2025-01-03,07:10:19,"Cooled fan, checked lubrication"
+E3591,Overload Detected,Motor Section,2025-01-05,05:26:40,Reduced machine load
+E3592,Alignment Issue,Conveyor Belt Section A,2025-01-02,13:50:48,Re-aligned conveyor belt
+E3593,Overheating,Motor Section,2025-01-05,19:46:05,"Cooled fan, checked lubrication"
+E3594,Communication Error,PLC Controller,2025-01-05,01:52:22,"Reset PLC, updated firmware"
+E3595,Jammed Component,Conveyor Belt Section C,2025-01-04,21:18:36,Cleared obstruction
+E3596,High Temperature,Cooling System,2025-01-01,16:23:39,Refilled coolant
+E3597,Overheating,Motor Section,2025-01-01,10:50:31,"Cooled fan, checked lubrication"
+E3598,Alignment Issue,Conveyor Belt Section A,2025-01-02,08:18:09,Re-aligned conveyor belt
+E3599,Alignment Issue,Conveyor Belt Section A,2025-01-03,21:10:54,Re-aligned conveyor belt
+E3600,Oil Leakage,Gear Box,2025-01-05,03:54:22,Replaced oil seal
+E3601,Overload Detected,Motor Section,2025-01-05,19:35:03,Reduced machine load
+E3602,Oil Leakage,Gear Box,2025-01-03,09:51:51,Replaced oil seal
+E3603,Communication Error,PLC Controller,2025-01-02,04:36:40,"Reset PLC, updated firmware"
+E3604,Overload Detected,Motor Section,2025-01-03,03:28:31,Reduced machine load
+E3605,Communication Error,PLC Controller,2025-01-04,19:29:42,"Reset PLC, updated firmware"
+E3606,Overload Detected,Motor Section,2025-01-01,09:45:31,Reduced machine load
+E3607,Overload Detected,Motor Section,2025-01-03,11:41:10,Reduced machine load
+E3608,Voltage Fluctuation,Control Panel,2025-01-02,04:59:05,Stabilized power input
+E3609,Overload Detected,Motor Section,2025-01-05,08:23:10,Reduced machine load
+E3610,Communication Error,PLC Controller,2025-01-05,18:33:14,"Reset PLC, updated firmware"
+E3611,Communication Error,PLC Controller,2025-01-05,05:41:42,"Reset PLC, updated firmware"
+E3612,Overload Detected,Motor Section,2025-01-04,21:32:55,Reduced machine load
+E3613,Low Pressure,Hydraulic Pump,2025-01-03,16:29:59,Adjusted pressure valve
+E3614,Jammed Component,Conveyor Belt Section C,2025-01-05,00:44:15,Cleared obstruction
+E3615,Communication Error,PLC Controller,2025-01-03,01:44:15,"Reset PLC, updated firmware"
+E3616,Alignment Issue,Conveyor Belt Section A,2025-01-05,05:50:14,Re-aligned conveyor belt
+E3617,Voltage Fluctuation,Control Panel,2025-01-05,05:12:30,Stabilized power input
+E3618,Communication Error,PLC Controller,2025-01-03,04:51:46,"Reset PLC, updated firmware"
+E3619,Communication Error,PLC Controller,2025-01-04,08:57:14,"Reset PLC, updated firmware"
+E3620,Voltage Fluctuation,Control Panel,2025-01-03,06:12:10,Stabilized power input
+E3621,Oil Leakage,Gear Box,2025-01-05,11:14:07,Replaced oil seal
+E3622,Communication Error,PLC Controller,2025-01-02,18:26:12,"Reset PLC, updated firmware"
+E3623,Alignment Issue,Conveyor Belt Section A,2025-01-02,05:17:23,Re-aligned conveyor belt
+E3624,Communication Error,PLC Controller,2025-01-05,05:42:29,"Reset PLC, updated firmware"
+E3625,Overload Detected,Motor Section,2025-01-02,02:53:28,Reduced machine load
+E3626,Oil Leakage,Gear Box,2025-01-05,12:30:26,Replaced oil seal
+E3627,Oil Leakage,Gear Box,2025-01-01,15:37:37,Replaced oil seal
+E3628,Jammed Component,Conveyor Belt Section C,2025-01-03,14:46:34,Cleared obstruction
+E3629,Oil Leakage,Gear Box,2025-01-01,19:28:56,Replaced oil seal
+E3630,Jammed Component,Conveyor Belt Section C,2025-01-01,13:43:56,Cleared obstruction
+E3631,Sensor Failure,Temperature Sensor T1,2025-01-03,12:46:20,Replaced faulty sensor
+E3632,Low Pressure,Hydraulic Pump,2025-01-03,04:34:05,Adjusted pressure valve
+E3633,Oil Leakage,Gear Box,2025-01-02,17:05:05,Replaced oil seal
+E3634,Overheating,Motor Section,2025-01-02,11:53:56,"Cooled fan, checked lubrication"
+E3635,Oil Leakage,Gear Box,2025-01-04,04:29:36,Replaced oil seal
+E3636,Oil Leakage,Gear Box,2025-01-05,01:20:13,Replaced oil seal
+E3637,Jammed Component,Conveyor Belt Section C,2025-01-05,17:16:38,Cleared obstruction
+E3638,High Temperature,Cooling System,2025-01-04,23:36:49,Refilled coolant
+E3639,Low Pressure,Hydraulic Pump,2025-01-03,07:25:49,Adjusted pressure valve
+E3640,Alignment Issue,Conveyor Belt Section A,2025-01-05,08:55:25,Re-aligned conveyor belt
+E3641,High Temperature,Cooling System,2025-01-03,00:28:19,Refilled coolant
+E3642,Voltage Fluctuation,Control Panel,2025-01-01,14:04:12,Stabilized power input
+E3643,Oil Leakage,Gear Box,2025-01-03,00:40:22,Replaced oil seal
+E3644,Alignment Issue,Conveyor Belt Section A,2025-01-03,05:42:15,Re-aligned conveyor belt
+E3645,Oil Leakage,Gear Box,2025-01-04,00:45:48,Replaced oil seal
+E3646,Low Pressure,Hydraulic Pump,2025-01-05,05:24:44,Adjusted pressure valve
+E3647,Oil Leakage,Gear Box,2025-01-04,15:54:48,Replaced oil seal
+E3648,Overheating,Motor Section,2025-01-05,12:29:07,"Cooled fan, checked lubrication"
+E3649,Overheating,Motor Section,2025-01-01,21:12:48,"Cooled fan, checked lubrication"
+E3650,Oil Leakage,Gear Box,2025-01-02,15:21:37,Replaced oil seal
+E3651,Communication Error,PLC Controller,2025-01-03,07:44:31,"Reset PLC, updated firmware"
+E3652,High Temperature,Cooling System,2025-01-02,02:38:46,Refilled coolant
+E3653,High Temperature,Cooling System,2025-01-01,14:41:40,Refilled coolant
+E3654,Alignment Issue,Conveyor Belt Section A,2025-01-01,21:02:46,Re-aligned conveyor belt
+E3655,Overheating,Motor Section,2025-01-04,01:50:47,"Cooled fan, checked lubrication"
+E3656,Voltage Fluctuation,Control Panel,2025-01-04,23:40:56,Stabilized power input
+E3657,Overload Detected,Motor Section,2025-01-03,10:19:04,Reduced machine load
+E3658,Voltage Fluctuation,Control Panel,2025-01-01,10:03:35,Stabilized power input
+E3659,Alignment Issue,Conveyor Belt Section A,2025-01-03,01:09:42,Re-aligned conveyor belt
+E3660,Communication Error,PLC Controller,2025-01-03,09:32:28,"Reset PLC, updated firmware"
+E3661,Alignment Issue,Conveyor Belt Section A,2025-01-02,13:45:47,Re-aligned conveyor belt
+E3662,Sensor Failure,Temperature Sensor T1,2025-01-04,15:21:27,Replaced faulty sensor
+E3663,High Temperature,Cooling System,2025-01-01,18:59:35,Refilled coolant
+E3664,Overload Detected,Motor Section,2025-01-01,08:50:57,Reduced machine load
+E3665,Overheating,Motor Section,2025-01-03,10:12:42,"Cooled fan, checked lubrication"
+E3666,Communication Error,PLC Controller,2025-01-02,14:03:28,"Reset PLC, updated firmware"
+E3667,Overload Detected,Motor Section,2025-01-04,23:01:53,Reduced machine load
+E3668,Sensor Failure,Temperature Sensor T1,2025-01-05,21:07:25,Replaced faulty sensor
+E3669,Low Pressure,Hydraulic Pump,2025-01-05,08:41:09,Adjusted pressure valve
+E3670,Jammed Component,Conveyor Belt Section C,2025-01-04,05:17:13,Cleared obstruction
+E3671,Voltage Fluctuation,Control Panel,2025-01-02,19:38:35,Stabilized power input
+E3672,Sensor Failure,Temperature Sensor T1,2025-01-01,12:44:15,Replaced faulty sensor
+E3673,Oil Leakage,Gear Box,2025-01-03,14:12:49,Replaced oil seal
+E3674,Communication Error,PLC Controller,2025-01-04,03:17:27,"Reset PLC, updated firmware"
+E3675,Sensor Failure,Temperature Sensor T1,2025-01-02,22:14:26,Replaced faulty sensor
+E3676,High Temperature,Cooling System,2025-01-03,16:42:13,Refilled coolant
+E3677,Jammed Component,Conveyor Belt Section C,2025-01-05,06:31:37,Cleared obstruction
+E3678,Overload Detected,Motor Section,2025-01-03,12:50:29,Reduced machine load
+E3679,Alignment Issue,Conveyor Belt Section A,2025-01-01,17:37:18,Re-aligned conveyor belt
+E3680,Sensor Failure,Temperature Sensor T1,2025-01-05,05:09:40,Replaced faulty sensor
+E3681,Overheating,Motor Section,2025-01-03,23:59:59,"Cooled fan, checked lubrication"
+E3682,Communication Error,PLC Controller,2025-01-05,19:28:04,"Reset PLC, updated firmware"
+E3683,Sensor Failure,Temperature Sensor T1,2025-01-04,17:31:49,Replaced faulty sensor
+E3684,Jammed Component,Conveyor Belt Section C,2025-01-03,21:01:16,Cleared obstruction
+E3685,Oil Leakage,Gear Box,2025-01-03,05:20:54,Replaced oil seal
+E3686,Overheating,Motor Section,2025-01-02,11:07:56,"Cooled fan, checked lubrication"
+E3687,Low Pressure,Hydraulic Pump,2025-01-03,04:49:36,Adjusted pressure valve
+E3688,Alignment Issue,Conveyor Belt Section A,2025-01-05,13:16:00,Re-aligned conveyor belt
+E3689,Communication Error,PLC Controller,2025-01-03,18:24:50,"Reset PLC, updated firmware"
+E3690,Alignment Issue,Conveyor Belt Section A,2025-01-05,00:52:28,Re-aligned conveyor belt
+E3691,Low Pressure,Hydraulic Pump,2025-01-03,14:30:47,Adjusted pressure valve
+E3692,Alignment Issue,Conveyor Belt Section A,2025-01-05,07:19:34,Re-aligned conveyor belt
+E3693,Jammed Component,Conveyor Belt Section C,2025-01-03,08:59:03,Cleared obstruction
+E3694,Low Pressure,Hydraulic Pump,2025-01-03,13:43:44,Adjusted pressure valve
+E3695,Oil Leakage,Gear Box,2025-01-03,01:09:02,Replaced oil seal
+E3696,Alignment Issue,Conveyor Belt Section A,2025-01-05,16:02:45,Re-aligned conveyor belt
+E3697,High Temperature,Cooling System,2025-01-04,15:34:57,Refilled coolant
+E3698,Low Pressure,Hydraulic Pump,2025-01-03,18:10:21,Adjusted pressure valve
+E3699,Sensor Failure,Temperature Sensor T1,2025-01-02,13:37:50,Replaced faulty sensor
+E3700,Sensor Failure,Temperature Sensor T1,2025-01-05,22:06:14,Replaced faulty sensor
+E3701,Jammed Component,Conveyor Belt Section C,2025-01-03,21:19:14,Cleared obstruction
+E3702,Alignment Issue,Conveyor Belt Section A,2025-01-03,17:51:25,Re-aligned conveyor belt
+E3703,Overload Detected,Motor Section,2025-01-03,00:54:16,Reduced machine load
+E3704,Alignment Issue,Conveyor Belt Section A,2025-01-01,17:45:58,Re-aligned conveyor belt
+E3705,Oil Leakage,Gear Box,2025-01-05,09:03:50,Replaced oil seal
+E3706,Voltage Fluctuation,Control Panel,2025-01-04,16:41:47,Stabilized power input
+E3707,Overheating,Motor Section,2025-01-03,02:21:09,"Cooled fan, checked lubrication"
+E3708,Sensor Failure,Temperature Sensor T1,2025-01-01,08:12:32,Replaced faulty sensor
+E3709,Overload Detected,Motor Section,2025-01-03,18:31:14,Reduced machine load
+E3710,Alignment Issue,Conveyor Belt Section A,2025-01-01,08:24:55,Re-aligned conveyor belt
+E3711,High Temperature,Cooling System,2025-01-02,12:08:42,Refilled coolant
+E3712,Voltage Fluctuation,Control Panel,2025-01-02,00:07:33,Stabilized power input
+E3713,Oil Leakage,Gear Box,2025-01-04,11:03:56,Replaced oil seal
+E3714,Sensor Failure,Temperature Sensor T1,2025-01-05,22:40:25,Replaced faulty sensor
+E3715,Overheating,Motor Section,2025-01-04,04:19:27,"Cooled fan, checked lubrication"
+E3716,Communication Error,PLC Controller,2025-01-05,16:07:20,"Reset PLC, updated firmware"
+E3717,Alignment Issue,Conveyor Belt Section A,2025-01-04,06:02:56,Re-aligned conveyor belt
+E3718,Alignment Issue,Conveyor Belt Section A,2025-01-02,23:25:22,Re-aligned conveyor belt
+E3719,Overheating,Motor Section,2025-01-01,19:50:14,"Cooled fan, checked lubrication"
+E3720,Overheating,Motor Section,2025-01-02,09:39:44,"Cooled fan, checked lubrication"
+E3721,Voltage Fluctuation,Control Panel,2025-01-03,14:46:54,Stabilized power input
+E3722,Oil Leakage,Gear Box,2025-01-01,22:15:20,Replaced oil seal
+E3723,Voltage Fluctuation,Control Panel,2025-01-03,14:00:10,Stabilized power input
+E3724,Voltage Fluctuation,Control Panel,2025-01-03,10:26:59,Stabilized power input
+E3725,High Temperature,Cooling System,2025-01-04,17:08:07,Refilled coolant
+E3726,High Temperature,Cooling System,2025-01-05,03:10:29,Refilled coolant
+E3727,Overheating,Motor Section,2025-01-03,03:32:33,"Cooled fan, checked lubrication"
+E3728,Alignment Issue,Conveyor Belt Section A,2025-01-05,05:15:27,Re-aligned conveyor belt
+E3729,Overload Detected,Motor Section,2025-01-02,00:27:39,Reduced machine load
+E3730,Overheating,Motor Section,2025-01-04,20:03:45,"Cooled fan, checked lubrication"
+E3731,High Temperature,Cooling System,2025-01-05,21:59:06,Refilled coolant
+E3732,Alignment Issue,Conveyor Belt Section A,2025-01-03,13:25:56,Re-aligned conveyor belt
+E3733,Communication Error,PLC Controller,2025-01-01,16:05:18,"Reset PLC, updated firmware"
+E3734,Low Pressure,Hydraulic Pump,2025-01-05,03:03:39,Adjusted pressure valve
+E3735,Overload Detected,Motor Section,2025-01-03,18:28:41,Reduced machine load
+E3736,Alignment Issue,Conveyor Belt Section A,2025-01-04,18:52:39,Re-aligned conveyor belt
+E3737,Overheating,Motor Section,2025-01-02,13:39:15,"Cooled fan, checked lubrication"
+E3738,Communication Error,PLC Controller,2025-01-02,15:23:32,"Reset PLC, updated firmware"
+E3739,Voltage Fluctuation,Control Panel,2025-01-04,23:52:08,Stabilized power input
+E3740,Overheating,Motor Section,2025-01-03,16:35:43,"Cooled fan, checked lubrication"
+E3741,Alignment Issue,Conveyor Belt Section A,2025-01-02,19:14:20,Re-aligned conveyor belt
+E3742,Alignment Issue,Conveyor Belt Section A,2025-01-03,10:31:40,Re-aligned conveyor belt
+E3743,Overheating,Motor Section,2025-01-04,09:00:37,"Cooled fan, checked lubrication"
+E3744,Overload Detected,Motor Section,2025-01-03,02:28:13,Reduced machine load
+E3745,Overheating,Motor Section,2025-01-05,13:15:57,"Cooled fan, checked lubrication"
+E3746,Overheating,Motor Section,2025-01-01,08:20:24,"Cooled fan, checked lubrication"
+E3747,Low Pressure,Hydraulic Pump,2025-01-02,16:00:59,Adjusted pressure valve
+E3748,Oil Leakage,Gear Box,2025-01-02,23:26:54,Replaced oil seal
+E3749,Overload Detected,Motor Section,2025-01-02,16:25:33,Reduced machine load
+E3750,Sensor Failure,Temperature Sensor T1,2025-01-01,10:53:12,Replaced faulty sensor
+E3751,Voltage Fluctuation,Control Panel,2025-01-03,04:25:16,Stabilized power input
+E3752,Sensor Failure,Temperature Sensor T1,2025-01-05,20:53:53,Replaced faulty sensor
+E3753,Low Pressure,Hydraulic Pump,2025-01-02,10:30:50,Adjusted pressure valve
+E3754,High Temperature,Cooling System,2025-01-01,18:19:55,Refilled coolant
+E3755,Alignment Issue,Conveyor Belt Section A,2025-01-03,17:37:53,Re-aligned conveyor belt
+E3756,Alignment Issue,Conveyor Belt Section A,2025-01-05,15:05:22,Re-aligned conveyor belt
+E3757,Communication Error,PLC Controller,2025-01-01,11:20:27,"Reset PLC, updated firmware"
+E3758,High Temperature,Cooling System,2025-01-05,04:54:25,Refilled coolant
+E3759,Overload Detected,Motor Section,2025-01-05,12:27:04,Reduced machine load
+E3760,Alignment Issue,Conveyor Belt Section A,2025-01-04,19:30:40,Re-aligned conveyor belt
+E3761,Voltage Fluctuation,Control Panel,2025-01-05,06:50:32,Stabilized power input
+E3762,Communication Error,PLC Controller,2025-01-05,19:37:24,"Reset PLC, updated firmware"
+E3763,Overheating,Motor Section,2025-01-01,14:28:52,"Cooled fan, checked lubrication"
+E3764,Overload Detected,Motor Section,2025-01-03,17:33:05,Reduced machine load
+E3765,Low Pressure,Hydraulic Pump,2025-01-05,04:21:51,Adjusted pressure valve
+E3766,Sensor Failure,Temperature Sensor T1,2025-01-01,22:18:41,Replaced faulty sensor
+E3767,High Temperature,Cooling System,2025-01-05,06:51:47,Refilled coolant
+E3768,Sensor Failure,Temperature Sensor T1,2025-01-02,14:46:48,Replaced faulty sensor
+E3769,Low Pressure,Hydraulic Pump,2025-01-02,09:42:41,Adjusted pressure valve
+E3770,Sensor Failure,Temperature Sensor T1,2025-01-05,22:11:44,Replaced faulty sensor
+E3771,Jammed Component,Conveyor Belt Section C,2025-01-03,04:19:25,Cleared obstruction
+E3772,Overload Detected,Motor Section,2025-01-03,05:46:22,Reduced machine load
+E3773,Overheating,Motor Section,2025-01-02,17:47:28,"Cooled fan, checked lubrication"
+E3774,Sensor Failure,Temperature Sensor T1,2025-01-05,22:05:22,Replaced faulty sensor
+E3775,Low Pressure,Hydraulic Pump,2025-01-05,18:17:01,Adjusted pressure valve
+E3776,Jammed Component,Conveyor Belt Section C,2025-01-03,16:35:52,Cleared obstruction
+E3777,Communication Error,PLC Controller,2025-01-03,04:21:23,"Reset PLC, updated firmware"
+E3778,Alignment Issue,Conveyor Belt Section A,2025-01-05,09:21:16,Re-aligned conveyor belt
+E3779,Low Pressure,Hydraulic Pump,2025-01-04,00:07:34,Adjusted pressure valve
+E3780,Low Pressure,Hydraulic Pump,2025-01-02,14:29:09,Adjusted pressure valve
+E3781,Oil Leakage,Gear Box,2025-01-03,04:12:47,Replaced oil seal
+E3782,Overload Detected,Motor Section,2025-01-02,09:53:50,Reduced machine load
+E3783,Sensor Failure,Temperature Sensor T1,2025-01-03,19:14:55,Replaced faulty sensor
+E3784,Communication Error,PLC Controller,2025-01-01,19:57:07,"Reset PLC, updated firmware"
+E3785,Jammed Component,Conveyor Belt Section C,2025-01-02,07:58:04,Cleared obstruction
+E3786,Sensor Failure,Temperature Sensor T1,2025-01-05,09:33:44,Replaced faulty sensor
+E3787,Jammed Component,Conveyor Belt Section C,2025-01-05,11:51:35,Cleared obstruction
+E3788,Communication Error,PLC Controller,2025-01-03,20:04:31,"Reset PLC, updated firmware"
+E3789,Alignment Issue,Conveyor Belt Section A,2025-01-02,22:15:20,Re-aligned conveyor belt
+E3790,Sensor Failure,Temperature Sensor T1,2025-01-05,09:26:03,Replaced faulty sensor
+E3791,High Temperature,Cooling System,2025-01-04,12:34:47,Refilled coolant
+E3792,Sensor Failure,Temperature Sensor T1,2025-01-03,05:15:01,Replaced faulty sensor
+E3793,Sensor Failure,Temperature Sensor T1,2025-01-03,22:48:14,Replaced faulty sensor
+E3794,Jammed Component,Conveyor Belt Section C,2025-01-03,00:33:02,Cleared obstruction
+E3795,Sensor Failure,Temperature Sensor T1,2025-01-02,15:39:03,Replaced faulty sensor
+E3796,Overload Detected,Motor Section,2025-01-03,12:19:45,Reduced machine load
+E3797,Alignment Issue,Conveyor Belt Section A,2025-01-05,22:58:23,Re-aligned conveyor belt
+E3798,Jammed Component,Conveyor Belt Section C,2025-01-04,09:17:03,Cleared obstruction
+E3799,High Temperature,Cooling System,2025-01-05,12:44:58,Refilled coolant
+E3800,Overload Detected,Motor Section,2025-01-04,06:34:18,Reduced machine load
+E3801,Jammed Component,Conveyor Belt Section C,2025-01-04,22:29:54,Cleared obstruction
+E3802,Jammed Component,Conveyor Belt Section C,2025-01-02,13:42:04,Cleared obstruction
+E3803,Overload Detected,Motor Section,2025-01-04,23:33:16,Reduced machine load
+E3804,Overload Detected,Motor Section,2025-01-04,03:04:56,Reduced machine load
+E3805,Overheating,Motor Section,2025-01-04,00:01:22,"Cooled fan, checked lubrication"
+E3806,Alignment Issue,Conveyor Belt Section A,2025-01-05,16:11:58,Re-aligned conveyor belt
+E3807,Alignment Issue,Conveyor Belt Section A,2025-01-03,15:40:43,Re-aligned conveyor belt
+E3808,Overload Detected,Motor Section,2025-01-02,02:32:06,Reduced machine load
+E3809,Sensor Failure,Temperature Sensor T1,2025-01-02,08:32:19,Replaced faulty sensor
+E3810,Overload Detected,Motor Section,2025-01-03,23:26:19,Reduced machine load
+E3811,Voltage Fluctuation,Control Panel,2025-01-01,20:26:28,Stabilized power input
+E3812,Overheating,Motor Section,2025-01-04,09:11:22,"Cooled fan, checked lubrication"
+E3813,Jammed Component,Conveyor Belt Section C,2025-01-03,01:36:28,Cleared obstruction
+E3814,Voltage Fluctuation,Control Panel,2025-01-05,19:07:55,Stabilized power input
+E3815,Sensor Failure,Temperature Sensor T1,2025-01-05,19:46:09,Replaced faulty sensor
+E3816,Voltage Fluctuation,Control Panel,2025-01-03,16:04:30,Stabilized power input
+E3817,Overload Detected,Motor Section,2025-01-04,07:51:40,Reduced machine load
+E3818,Overload Detected,Motor Section,2025-01-04,16:22:59,Reduced machine load
+E3819,Communication Error,PLC Controller,2025-01-02,12:43:18,"Reset PLC, updated firmware"
+E3820,Communication Error,PLC Controller,2025-01-03,12:53:03,"Reset PLC, updated firmware"
+E3821,Jammed Component,Conveyor Belt Section C,2025-01-03,07:25:34,Cleared obstruction
+E3822,Oil Leakage,Gear Box,2025-01-02,02:13:32,Replaced oil seal
+E3823,High Temperature,Cooling System,2025-01-04,19:20:45,Refilled coolant
+E3824,Jammed Component,Conveyor Belt Section C,2025-01-02,14:05:05,Cleared obstruction
+E3825,Sensor Failure,Temperature Sensor T1,2025-01-05,02:32:36,Replaced faulty sensor
+E3826,Low Pressure,Hydraulic Pump,2025-01-01,19:24:53,Adjusted pressure valve
+E3827,Oil Leakage,Gear Box,2025-01-02,22:40:58,Replaced oil seal
+E3828,Overload Detected,Motor Section,2025-01-02,01:06:35,Reduced machine load
+E3829,Communication Error,PLC Controller,2025-01-05,02:03:50,"Reset PLC, updated firmware"
+E3830,Alignment Issue,Conveyor Belt Section A,2025-01-05,02:08:12,Re-aligned conveyor belt
+E3831,Sensor Failure,Temperature Sensor T1,2025-01-04,11:20:22,Replaced faulty sensor
+E3832,Alignment Issue,Conveyor Belt Section A,2025-01-04,23:35:31,Re-aligned conveyor belt
+E3833,High Temperature,Cooling System,2025-01-05,08:50:56,Refilled coolant
+E3834,Overheating,Motor Section,2025-01-05,11:05:12,"Cooled fan, checked lubrication"
+E3835,Jammed Component,Conveyor Belt Section C,2025-01-03,03:57:12,Cleared obstruction
+E3836,Oil Leakage,Gear Box,2025-01-03,15:48:31,Replaced oil seal
+E3837,Voltage Fluctuation,Control Panel,2025-01-04,12:24:19,Stabilized power input
+E3838,Low Pressure,Hydraulic Pump,2025-01-05,22:58:41,Adjusted pressure valve
+E3839,Communication Error,PLC Controller,2025-01-01,11:25:07,"Reset PLC, updated firmware"
+E3840,High Temperature,Cooling System,2025-01-05,01:05:25,Refilled coolant
+E3841,Overload Detected,Motor Section,2025-01-01,18:03:31,Reduced machine load
+E3842,Alignment Issue,Conveyor Belt Section A,2025-01-02,02:41:33,Re-aligned conveyor belt
+E3843,Oil Leakage,Gear Box,2025-01-03,21:32:38,Replaced oil seal
+E3844,Overheating,Motor Section,2025-01-03,00:43:45,"Cooled fan, checked lubrication"
+E3845,Sensor Failure,Temperature Sensor T1,2025-01-05,02:53:39,Replaced faulty sensor
+E3846,Jammed Component,Conveyor Belt Section C,2025-01-05,11:19:54,Cleared obstruction
+E3847,Communication Error,PLC Controller,2025-01-03,12:45:22,"Reset PLC, updated firmware"
+E3848,Jammed Component,Conveyor Belt Section C,2025-01-02,11:49:04,Cleared obstruction
+E3849,Jammed Component,Conveyor Belt Section C,2025-01-01,09:47:27,Cleared obstruction
+E3850,Jammed Component,Conveyor Belt Section C,2025-01-03,11:24:37,Cleared obstruction
+E3851,Overheating,Motor Section,2025-01-03,22:17:34,"Cooled fan, checked lubrication"
+E3852,Overheating,Motor Section,2025-01-03,11:16:55,"Cooled fan, checked lubrication"
+E3853,Jammed Component,Conveyor Belt Section C,2025-01-01,17:19:52,Cleared obstruction
+E3854,Oil Leakage,Gear Box,2025-01-01,17:13:16,Replaced oil seal
+E3855,Overheating,Motor Section,2025-01-04,06:15:20,"Cooled fan, checked lubrication"
+E3856,Overheating,Motor Section,2025-01-01,09:23:20,"Cooled fan, checked lubrication"
+E3857,Overload Detected,Motor Section,2025-01-04,17:21:01,Reduced machine load
+E3858,Sensor Failure,Temperature Sensor T1,2025-01-02,09:58:01,Replaced faulty sensor
+E3859,Alignment Issue,Conveyor Belt Section A,2025-01-04,18:28:27,Re-aligned conveyor belt
+E3860,Sensor Failure,Temperature Sensor T1,2025-01-03,07:43:38,Replaced faulty sensor
+E3861,Overheating,Motor Section,2025-01-01,15:57:29,"Cooled fan, checked lubrication"
+E3862,Oil Leakage,Gear Box,2025-01-02,22:08:30,Replaced oil seal
+E3863,Overheating,Motor Section,2025-01-02,13:52:42,"Cooled fan, checked lubrication"
+E3864,Sensor Failure,Temperature Sensor T1,2025-01-02,13:57:47,Replaced faulty sensor
+E3865,Sensor Failure,Temperature Sensor T1,2025-01-03,05:17:17,Replaced faulty sensor
+E3866,Oil Leakage,Gear Box,2025-01-03,07:50:30,Replaced oil seal
+E3867,Low Pressure,Hydraulic Pump,2025-01-03,01:53:02,Adjusted pressure valve
+E3868,Low Pressure,Hydraulic Pump,2025-01-02,16:29:16,Adjusted pressure valve
+E3869,Overload Detected,Motor Section,2025-01-03,17:57:57,Reduced machine load
+E3870,Overheating,Motor Section,2025-01-04,01:35:27,"Cooled fan, checked lubrication"
+E3871,Voltage Fluctuation,Control Panel,2025-01-02,04:06:13,Stabilized power input
+E3872,Sensor Failure,Temperature Sensor T1,2025-01-04,08:09:54,Replaced faulty sensor
+E3873,Alignment Issue,Conveyor Belt Section A,2025-01-04,22:43:20,Re-aligned conveyor belt
+E3874,Overload Detected,Motor Section,2025-01-03,14:29:48,Reduced machine load
+E3875,Jammed Component,Conveyor Belt Section C,2025-01-03,00:26:36,Cleared obstruction
+E3876,Oil Leakage,Gear Box,2025-01-01,17:24:35,Replaced oil seal
+E3877,Voltage Fluctuation,Control Panel,2025-01-05,17:07:52,Stabilized power input
+E3878,High Temperature,Cooling System,2025-01-02,01:49:56,Refilled coolant
+E3879,Alignment Issue,Conveyor Belt Section A,2025-01-02,21:13:40,Re-aligned conveyor belt
+E3880,Oil Leakage,Gear Box,2025-01-04,06:17:31,Replaced oil seal
+E3881,Jammed Component,Conveyor Belt Section C,2025-01-04,12:28:44,Cleared obstruction
+E3882,Low Pressure,Hydraulic Pump,2025-01-01,18:31:18,Adjusted pressure valve
+E3883,Overload Detected,Motor Section,2025-01-02,05:44:15,Reduced machine load
+E3884,Communication Error,PLC Controller,2025-01-04,22:47:00,"Reset PLC, updated firmware"
+E3885,Low Pressure,Hydraulic Pump,2025-01-05,17:44:33,Adjusted pressure valve
+E3886,Voltage Fluctuation,Control Panel,2025-01-02,06:42:58,Stabilized power input
+E3887,Sensor Failure,Temperature Sensor T1,2025-01-04,21:53:27,Replaced faulty sensor
+E3888,Jammed Component,Conveyor Belt Section C,2025-01-05,08:29:31,Cleared obstruction
+E3889,Jammed Component,Conveyor Belt Section C,2025-01-01,09:04:19,Cleared obstruction
+E3890,Alignment Issue,Conveyor Belt Section A,2025-01-02,19:52:18,Re-aligned conveyor belt
+E3891,Low Pressure,Hydraulic Pump,2025-01-03,08:33:30,Adjusted pressure valve
+E3892,Low Pressure,Hydraulic Pump,2025-01-03,08:25:56,Adjusted pressure valve
+E3893,Overload Detected,Motor Section,2025-01-04,14:28:07,Reduced machine load
+E3894,Overheating,Motor Section,2025-01-05,12:45:20,"Cooled fan, checked lubrication"
+E3895,High Temperature,Cooling System,2025-01-02,21:22:51,Refilled coolant
+E3896,Voltage Fluctuation,Control Panel,2025-01-04,20:23:09,Stabilized power input
+E3897,Voltage Fluctuation,Control Panel,2025-01-01,12:03:54,Stabilized power input
+E3898,Alignment Issue,Conveyor Belt Section A,2025-01-05,20:47:12,Re-aligned conveyor belt
+E3899,Overheating,Motor Section,2025-01-03,15:01:31,"Cooled fan, checked lubrication"
+E3900,Alignment Issue,Conveyor Belt Section A,2025-01-01,12:38:38,Re-aligned conveyor belt
+E3901,Overload Detected,Motor Section,2025-01-02,14:39:12,Reduced machine load
+E3902,Sensor Failure,Temperature Sensor T1,2025-01-04,00:47:54,Replaced faulty sensor
+E3903,Jammed Component,Conveyor Belt Section C,2025-01-05,12:56:56,Cleared obstruction
+E3904,Jammed Component,Conveyor Belt Section C,2025-01-03,14:53:35,Cleared obstruction
+E3905,Overload Detected,Motor Section,2025-01-05,17:59:30,Reduced machine load
+E3906,Voltage Fluctuation,Control Panel,2025-01-01,21:40:13,Stabilized power input
+E3907,Sensor Failure,Temperature Sensor T1,2025-01-03,21:23:21,Replaced faulty sensor
+E3908,Overload Detected,Motor Section,2025-01-04,22:08:30,Reduced machine load
+E3909,Jammed Component,Conveyor Belt Section C,2025-01-05,18:06:39,Cleared obstruction
+E3910,Sensor Failure,Temperature Sensor T1,2025-01-04,05:56:32,Replaced faulty sensor
+E3911,Overheating,Motor Section,2025-01-05,05:47:44,"Cooled fan, checked lubrication"
+E3912,Overload Detected,Motor Section,2025-01-05,02:12:44,Reduced machine load
+E3913,Overheating,Motor Section,2025-01-03,15:18:29,"Cooled fan, checked lubrication"
+E3914,Oil Leakage,Gear Box,2025-01-02,16:35:04,Replaced oil seal
+E3915,Alignment Issue,Conveyor Belt Section A,2025-01-02,08:47:10,Re-aligned conveyor belt
+E3916,Communication Error,PLC Controller,2025-01-04,12:35:08,"Reset PLC, updated firmware"
+E3917,Alignment Issue,Conveyor Belt Section A,2025-01-04,02:54:31,Re-aligned conveyor belt
+E3918,High Temperature,Cooling System,2025-01-05,15:14:31,Refilled coolant
+E3919,High Temperature,Cooling System,2025-01-05,14:40:35,Refilled coolant
+E3920,Communication Error,PLC Controller,2025-01-03,13:14:07,"Reset PLC, updated firmware"
+E3921,Overheating,Motor Section,2025-01-02,08:11:17,"Cooled fan, checked lubrication"
+E3922,Oil Leakage,Gear Box,2025-01-03,07:28:57,Replaced oil seal
+E3923,Overload Detected,Motor Section,2025-01-04,01:44:40,Reduced machine load
+E3924,Voltage Fluctuation,Control Panel,2025-01-04,01:10:12,Stabilized power input
+E3925,Oil Leakage,Gear Box,2025-01-02,11:31:31,Replaced oil seal
+E3926,Alignment Issue,Conveyor Belt Section A,2025-01-03,01:43:38,Re-aligned conveyor belt
+E3927,Communication Error,PLC Controller,2025-01-02,22:34:22,"Reset PLC, updated firmware"
+E3928,Communication Error,PLC Controller,2025-01-03,11:07:18,"Reset PLC, updated firmware"
+E3929,High Temperature,Cooling System,2025-01-01,11:17:11,Refilled coolant
+E3930,Jammed Component,Conveyor Belt Section C,2025-01-05,04:10:22,Cleared obstruction
+E3931,Oil Leakage,Gear Box,2025-01-05,17:59:35,Replaced oil seal
+E3932,High Temperature,Cooling System,2025-01-02,19:23:31,Refilled coolant
+E3933,Overload Detected,Motor Section,2025-01-03,05:26:12,Reduced machine load
+E3934,Communication Error,PLC Controller,2025-01-05,10:39:55,"Reset PLC, updated firmware"
+E3935,Oil Leakage,Gear Box,2025-01-01,20:35:08,Replaced oil seal
+E3936,Communication Error,PLC Controller,2025-01-02,13:02:23,"Reset PLC, updated firmware"
+E3937,High Temperature,Cooling System,2025-01-02,17:21:36,Refilled coolant
+E3938,Low Pressure,Hydraulic Pump,2025-01-02,09:08:33,Adjusted pressure valve
+E3939,Overload Detected,Motor Section,2025-01-03,16:39:37,Reduced machine load
+E3940,Sensor Failure,Temperature Sensor T1,2025-01-01,18:28:33,Replaced faulty sensor
+E3941,Sensor Failure,Temperature Sensor T1,2025-01-01,13:19:06,Replaced faulty sensor
+E3942,Overheating,Motor Section,2025-01-02,09:24:32,"Cooled fan, checked lubrication"
+E3943,Jammed Component,Conveyor Belt Section C,2025-01-03,04:58:01,Cleared obstruction
+E3944,Alignment Issue,Conveyor Belt Section A,2025-01-04,18:34:32,Re-aligned conveyor belt
+E3945,Sensor Failure,Temperature Sensor T1,2025-01-02,18:19:19,Replaced faulty sensor
+E3946,Sensor Failure,Temperature Sensor T1,2025-01-04,20:47:57,Replaced faulty sensor
+E3947,Jammed Component,Conveyor Belt Section C,2025-01-04,11:17:33,Cleared obstruction
+E3948,Oil Leakage,Gear Box,2025-01-03,18:49:49,Replaced oil seal
+E3949,Sensor Failure,Temperature Sensor T1,2025-01-02,20:07:26,Replaced faulty sensor
+E3950,Alignment Issue,Conveyor Belt Section A,2025-01-01,11:08:10,Re-aligned conveyor belt
+E3951,Overload Detected,Motor Section,2025-01-04,03:59:09,Reduced machine load
+E3952,Alignment Issue,Conveyor Belt Section A,2025-01-03,17:44:02,Re-aligned conveyor belt
+E3953,Low Pressure,Hydraulic Pump,2025-01-05,13:25:31,Adjusted pressure valve
+E3954,Overload Detected,Motor Section,2025-01-02,14:08:29,Reduced machine load
+E3955,Oil Leakage,Gear Box,2025-01-03,19:01:17,Replaced oil seal
+E3956,Sensor Failure,Temperature Sensor T1,2025-01-02,01:23:01,Replaced faulty sensor
+E3957,Sensor Failure,Temperature Sensor T1,2025-01-03,22:04:07,Replaced faulty sensor
+E3958,Alignment Issue,Conveyor Belt Section A,2025-01-02,02:28:29,Re-aligned conveyor belt
+E3959,Oil Leakage,Gear Box,2025-01-03,17:19:17,Replaced oil seal
+E3960,Alignment Issue,Conveyor Belt Section A,2025-01-04,13:40:03,Re-aligned conveyor belt
+E3961,Communication Error,PLC Controller,2025-01-03,17:01:57,"Reset PLC, updated firmware"
+E3962,Overload Detected,Motor Section,2025-01-04,16:24:45,Reduced machine load
+E3963,Overheating,Motor Section,2025-01-03,07:29:18,"Cooled fan, checked lubrication"
+E3964,Communication Error,PLC Controller,2025-01-02,19:43:58,"Reset PLC, updated firmware"
+E3965,Jammed Component,Conveyor Belt Section C,2025-01-04,01:04:54,Cleared obstruction
+E3966,High Temperature,Cooling System,2025-01-03,09:31:42,Refilled coolant
+E3967,Voltage Fluctuation,Control Panel,2025-01-04,22:25:41,Stabilized power input
+E3968,Sensor Failure,Temperature Sensor T1,2025-01-04,07:38:33,Replaced faulty sensor
+E3969,Alignment Issue,Conveyor Belt Section A,2025-01-04,05:07:51,Re-aligned conveyor belt
+E3970,Oil Leakage,Gear Box,2025-01-05,16:51:22,Replaced oil seal
+E3971,Communication Error,PLC Controller,2025-01-04,21:48:29,"Reset PLC, updated firmware"
+E3972,Oil Leakage,Gear Box,2025-01-04,00:42:58,Replaced oil seal
+E3973,Oil Leakage,Gear Box,2025-01-04,12:21:12,Replaced oil seal
+E3974,Sensor Failure,Temperature Sensor T1,2025-01-05,08:46:14,Replaced faulty sensor
+E3975,Oil Leakage,Gear Box,2025-01-02,10:35:19,Replaced oil seal
+E3976,High Temperature,Cooling System,2025-01-02,14:08:40,Refilled coolant
+E3977,High Temperature,Cooling System,2025-01-05,18:33:59,Refilled coolant
+E3978,Overheating,Motor Section,2025-01-02,00:25:00,"Cooled fan, checked lubrication"
+E3979,High Temperature,Cooling System,2025-01-02,19:13:13,Refilled coolant
+E3980,Communication Error,PLC Controller,2025-01-03,05:12:18,"Reset PLC, updated firmware"
+E3981,Low Pressure,Hydraulic Pump,2025-01-04,08:15:56,Adjusted pressure valve
+E3982,Voltage Fluctuation,Control Panel,2025-01-04,19:14:21,Stabilized power input
+E3983,Overheating,Motor Section,2025-01-03,19:49:35,"Cooled fan, checked lubrication"
+E3984,Alignment Issue,Conveyor Belt Section A,2025-01-05,07:05:17,Re-aligned conveyor belt
+E3985,Overload Detected,Motor Section,2025-01-05,03:15:02,Reduced machine load
+E3986,Sensor Failure,Temperature Sensor T1,2025-01-03,11:47:42,Replaced faulty sensor
+E3987,Sensor Failure,Temperature Sensor T1,2025-01-02,00:01:37,Replaced faulty sensor
+E3988,Jammed Component,Conveyor Belt Section C,2025-01-02,01:43:38,Cleared obstruction
+E3989,Sensor Failure,Temperature Sensor T1,2025-01-05,06:57:21,Replaced faulty sensor
+E3990,Overheating,Motor Section,2025-01-04,14:15:24,"Cooled fan, checked lubrication"
+E3991,Overload Detected,Motor Section,2025-01-01,23:00:19,Reduced machine load
+E3992,Overload Detected,Motor Section,2025-01-02,20:22:38,Reduced machine load
+E3993,Communication Error,PLC Controller,2025-01-05,01:53:13,"Reset PLC, updated firmware"
+E3994,Jammed Component,Conveyor Belt Section C,2025-01-05,00:55:51,Cleared obstruction
+E3995,Oil Leakage,Gear Box,2025-01-01,12:03:24,Replaced oil seal
+E3996,Jammed Component,Conveyor Belt Section C,2025-01-03,22:54:19,Cleared obstruction
+E3997,Communication Error,PLC Controller,2025-01-05,09:31:57,"Reset PLC, updated firmware"
+E3998,Sensor Failure,Temperature Sensor T1,2025-01-01,10:30:21,Replaced faulty sensor
+E3999,Overheating,Motor Section,2025-01-04,12:14:17,"Cooled fan, checked lubrication"
